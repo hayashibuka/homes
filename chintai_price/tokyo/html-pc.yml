@@ -1,0 +1,2869 @@
+- :name: 'html'
+  :attributes:
+    :lang: 'ja'
+    :xmlns:fb: 'http://www.facebook.com/2008/fbml'
+    :xmlns:mixi: 'http://mixi-platform.com/ns#'
+    :xmlns:og: 'http://ogp.me/ns#'
+  :children:
+    - :name: 'head'
+      :children:
+        - :name: 'meta'
+          :attributes:
+            :charset: 'utf-8'
+        - :name: 'meta'
+          :attributes:
+            :content: 'text/html; charset=utf-8'
+            :http-equiv: 'Content-Type'
+        - :name: 'meta'
+          :attributes:
+            :content: 'IE=edge'
+            :http-equiv: 'X-UA-Compatible'
+        - :name: 'meta'
+          :attributes:
+            :content: 'width=980'
+            :name: 'viewport'
+        - :name: 'title'
+        - :name: 'meta'
+          :attributes:
+            :content: '東京都 家賃,東京都 家賃相場,東京都,賃貸,賃貸マンション,アパート,賃貸一戸建て,部屋探し,HOME''S,ホームズ'
+            :name: 'keywords'
+        - :name: 'meta'
+          :attributes:
+            :content: '東京都の家賃を調べる・家賃相場なら【HOME''S/ホームズ】日本最大級の豊富な賃貸物件の賃料データから、東京都で目安となる平均家賃[賃貸マンション・賃貸アパート・賃貸一戸建て]を算出！東京都の家賃相場をお探しなら、賃貸情報が満載の不動産・住宅情報サイト【HOME''S/ホームズ】'
+            :name: 'description'
+        - :name: 'link'
+          :attributes:
+            :href: 'http://www.homes.co.jp/chintai/tokyo/price/'
+            :rel:
+              - canonical
+        - :name: 'link'
+          :attributes:
+            :href: '/minifile/search/assets/css/286470fe0d6546518577d2f0c184562b39453e0d.css?v=20160928154'
+            :rel:
+              - stylesheet
+            :type: 'text/css'
+        - :name: 'link'
+          :attributes:
+            :href: '/minifile/search/assets/css/b02e4db076af0663754f3aac7a62442a5aafdda2.css?v=20160928154'
+            :rel:
+              - stylesheet
+            :type: 'text/css'
+        - :name: 'link'
+          :attributes:
+            :href: '/minifile/search/assets/css/bde261411e6ebad469312f2772dea3cb4e3b8f9f.css?v=20160928154'
+            :media: 'print'
+            :rel:
+              - stylesheet
+            :type: 'text/css'
+        - :name: 'script'
+          :attributes:
+            :src: '/minifile/search/assets/js/7d14ace39c97d78ac3b8dfacfb10beaaaedae5e7.js?v=20160928154'
+            :type: 'text/javascript'
+        - :name: 'script'
+          :attributes:
+            :src: '/minifile/search/assets/js/16ffe141466d99a26434ee045afb3506eb41cd9b.js?v=20160928154'
+            :type: 'text/javascript'
+        - :name: 'link'
+          :attributes:
+            :href: 'http://www.homes.co.jp/smp/chintai/tokyo/price/'
+            :media: 'only screen and (max-width: 640px)'
+            :rel:
+              - alternate
+    - :name: 'body'
+      :children:
+        - :name: 'noscript'
+          :children:
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - mod-alertMsgBox
+              :children:
+                - :name: 'p'
+        - :name: 'div'
+          :attributes:
+            :class:
+              - sec-header
+            :id: 'header'
+          :children:
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - mod-header
+                  - 
+              :children:
+                - :name: 'h1'
+                  :attributes:
+                    :class:
+                      - heading
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - global
+                      - fixed
+                    :id: 'top'
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - homesBar
+                      :children:
+                        - :name: 'p'
+                          :attributes:
+                            :class:
+                              - logo
+                          :children:
+                            - :name: 'a'
+                              :attributes:
+                                :class:
+                                  - ga-logo1
+                                :href: 'http://www.homes.co.jp/'
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - message
+                          :children:
+                            - :name: 'span'
+                              :attributes:
+                                :class:
+                                  - copy
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - nav-function
+                          :children:
+                            - :name: 'ul'
+                              :attributes:
+                                :class:
+                                  - nav
+                              :children:
+                                - :name: 'li'
+                                  :attributes:
+                                    :class:
+                                      - call
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - active
+                                        :href: 'http://www.homes.co.jp/contents/callcenter/?nx_id=search_08_20111216001'
+                                        :target: '_blank'
+                                - :name: 'li'
+                                  :attributes:
+                                    :class:
+                                      - history
+                                    :data-personalization-count: '0'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - active
+                                          - ga-his1
+                                        :href: 'http://www.homes.co.jp/search/bukken-history/?nx_id=history_08_20140204001'
+                                - :name: 'li'
+                                  :attributes:
+                                    :class:
+                                      - favorite
+                                    :data-personalization-count: '0'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - active
+                                          - ga-fav1
+                                        :href: 'http://www.homes.co.jp/search/favorite/?nx_id=favorite_08_20140204001'
+                                - :name: 'li'
+                                  :attributes:
+                                    :class:
+                                      - condition
+                                      - search
+                                    :data-personalization-count: '1'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - active
+                                          - linkOn
+                                          - ga-con1
+                                        :href: 'http://www.homes.co.jp/search/condition-list/?nx_id=condition-list_08_20140204001'
+                                - :name: 'li'
+                                  :attributes:
+                                    :class:
+                                      - account
+                                  :children:
+                                    - :name: 'span'
+                                      :attributes:
+                                        :class:
+                                          - login
+                                      :children:
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - user
+                                        - :name: 'a'
+                                          :attributes:
+                                            :class:
+                                              - btn
+                                              - ga-login
+                                            :href: 'https://www.homes.co.jp/account/'
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - service
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - serviceIdentity
+                      :children:
+                        - :name: 'p'
+                          :attributes:
+                            :class:
+                              - logo
+                          :children:
+                            - :name: 'a'
+                              :attributes:
+                                :class:
+                                  - ga-logo2
+                                :href: 'http://www.homes.co.jp/'
+                              :children:
+                                - :name: 'img'
+                                  :attributes:
+                                    :alt: 'HOME''S'
+                                    :height: '68'
+                                    :src: '/search/assets/img/default/header/homes_logo_126x68.png'
+                                    :width: '126'
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - nav-category
+                          :children:
+                            - :name: 'dl'
+                              :attributes:
+                                :class:
+                                  - chintai
+                              :children:
+                                - :name: 'dt'
+                                - :name: 'dd'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - ga-chintai
+                                        :href: 'http://www.homes.co.jp/chintai/'
+                            - :name: 'dl'
+                              :attributes:
+                                :class:
+                                  - mansion
+                              :children:
+                                - :name: 'dt'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - ga-mansion
+                                        :href: 'http://www.homes.co.jp/mansion/'
+                                - :name: 'dd'
+                                  :attributes:
+                                    :class:
+                                      - shinchiku
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - ga-mansion_new
+                                        :href: 'http://www.homes.co.jp/mansion/shinchiku/'
+                                - :name: 'dd'
+                                  :attributes:
+                                    :class:
+                                      - chuko
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - ga-mansion_used
+                                        :href: 'http://www.homes.co.jp/mansion/chuko/'
+                            - :name: 'dl'
+                              :attributes:
+                                :class:
+                                  - kodate
+                              :children:
+                                - :name: 'dt'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - ga-kodate
+                                        :href: 'http://www.homes.co.jp/kodate/'
+                                - :name: 'dd'
+                                  :attributes:
+                                    :class:
+                                      - shinchiku
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - ga-kodate_new
+                                        :href: 'http://www.homes.co.jp/kodate/shinchiku/'
+                                - :name: 'dd'
+                                  :attributes:
+                                    :class:
+                                      - chuko
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - ga-kodate_used
+                                        :href: 'http://www.homes.co.jp/kodate/chuko/'
+                            - :name: 'dl'
+                              :attributes:
+                                :class:
+                                  - tochi
+                              :children:
+                                - :name: 'dd'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - ga-tochi
+                                        :href: 'http://www.homes.co.jp/tochi/'
+                            - :name: 'dl'
+                              :attributes:
+                                :class:
+                                  - iezukuri
+                              :children:
+                                - :name: 'dd'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - ga-iezukuri
+                                        :href: 'http://www.homes.co.jp/iezukuri/'
+                            - :name: 'dl'
+                              :attributes:
+                                :class:
+                                  - reform
+                              :children:
+                                - :name: 'dd'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - ga-reform
+                                        :href: 'http://www.homes.co.jp/reform/'
+                                        :target: '_blank'
+                            - :name: 'dl'
+                              :attributes:
+                                :class:
+                                  - sell
+                              :children:
+                                - :name: 'dd'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - ga-satei
+                                        :href: 'http://www.homes.co.jp/satei/'
+                            - :name: 'dl'
+                              :attributes:
+                                :class:
+                                  - hikkoshi
+                              :children:
+                                - :name: 'dd'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - ga-hikkoshi
+                                        :href: 'http://www.homes.co.jp/hikkoshi/'
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - personalIdentity
+                      :children:
+                        - :name: 'ul'
+                          :attributes:
+                            :class:
+                              - personalInfo
+                          :children:
+                            - :name: 'li'
+                              :attributes:
+                                :class:
+                                  - history
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - ga-his2
+                                    :href: 'http://www.homes.co.jp/search/bukken-history/?nx_id=history_08_20140204002'
+                                  :children:
+                                    - :name: 'span'
+                                      :attributes:
+                                        :class:
+                                          - text
+                                    - :name: 'span'
+                                      :attributes:
+                                        :class:
+                                          - countItem
+                                          - history_count
+                                      :children:
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - num
+                            - :name: 'li'
+                              :attributes:
+                                :class:
+                                  - favorite
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - ga-fav2
+                                    :href: 'http://www.homes.co.jp/search/favorite/?nx_id=favorite_08_20140204002'
+                                  :children:
+                                    - :name: 'span'
+                                      :attributes:
+                                        :class:
+                                          - text
+                                    - :name: 'span'
+                                      :attributes:
+                                        :class:
+                                          - countItem
+                                          - favorite_count
+                                      :children:
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - num
+                            - :name: 'li'
+                              :attributes:
+                                :class:
+                                  - condition
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - ga-con2
+                                    :href: 'http://www.homes.co.jp/search/condition-list/?nx_id=condition-list_08_20140204002'
+                                  :children:
+                                    - :name: 'span'
+                                      :attributes:
+                                        :class:
+                                          - text
+                                          - nocount
+                                      :children:
+                                        - :name: 'br'
+                                        - :name: 'br'
+                                    - :name: 'span'
+                                      :attributes:
+                                        :class:
+                                          - countItem
+                                          - condition_count
+                                      :children:
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - num
+                                              - prg-linkOn
+        - :name: 'div'
+          :attributes:
+            :id: 'contents'
+          :children:
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - sec-mainContents
+              :children:
+                - :name: 'p'
+                  :attributes:
+                    :class:
+                      - mod-breadcrumbs
+                    :itemscope: ''
+                    :itemtype: 'http://data-vocabulary.org/Breadcrumb'
+                  :children:
+                    - :name: 'a'
+                      :attributes:
+                        :href: 'http://www.homes.co.jp/'
+                        :itemprop: 'url'
+                      :children:
+                        - :name: 'span'
+                          :attributes:
+                            :itemprop: 'title'
+                    - :name: 'span'
+                      :attributes:
+                        :class:
+                          - arrow
+                    - :name: 'span'
+                      :attributes:
+                        :itemprop: 'child'
+                        :itemscope: ''
+                        :itemtype: 'http://data-vocabulary.org/Breadcrumb'
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'http://www.homes.co.jp/chintai/'
+                            :itemprop: 'url'
+                          :children:
+                            - :name: 'span'
+                              :attributes:
+                                :itemprop: 'title'
+                        - :name: 'span'
+                          :attributes:
+                            :class:
+                              - arrow
+                        - :name: 'span'
+                          :attributes:
+                            :itemprop: 'child'
+                            :itemscope: ''
+                            :itemtype: 'http://data-vocabulary.org/Breadcrumb'
+                          :children:
+                            - :name: 'a'
+                              :attributes:
+                                :href: 'http://www.homes.co.jp/chintai/price/'
+                                :itemprop: 'url'
+                              :children:
+                                - :name: 'span'
+                                  :attributes:
+                                    :itemprop: 'title'
+                            - :name: 'span'
+                              :attributes:
+                                :class:
+                                  - arrow
+                            - :name: 'span'
+                              :attributes:
+                                :class:
+                                  - here
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - mod-heading-priceFlow
+                      - ui-frame
+                      - ui-frame-orange-bar
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - heading
+                      :children:
+                        - :name: 'h2'
+                          :children:
+                            - :name: 'span'
+                              :attributes:
+                                :class:
+                                  - key
+                            - :name: 'span'
+                              :attributes:
+                                :class:
+                                  - follow
+                            - :name: 'span'
+                              :attributes:
+                                :class:
+                                  - key
+                            - :name: 'span'
+                              :attributes:
+                                :class:
+                                  - follow
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - sec-wrap
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-priceFlowSearchMenu
+                          - ui-frame
+                          - ui-frame-cacao-mesh
+                      :children:
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - wrap
+                          :children:
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - mainSearch
+                              :children:
+                                - :name: 'div'
+                                  :attributes:
+                                    :class:
+                                      - heading
+                                  :children:
+                                    - :name: 'div'
+                                      :attributes:
+                                        :class:
+                                          - leadTxt
+                                      :children:
+                                        - :name: 'h3'
+                                          :attributes:
+                                            :class:
+                                              - ttl
+                                        - :name: 'p'
+                                          :attributes:
+                                            :class:
+                                              - lead
+                                    - :name: 'span'
+                                      :attributes:
+                                        :class:
+                                          - icon
+                                - :name: 'ul'
+                                  :attributes:
+                                    :class:
+                                      - search
+                                  :children:
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - rosen
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :class:
+                                              - btn
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/line/price/'
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - area
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :class:
+                                              - btn
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/city/price/'
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-priceRanking
+                          - single
+                          - ui-frame
+                          - ui-frame-base
+                        :id: 'prg-single-ranking'
+                      :children:
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - hBorder
+                          :children:
+                            - :name: 'h3'
+                              :attributes:
+                                :class:
+                                  - heading
+                              :children:
+                                - :name: 'img'
+                                  :attributes:
+                                    :alt: 'シングル向けの人気駅・市区町村ランキング×家賃相場'
+                                    :height: '18'
+                                    :src: '/search/assets/img/default/page/price/flow/txt_price_ranking_single.png'
+                                    :width: '447'
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - ranking
+                          :children:
+                            - :name: 'p'
+                              :attributes:
+                                :class:
+                                  - leadText
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - station
+                              :children:
+                                - :name: 'p'
+                                  :attributes:
+                                    :class:
+                                      - text
+                                - :name: 'ol'
+                                  :children:
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - first
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/kichijoji_00763-st/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - second
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/ikebukuro_00488-st/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - third
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/ebisu_00577-st/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - fourth
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/nakameguro_05051-st/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - fifth
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/waseda_06472-st/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - area
+                              :children:
+                                - :name: 'p'
+                                  :attributes:
+                                    :class:
+                                      - text
+                                - :name: 'ol'
+                                  :children:
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - first
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/shinjuku-city/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - second
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/nakano-city/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - third
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/shibuya-city/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - fourth
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/chuo-city/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - fifth
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/minato-city/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-priceRanking
+                          - family
+                          - ui-frame
+                          - ui-frame-base
+                        :id: 'prg-family-ranking'
+                      :children:
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - hBorder
+                          :children:
+                            - :name: 'h3'
+                              :attributes:
+                                :class:
+                                  - heading
+                              :children:
+                                - :name: 'img'
+                                  :attributes:
+                                    :alt: 'ファミリー向けの人気駅・市区町村ランキング×家賃相場'
+                                    :height: '18'
+                                    :src: '/search/assets/img/default/page/price/flow/txt_price_ranking_family.png'
+                                    :width: '458'
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - ranking
+                          :children:
+                            - :name: 'p'
+                              :attributes:
+                                :class:
+                                  - leadText
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - station
+                              :children:
+                                - :name: 'p'
+                                  :attributes:
+                                    :class:
+                                      - text
+                                - :name: 'ol'
+                                  :children:
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - first
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/mitaka_00242-st/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - second
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/hikarigaoka_06443-st/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - third
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/kameari_01038-st/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - fourth
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/chitosekarasuyama_04935-st/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - fifth
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/rokucho_09934-st/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - area
+                              :children:
+                                - :name: 'p'
+                                  :attributes:
+                                    :class:
+                                      - text
+                                - :name: 'ol'
+                                  :children:
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - first
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/machida-city/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - second
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/katsushika-city/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - third
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/adachi-city/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - fourth
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/hachioji-city/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - fifth
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/nerima-city/price/'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - price
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - num
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-relatedLinkList
+                          - ui-frame
+                          - ui-frame-base
+                        :id: 'prg-area-link-list'
+                      :children:
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - hNoBorder
+                          :children:
+                            - :name: 'h2'
+                              :attributes:
+                                :class:
+                                  - heading
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - listBox
+                          :children:
+                            - :name: 'ul'
+                              :children:
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/23ku/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/chiyoda-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/chuo-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/minato-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/shinjuku-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/bunkyo-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/taito-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/sumida-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/koto-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/shinagawa-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/meguro-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/ota-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/setagaya-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/shibuya-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/nakano-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/suginami-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/toshima-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/kita-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/arakawa-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/itabashi-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/nerima-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/adachi-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/katsushika-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/edogawa-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/hachioji-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/tachikawa-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/musashino-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/mitaka-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/ome-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/fuchu-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/akishima-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/chofu-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/machida-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/koganei-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/kodaira-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/hino-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/higashimurayama-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/kokubunji-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/kunitachi-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/fussa-city/price/'
+                            - :name: 'p'
+                              :attributes:
+                                :class:
+                                  - more
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - close
+                                    :href: 'javascript:void(0);'
+                                  :children:
+                                    - :name: 'span'
+                                - :name: 'a'
+                                  :attributes:
+                                    :href: 'javascript:void(0);'
+                                    :style: 'display: none;'
+                                  :children:
+                                    - :name: 'span'
+                            - :name: 'ul'
+                              :children:
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/komae-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/higashiyamato-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/kiyose-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/higashikurume-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/musashimurayama-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/tama-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/inagi-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/hamura-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/akiruno-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/nishitokyo-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/nishitama_mizuho-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/nishitama_hinode-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/nishitama_hinohara-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/nishitama_okutama-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/13360-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/oshima-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/13362-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/niijima-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/kozushima-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/13380-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/miyake-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/mikurajima-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/13400-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/hachijo-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/aogashima-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/13420-city/price/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: 'http://www.homes.co.jp/chintai/tokyo/ogasawara-city/price/'
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-priceMenuLink
+                          - ui-frame
+                          - ui-frame-base
+                      :children:
+                        - :name: 'h3'
+                          :attributes:
+                            :class:
+                              - heading
+                        - :name: 'ul'
+                          :attributes:
+                            :class:
+                              - priceCateList
+                          :children:
+                            - :name: 'li'
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :href: '/mansion/chuko/tokyo/price/'
+                            - :name: 'li'
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :href: '/kodate/chuko/tokyo/price/'
+                            - :name: 'li'
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :href: '/kodate/shinchiku/tokyo/price/'
+                            - :name: 'li'
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :href: '/tochi/tokyo/price/'
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-pickup
+                      :children:
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - column2
+                          :children:
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - pickupList
+                              :children:
+                                - :name: 'h3'
+                                - :name: 'ul'
+                                  :children:
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/higashiikebukuro_06380-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/shinochanomizu_06368-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/sangenjiyaya_05092-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/setagayadaita_04993-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/nishifu_10063-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/yahiro_04907-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/numabe_05074-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/saginomiya_04829-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/shinkoganei_04864-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/okubo_00756-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/nishihachioji_00771-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/higashikoenji_06330-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/shimochiai_04823-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/tonerikoen_10023-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/takebashi_06352-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/kasumigaseki_06323-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/heiwajima_05141-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/mejirodai_04959-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/kumagawa_00830-st/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/higashiyamatoshi_04851-st/price/'
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - rCornerTL
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - rCornerTR
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - rCornerBL
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - rCornerBR
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - column2
+                          :children:
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - pickupList
+                              :children:
+                                - :name: 'h3'
+                                - :name: 'ul'
+                                  :children:
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/minato-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/shinjuku-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/taito-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/shinagawa-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/shibuya-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/musashino-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/mitaka-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/ome-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/chofu-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/machida-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/hino-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/higashimurayama-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/higashikurume-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/tama-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/akiruno-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/nishitama_hinohara-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/kozushima-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/hachijo-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/13420-city/price/'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chintai/tokyo/ogasawara-city/price/'
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - rCornerTL
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - rCornerTR
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - rCornerBL
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - rCornerBR
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-sateiBannerLp
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'http://www.homes.co.jp/satei/tokyo/?nx_id=yachin_02_20160122001'
+                            :target: '_blank'
+                          :children:
+                            - :name: 'img'
+                              :attributes:
+                                :alt: '不動産の売却をお考えなら 情報満載の不動産会社が全国700社以上。比較して選んで査定を依頼！'
+                                :height: '90'
+                                :src: '/search/assets/img/default/page/price/satei_banner_940x90.png'
+                                :width: '940'
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - mod-cxenseCA
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :id: 'insertAdSpaceBeforeThis_0000000162de2f4c'
+                        :style: 'display:none'
+                    - :name: 'script'
+                      :attributes:
+                        :type: 'text/javascript'
+                    - :name: 'script'
+                      :attributes:
+                        :type: 'text/javascript'
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - sec-extraContents
+              :children:
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - sectionInner
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-description
+                      :children:
+                        - :name: 'p'
+                          :attributes:
+                            :class:
+                              - logo
+                          :children:
+                            - :name: 'img'
+                              :attributes:
+                                :alt: 'HOME''S'
+                                :height: '59'
+                                :src: '/search/assets/img/default/module/extra_contents/description/homes_logo_obal_140x59.png'
+                                :width: '140'
+                        - :name: 'p'
+                          :attributes:
+                            :class:
+                              - description
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - sec-prefCategory
+                      :children:
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - sec-pref
+                          :children:
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - mod-prefLinks
+                              :children:
+                                - :name: 'dl'
+                                  :children:
+                                    - :name: 'dt'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/tohoku/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/hokkaido/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/hokkaido/sapporo/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/aomori/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/iwate/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/miyagi/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/miyagi/sendai/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/akita/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/yamagata/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/fukushima/'
+                                - :name: 'dl'
+                                  :children:
+                                    - :name: 'dt'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/kanto/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/tokyo/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/tokyo/23ku/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/kanagawa/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/kanagawa/yokohama/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/kanagawa/kawasaki/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/kanagawa/sagamihara/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/saitama/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/saitama/saitama/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chiba/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chiba/chiba/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/ibaraki/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/tochigi/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/gunma/'
+                                - :name: 'dl'
+                                  :children:
+                                    - :name: 'dt'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/hokuriku/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/niigata/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/niigata/niigata/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/toyama/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/ishikawa/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/fukui/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/yamanashi/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/nagano/'
+                                - :name: 'dl'
+                                  :children:
+                                    - :name: 'dt'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/tokai/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/aichi/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/aichi/nagoya/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/gifu/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/shizuoka/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/shizuoka/shizuoka/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/shizuoka/hamamatsu/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/mie/'
+                                - :name: 'dl'
+                                  :children:
+                                    - :name: 'dt'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/kinki/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/osaka/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/osaka/sakai/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/osaka/osaka/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/hyogo/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/hyogo/kobe/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/kyoto/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/kyoto/kyoto/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/shiga/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/nara/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/wakayama/'
+                                - :name: 'dl'
+                                  :children:
+                                    - :name: 'dt'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/chugoku/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/tottori/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/shimane/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/okayama/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/okayama/okayama/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/hiroshima/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/hiroshima/hiroshima/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/yamaguchi/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/tokushima/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/kagawa/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/ehime/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/kochi/'
+                                - :name: 'dl'
+                                  :children:
+                                    - :name: 'dt'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/kyushu/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/fukuoka/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/fukuoka/fukuoka/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/fukuoka/kitakyushu/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/saga/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/nagasaki/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/kumamoto/'
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/kumamoto/kumamoto/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/oita/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/miyazaki/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/kagoshima/'
+                                    - :name: 'dd'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/okinawa/'
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - rCornerTL
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - rCornerTR
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - rCornerBL
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - rCornerBR
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - sec-category
+                          :children:
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - mod-categoryLinks
+                              :children:
+                                - :name: 'div'
+                                  :attributes:
+                                    :class:
+                                      - category
+                                      - service
+                                  :children:
+                                    - :name: 'dl'
+                                      :children:
+                                        - :name: 'dt'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/mansion/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/kodate/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/iezukuri/'
+                                                :target: '_blank'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/reform/'
+                                                :target: '_blank'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/renovation/'
+                                                :target: '_blank'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/satei/tokyo/'
+                                                :target: '_blank'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/satei/mansion/tokyo/'
+                                                :target: '_blank'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/satei/kodate/tokyo/'
+                                                :target: '_blank'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://toushi.homes.co.jp/'
+                                                :target: '_blank'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://kaigo.homes.co.jp/'
+                                                :target: '_blank'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/stylemarket/shop/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/trunkroom/tokyo/'
+                                                :id: 'footerLinkToTrunkroom'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://hoken.homes.co.jp/'
+                                                :target: '_blank'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/hikkoshi/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/contents/callcenter/?nx_id=search_08_20111216001'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/search/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/words/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/loan/simulation/borrowing/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/chintai/tokyo/price/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/price-map/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/archive/'
+                                - :name: 'div'
+                                  :attributes:
+                                    :class:
+                                      - category
+                                      - bukkenType
+                                  :children:
+                                    - :name: 'dl'
+                                      :children:
+                                        - :name: 'dt'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/chintai/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/chintai/mansion/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/chintai/apartment/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/chintai/kodate/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/kodate/chuko/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/tochi/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/chintai/tochi/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/chintai/parking/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/chintai/tempo/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/tempo/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/chintai/office/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/office/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/chintai/soko/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/soko/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/chintai/other/tokyo/'
+                                        - :name: 'dd'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/other/tokyo/'
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - rCornerTL
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - rCornerTR
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - rCornerBL
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - rCornerBR
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-popularKeywordLinks
+                      :children:
+                        - :name: 'h3'
+                          :attributes:
+                            :class:
+                              - heading
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - listBox
+                          :children:
+                            - :name: 'ul'
+                              :children:
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/setagaya-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/minato-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/adachi-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/chiyoda-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/ota-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/meguro-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/bunkyo-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/koto-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/shinagawa-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/shibuya-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/itabashi-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/nerima-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/nakano-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/sumida-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/taito-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/shinjuku-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/chuo-city/list/'
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :href: '/chintai/tokyo/suginami-city/list/'
+        - :name: 'div'
+          :attributes:
+            :id: 'footer'
+          :children:
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - pageTop
+              :children:
+                - :name: 'p'
+                  :children:
+                    - :name: 'a'
+                      :attributes:
+                        :href: '#header'
+                      :children:
+                        - :name: 'img'
+                          :attributes:
+                            :alt: 'ページトップへ'
+                            :height: '46'
+                            :src: '/search/assets/img/default/common/btn/page_top.png'
+                            :width: '61'
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - nav-utility
+              :children:
+                - :name: 'ul'
+                  :children:
+                    - :name: 'li'
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'http://www.homes.co.jp/contents/abouthomes/'
+                    - :name: 'li'
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'http://www.homes.co.jp/contents/sitemap/'
+                    - :name: 'li'
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'https://f.msgs.jp/webapp/form/13722_uhu_14/index.do'
+                    - :name: 'li'
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'https://f.msgs.jp/webapp/wish/org/showEnquete.do?enqueteid=1&clientid=13723&databaseid=vhu'
+                    - :name: 'li'
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'http://www.homes.co.jp/contents/kiyaku/'
+                    - :name: 'li'
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'http://www.homes.co.jp/contents/disclaimer/'
+                    - :name: 'li'
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'http://www.next-group.jp/privacy/'
+                - :name: 'ul'
+                  :children:
+                    - :name: 'li'
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'http://www.homes.co.jp/businesspartner/'
+                    - :name: 'li'
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'http://recruit.next-group.jp/'
+                    - :name: 'li'
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'http://www.next-group.jp/'
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - companyIdentity
+              :children:
+                - :name: 'p'
+                  :attributes:
+                    :class:
+                      - logo
+                  :children:
+                    - :name: 'img'
+                      :attributes:
+                        :alt: '株式会社ネクスト'
+                        :height: '66'
+                        :src: '/search/assets/img/default/footer/logo_next_white.png'
+                        :width: '185'
+                - :name: 'p'
+                  :attributes:
+                    :class:
+                      - copyright
+        - :name: 'div'
+          :attributes:
+            :style: 'display: none;'
+          :children:
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - mod-questionModal
+                :id: 'fw-teikishakka'
+              :children:
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - wrap
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - moduleHead
+                      :children:
+                        - :name: 'p'
+                          :attributes:
+                            :class:
+                              - heading
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - moduleBody
+                      :children:
+                        - :name: 'p'
+                        - :name: 'p'
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - closeBtn
+                  :children:
+                    - :name: 'p'
+                      :children:
+                        - :name: 'span'
+                          :attributes:
+                            :class:
+                              - btn
+        - :name: 'div'
+          :attributes:
+            :class:
+              - mod-notificationContainer
+            :id: 'notificationContainer'
+        - :name: 'div'
+          :attributes:
+            :class:
+              - mod-popupContainer
+            :id: 'popupContainer'
+          :children:
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - mod-pushNoticePopup
+                :id: 'prg-pushNoticePopup'
+                :style: 'display: none;'
+              :children:
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - message
+                  :children:
+                    - :name: 'p'
+                      :children:
+                        - :name: 'img'
+                          :attributes:
+                            :alt: '前回検索した条件の新着物件があります！通常掲載されない「限定者公開物件」があるかも！'
+                            :height: '108'
+                            :src: '/search/assets/img/default/module/proposal/txt_proposal.png'
+                            :width: '238'
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - action
+                  :children:
+                    - :name: 'p'
+                      :attributes:
+                        :class:
+                          - link
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'http://www.homes.co.jp/search/condition-list/?pushnotice=display-2'
+                    - :name: 'p'
+                      :attributes:
+                        :class:
+                          - notDisplay
+                      :children:
+                        - :name: 'input'
+                          :attributes:
+                            :id: 'checkHideMsg01'
+                            :type: 'checkbox'
+                        - :name: 'label'
+                          :attributes:
+                            :for: 'checkHideMsg01'
+                - :name: 'span'
+                  :attributes:
+                    :class:
+                      - tail
+                - :name: 'span'
+                  :attributes:
+                    :class:
+                      - closeBtn
+        - :name: 'div'
+          :attributes:
+            :style: 'display: none;'
+          :children:
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - mod-alertBox
+                :id: 'removeCondition'
+              :children:
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - wrap
+                  :children:
+                    - :name: 'p'
+                      :attributes:
+                        :class:
+                          - message
+                      :children:
+                        - :name: 'br'
+                    - :name: 'ul'
+                      :children:
+                        - :name: 'li'
+                          :children:
+                            - :name: 'a'
+                              :attributes:
+                                :class:
+                                  - btn
+                                :href: '#'
+                                :id: 'removeConditionOk'
+                        - :name: 'li'
+                          :children:
+                            - :name: 'a'
+                              :attributes:
+                                :class:
+                                  - btn
+                                :href: '#'
+                                :id: 'removeConditionCancel'
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - closeBtn
+                  :children:
+                    - :name: 'p'
+                      :children:
+                        - :name: 'span'
+                          :attributes:
+                            :class:
+                              - icn
+                            :id: 'alert_close'
+        - :name: 'script'
+          :attributes:
+            :type: 'text/javascript'
+        - :name: 'script'
+          :attributes:
+            :id: 'tracker-googleTagParams'
+            :type: 'text/javascript'
+        - :name: 'script'
+          :attributes:
+            :id: 'tracker-dataLayer'
+            :type: 'text/javascript'
+        - :name: 'noscript'
+          :attributes:
+            :id: 'tracker-gtmNoScript'
+          :children:
+            - :name: 'iframe'
+              :attributes:
+                :height: '0'
+                :src: '//www.googletagmanager.com/ns.html?id=GTM-NVVVQL'
+                :style: 'display:none;visibility:hidden'
+                :width: '0'
+        - :name: 'script'
+          :attributes:
+            :id: 'tracker-gtmScript'
+            :type: 'text/javascript'
+        - :name: 'script'
+          :attributes:
+            :id: 'tracker-ytmScript'
+            :type: 'text/javascript'
+        - :name: 'noscript'
+          :children:
+            - :name: 'iframe'
+              :attributes:
+                :frameborder: '0'
+                :height: '1'
+                :marginheight: '0'
+                :marginwidth: '0'
+                :scrolling: 'no'
+                :src: '//b.yjtag.jp/iframe?c=LYPDSlO'
+                :width: '1'
+        - :name: 'script'
+          :attributes:
+            :id: 'tracker-tagknight'
+            :type: 'text/javascript'

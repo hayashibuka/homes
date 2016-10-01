@@ -1,0 +1,2146 @@
+- :name: 'html'
+  :attributes:
+    :lang: 'ja'
+  :children:
+    - :name: 'head'
+      :attributes:
+        :prefix: 'og: http://ogp.me/ns#'
+      :children:
+        - :name: 'meta'
+          :attributes:
+            :charset: 'utf-8'
+        - :name: 'meta'
+          :attributes:
+            :content: 'width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1'
+            :name: 'viewport'
+        - :name: 'meta'
+          :attributes:
+            :content: 'HOME''S'
+            :name: 'apple-mobile-web-app-title'
+        - :name: 'meta'
+          :attributes:
+            :content: 'telephone=no'
+            :name: 'format-detection'
+        - :name: 'title'
+        - :name: 'meta'
+          :attributes:
+            :content: '不動産,住宅情報,賃貸,マンション,一戸建て,引越し,土地,HOME''S,ホームズ'
+            :name: 'keywords'
+        - :name: 'meta'
+          :attributes:
+            :content: '日本最大級の不動産・住宅情報サイトHOME''S(ホームズ)。全国の賃貸・売買物件からあなたにぴったりな住まいや情報を探せます。'
+            :name: 'description'
+        - :name: 'link'
+          :attributes:
+            :href: '/apple-touch-icon.png'
+            :rel:
+              - apple-touch-icon
+        - :name: 'link'
+          :attributes:
+            :href: 'http://www.homes.co.jp/'
+            :rel:
+              - canonical
+        - :name: 'link'
+          :attributes:
+            :href: 'android-app://jp.co.homes.android3/http/www.homes.co.jp/smp/'
+            :rel:
+              - alternate
+        - :name: 'meta'
+          :attributes:
+            :content: 'app-id=342650611'
+            :name: 'apple-itunes-app'
+        - :name: 'link'
+          :attributes:
+            :href: '/smp/minifile/assets/css/a1691899e670f0c615ec6aaa67ea505e7b2dff74.css?v=f7f15107ca45983a49f644855728b59a5c98f8b6'
+            :rel:
+              - stylesheet
+            :type: 'text/css'
+        - :name: 'link'
+          :attributes:
+            :href: '/smp/minifile/assets/css/8b176e926750241acc23d04aea8371388aad0d02.css?v=1d798c4895411b534f89561c808216c4f6be59f4'
+            :rel:
+              - stylesheet
+            :type: 'text/css'
+        - :name: 'link'
+          :attributes:
+            :href: '/smp/minifile/assets/css/6cf63396bb1bdfdd5670a010df6acc2fb7e23d7b.css?v=aa0a58ebbe0e69ad5ef71141d651c0f2144576e4'
+            :rel:
+              - stylesheet
+            :type: 'text/css'
+        - :name: 'script'
+          :attributes:
+            :src: '/smp/minifile/assets/js/bf2d2e83e856d098b6508b507b51212571ba0e7a.js?v=e4e0336a5af0966857d13311453a4355e8afb78e'
+            :type: 'text/javascript'
+        - :name: 'script'
+          :attributes:
+            :src: '/smp/minifile/assets/js/9788f6ef04614157a27a2bef7eaccfb963adbfaa.js?v=af0c873b22a83fabf80a3a8aa3386a6a3d33faef'
+            :type: 'text/javascript'
+    - :name: 'body'
+      :children:
+        - :name: 'svg'
+          :attributes:
+            :height: '0'
+            :style: 'position: absolute;'
+            :width: '0'
+            :xmlns: 'http://www.w3.org/2000/svg'
+          :children:
+            - :name: 'symbol'
+              :attributes:
+                :id: 'agent3'
+                :viewbox: '0 0 120 120'
+              :children:
+                - :name: 'g'
+                  :children:
+                    - :name: 'path'
+                      :attributes:
+                        :d: 'M59.4 59c13 0 23.6-10.5 23.6-23.6 0-13-10.6-23.6-23.6-23.6-13 0-23.6 10.6-23.6 23.6 0 13.1 10.6 23.6 23.6 23.6zM74.7 93.8c-2.5-5.6-2.6-11.8-.4-17.6 1.8-4.6 4.9-8.3 8.8-10.9-1.8-1.8-3.7-3.6-5.7-5-.5-.4-1.3-.3-1.8.1-.2.2-.4.4-.5.6l-8.3 18.3-3.2-12.6c-.2-.7-.9-1.2-1.6-1.1-1.7.2-3.5.2-5.2 0-.7-.1-1.4.4-1.6 1.1l-3.2 12.4-8.1-18c-.1-.2-.4-.5-.6-.7-.5-.4-1.2-.4-1.8-.1-11.3 7.9-18.8 22.3-20.2 38.7h-2.7c-2.3 0-4.2 1.9-4.2 4.2 0 2.3 1.9 4.2 4.2 4.2h50.4c.1-1.8.7-3.5 1.8-5l5-6.5c-.4-.7-.8-1.4-1.1-2.1zM101.8 68.7c-2-.8-4-1.1-6.1-1.1-7.1 0-13.3 4.3-15.8 10.8-1.6 4.2-1.5 8.8.3 13 .8 1.7 1.8 3.2 3.1 4.6l-7.7 10.1c-1 1.3-.7 3.2.6 4.2.5.4 1.2.6 1.8.6.9 0 1.8-.4 2.4-1.2l7.7-10.1c.5.3 1 .6 1.5.8 2 .8 4 1.1 6.1 1.1 7.1 0 13.3-4.3 15.8-10.8 3.4-8.7-.9-18.6-9.7-22zm4.1 19.8c-1.6 4.3-5.7 7-10.2 7-1.4 0-2.7-.2-4-.7-2.7-1.1-4.9-3.1-6.1-5.8-1.2-2.7-1.2-5.7-.2-8.4 1.6-4.3 5.7-7 10.2-7 1.4 0 2.7.2 4 .7 5.7 2.2 8.5 8.6 6.3 14.2z'
+            - :name: 'symbol'
+              :attributes:
+                :id: 'phone2'
+                :viewbox: '0 0 120 120'
+              :children:
+                - :name: 'g'
+                  :children:
+                    - :name: 'path'
+                      :attributes:
+                        :d: 'M84.2 110.5c-13.7 0-30.7-9.4-47.9-26.6-12-12.1-20.4-24.3-24.2-35.3-3.7-10.6-2.9-19.8 2-25.8.4-.6.9-1.1 1.4-1.7.8-1 1.6-1.9 2.6-2.6l2.1-1.4c1.9-1.3 4.1-2 6.5-2 3.7 0 7.2 1.8 9.3 4.8l10.1 14.5c3.6 5.1 2.3 12.2-2.8 15.8l-1.1.8c-.1 2.9 2.6 8.7 10.7 16.8 8.9 8.9 13.6 10.2 15.6 10.2.5 0 .9-.1 1.2-.2l1.1-1.4c2.2-2.7 5.4-4.3 8.9-4.3 2.5 0 5 .9 7 2.4l13.8 11c4.9 3.9 5.7 11 1.9 15.9l-1.6 2c-.7.9-1.5 1.6-2.6 2.3l-.8.6c-3.3 2.7-7.9 4.2-13.2 4.2z'
+            - :name: 'symbol'
+              :attributes:
+                :id: 'note7'
+                :viewbox: '0 0 120 120'
+              :children:
+                - :name: 'g'
+                  :children:
+                    - :name: 'path'
+                      :attributes:
+                        :d: 'M69.7 84.2c-1.6.3-3.1.7-4.7 1.2V36.8c10.8-5.2 22.3-5 33.2-.5v14.4c2.7 1.5 5 3.6 6.9 6.2.7.9 1.2 1.9 1.8 2.9V33.7c0-1.5-1.3-2.9-2.6-3.6-13-6.4-29.5-6.5-43.1-.6-14.1-6.3-32.2-5.7-46 1.8-1.3.7-2.1 2-2.1 3.4v56c0 1.3.7 2.6 1.8 3.3 1.1.7 2.6.8 3.8.2 11.9-5.7 26.4-5.4 38.3.9h.1c1.1.7 4.1.8 5.3.2 5.5-2.7 11.6-4.1 17.6-4.1-4-1.2-7.6-3.7-10.3-7zm-14.4 1.6c-5.9-2.3-12.3-3.4-18.5-3.4-5.4 0-10.7.9-15.8 2.6V37.1c10.8-5.1 23.5-5.5 34.3-1v49.7z'
+                    - :name: 'path'
+                      :attributes:
+                        :d: 'M65.1 74.4v-8.7c-.1.3-.1.6-.2.9M105.7 91.1l-6.9-9.5c2.4-2.4 4-5.5 4.6-9 .7-4.4-.4-8.7-3-12.3-2.6-3.6-6.4-5.9-10.8-6.6-2.3-.4-4.7-.2-6.9.4-6.3 1.7-11 7-12 13.4-1.4 9 4.8 17.5 13.8 18.9 2.3.4 4.7.2 6.9-.4.8-.2 1.6-.5 2.4-.9l7 9.5c.8 1.1 2.1 1.5 3.3 1.2.3-.1.7-.3 1-.5 1.3-.9 1.6-2.8.6-4.2zm-8.4-19.4c-.6 4-3.6 7.3-7.5 8.4-1.4.4-2.9.5-4.3.2-5.7-.9-9.5-6.2-8.6-11.9.6-4 3.6-7.3 7.5-8.4 1.4-.4 2.9-.5 4.3-.2 2.7.4 5.1 1.9 6.8 4.1 1.6 2.3 2.2 5.1 1.8 7.8z'
+            - :name: 'symbol'
+              :attributes:
+                :id: 'comfort_commute'
+                :viewbox: '0 0 120 120'
+              :children:
+                - :name: 'g'
+                  :children:
+                    - :name: 'path'
+                      :attributes:
+                        :d: 'M58.3 71.4c7.9 0 14.3-6.4 14.3-14.3s-6.4-14.3-14.3-14.3S44 49.2 44 57.1s6.4 14.2 14.3 14.3z'
+                    - :name: 'path'
+                      :attributes:
+                        :d: 'M93 12.9H26.6c-8.1 0-14.3 6.2-14.3 14.3l.1 64.8c0 8.1 6.6 14.6 14.6 14.6h66.3c8 0 14.3-6.4 14.3-14.6V27.5c.1-8.2-6.6-14.6-14.6-14.6zM68.9 72.4h-1.5l-4.6 10.3-2-7.8-1 .1c-1 .1-2.1.1-3.1 0l-1-.1-2 7.6-4.6-10.1-.2-.3-.9-.6-.8.5c-6.9 4.8-11.6 13.7-12.4 24l-.1 1.8h-8.5c-3.3 0-6.6-2-6.6-5.4V27.3c0-3.3 3.5-7 6.9-7h51.2v12.5c-4.3 1.1-7.6 5-7.6 9.6 0 4.4 2.9 8.2 7 9.5-.5.6-.8 1.4-.8 2.4v11.9c-.1.1.1.2 0 .2l-6 4.5c-.2.2-1.1 1.3-1.4 1.5zm11.3-35.3c3 0 5.4 2.4 5.4 5.4 0 3-2.4 5.4-5.4 5.4-3 0-5.4-2.4-5.4-5.4 0-3 2.5-5.4 5.4-5.4zm20 54.9c0 3.4-3.6 5.7-6.9 5.7h-17V79.8l5.6-5.1c.8-.7 1.7-3 1.8-4V54.2c0-.9-.3-1.7-.9-2.2 4.2-1.2 7.3-5 7.3-9.6 0-4.5-2.3-8.3-6.4-9.5V20.3h9.5c3.2 0 6.9 3.2 6.9 6.6l.1 65.1z'
+                    - :name: 'path'
+                      :attributes:
+                        :d: 'M47.2 38.1c-6.6-1.7-7.6-2.8-9.1-10.7-.1-.7-.7-1.2-1.4-1.2s-1.3.5-1.4 1.2c-1.5 7.8-2.5 8.9-9.1 10.7-.6.2-1.1.8-1.1 1.4 0 .7.4 1.2 1.1 1.4 6.6 1.7 7.6 2.8 9.1 10.7.1.7.7 1.2 1.4 1.2s1.3-.5 1.4-1.2c1.5-7.8 2.5-8.9 9.1-10.7.6-.2 1.1-.8 1.1-1.4 0-.7-.5-1.3-1.1-1.4zM94 84.8c-4.1-1.1-4.6-1.7-5.5-6.5-.1-.6-.6-1-1.2-1s-1.1.4-1.2 1c-.9 4.8-1.5 5.4-5.5 6.5-.5.1-.9.6-.9 1.2s.4 1 .9 1.2c4.1 1.1 4.6 1.7 5.5 6.5.1.6.6 1 1.2 1s1.1-.4 1.2-1c.9-4.8 1.5-5.4 5.5-6.5.5-.1.9-.6.9-1.2s-.3-1.1-.9-1.2z'
+            - :name: 'symbol'
+              :attributes:
+                :id: 'arrow3'
+                :viewbox: '0 0 120 120'
+              :children:
+                - :name: 'g'
+                  :children:
+                    - :name: 'path'
+                      :attributes:
+                        :d: 'M91 79.3c-1.9 1.9-4.9 1.9-6.8 0l-20.8-20.8c-1.9-1.9-4.9-1.9-6.8 0l-20.8 20.8c-1.9 1.9-4.9 1.9-6.8 0l-7.1-7.1c-1.9-1.9-1.9-4.9 0-6.8l34.7-34.7c1.9-1.9 4.9-1.9 6.8 0l34.7 34.7c1.9 1.9 1.9 4.9 0 6.8l-7.1 7.1z'
+            - :name: 'symbol'
+              :attributes:
+                :id: 'arrow4'
+                :viewbox: '0 0 120 120'
+              :children:
+                - :name: 'g'
+                  :children:
+                    - :name: 'path'
+                      :attributes:
+                        :d: 'M91 29c-1.9-1.9-4.9-1.9-6.8 0l-20.8 20.8c-1.9 1.9-4.9 1.9-6.8 0l-20.8-20.8c-1.9-1.9-4.9-1.9-6.8 0l-7.1 7.1c-1.9 1.9-1.9 4.9 0 6.8l34.7 34.7c1.9 1.9 4.9 1.9 6.8 0l34.7-34.7c1.9-1.9 1.9-4.9 0-6.8l-7.1-7.1z'
+            - :name: 'symbol'
+              :attributes:
+                :id: 'arrow5'
+                :viewbox: '0 0 120 120'
+              :children:
+                - :name: 'g'
+                  :children:
+                    - :name: 'path'
+                      :attributes:
+                        :d: 'M98.6 63.2L62.4 27c-1.3-1.3-3.5-1.3-4.9 0L21.4 63.2c-1.3 1.3-1.3 3.5 0 4.9l5.9 5.9c1.3 1.3 3.5 1.3 4.9 0l20.1-20.1v37.9c0 2.9 2 5.3 4.4 5.3h6.7c2.4 0 4.4-2.4 4.4-5.3v-38l20.1 20.1c1.3 1.3 3.5 1.3 4.9 0l5.9-5.9c1.3-1.3 1.3-3.5-.1-4.8z'
+            - :name: 'symbol'
+              :attributes:
+                :id: 'exclamation'
+                :viewbox: '0 0 120 120'
+              :children:
+                - :name: 'g'
+                  :children:
+                    - :name: 'path'
+                      :attributes:
+                        :d: 'M60 10c-26.5 0-48 21.5-48 48s21.5 48 48 48 48-21.5 48-48-21.5-48-48-48zm0 87.6c-21.8 0-39.6-17.8-39.6-39.6s17.8-39.6 39.6-39.6 39.6 17.8 39.6 39.6-17.8 39.6-39.6 39.6zM60 65c2.3 0 4.2-1.9 4.2-4.2v-27.6c0-2.3-1.9-4.2-4.2-4.2-2.3 0-4.2 1.9-4.2 4.2v27.5c0 2.4 1.9 4.3 4.2 4.3z'
+                    - :name: 'circle'
+                      :attributes:
+                        :cx: '60'
+                        :cy: '79.5'
+                        :r: '6.3'
+        - :name: 'header'
+          :attributes:
+            :class:
+              - sec-header
+            :id: 'header'
+          :children:
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - mod-header
+              :children:
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - upper
+                  :children:
+                    - :name: 'h1'
+                      :attributes:
+                        :class:
+                          - logo
+                      :children:
+                        - :name: 'img'
+                          :attributes:
+                            :alt: 'HOME''S'
+                            :height: '41'
+                            :src: '/smp/assets/img/smartphone/common/logo/homes_small_white.svg'
+                            :width: '110'
+                    - :name: 'p'
+                      :attributes:
+                        :class:
+                          - copy
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :class:
+                              - no1
+                            :data-gtm-label: 'evaluation'
+                            :href: 'http://www.homes.co.jp/about/service/evaluation/'
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - mod-eyeCatchingBanner
+                :id: 'prg-eyeCatchingBanner'
+              :children:
+                - :name: 'div'
+                  :attributes:
+                    :id: 'prg-sliderTopics'
+                  :children:
+                    - :name: 'ul'
+                      :attributes:
+                        :class:
+                          - view
+                      :children:
+                        - :name: 'li'
+                          :attributes:
+                            :class:
+                              - prg-item
+                          :children:
+                            - :name: 'a'
+                              :attributes:
+                                :class:
+                                  - item
+                                :href: 'http://www.homes.co.jp/price-map/'
+                                :target: '_self'
+                              :children:
+                                - :name: 'img'
+                                  :attributes:
+                                    :alt: 'マンションの参考価格を地図上でまるみえに。駅や地域ごとの価格相場を知るのにも最適です。'
+                                    :src: '/smp/assets/img/smartphone/page/index/banner_160119_pricemap.png'
+        - :name: 'div'
+          :attributes:
+            :class:
+              - sec-contents
+            :id: 'contents'
+          :children:
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - sec-mainContents
+              :children:
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - sec-fyi
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - sec-announce
+                      :children:
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - mod-announce
+                            :id: 'prg-announce'
+                          :children:
+                            - :name: 'ul'
+                              :children:
+                                - :name: 'li'
+                                  :children:
+                                    - :name: 'div'
+                                      :attributes:
+                                        :class:
+                                          - item
+                                          - prg-item
+                                          - 
+                                      :children:
+                                        - :name: 'p'
+                                          :attributes:
+                                            :class:
+                                              - title
+                                              - prg-title
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - icon
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-svg-icon
+                                                  :children:
+                                                    - :name: 'svg'
+                                                      :attributes:
+                                                        :height: '18'
+                                                        :width: '18'
+                                                      :children:
+                                                        - :name: 'g'
+                                                          :children:
+                                                            - :name: 'use'
+                                                              :attributes:
+                                                                :fill: '#626262'
+                                                                :xlink:href: '#exclamation'
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - label
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - pull
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - down
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - ui-svg-icon
+                                                      :children:
+                                                        - :name: 'svg'
+                                                          :attributes:
+                                                            :height: '16'
+                                                            :width: '16'
+                                                          :children:
+                                                            - :name: 'g'
+                                                              :children:
+                                                                - :name: 'use'
+                                                                  :attributes:
+                                                                    :fill: '#626262'
+                                                                    :xlink:href: '#arrow4'
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - up
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - ui-svg-icon
+                                                      :children:
+                                                        - :name: 'svg'
+                                                          :attributes:
+                                                            :height: '16'
+                                                            :width: '16'
+                                                          :children:
+                                                            - :name: 'g'
+                                                              :children:
+                                                                - :name: 'use'
+                                                                  :attributes:
+                                                                    :fill: '#626262'
+                                                                    :xlink:href: '#arrow3'
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - content
+                                          :children:
+                                            - :name: 'p'
+                                              :attributes:
+                                                :class:
+                                                  - topic
+                                            - :name: 'p'
+                                              :attributes:
+                                                :class:
+                                                  - link
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :href: 'http://www.homes.co.jp/edit/kumamotoshien2016/'
+                                            - :name: 'p'
+                                              :attributes:
+                                                :class:
+                                                  - topic
+                                            - :name: 'p'
+                                            - :name: 'p'
+                                            - :name: 'p'
+                    - :name: 'section'
+                      :attributes:
+                        :class:
+                          - sec-lastCondition
+                - :name: 'section'
+                  :attributes:
+                    :class:
+                      - sec-realestateArticleTypeList
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-realestateArticleTypeList
+                        :id: 'prg-realestateArticleTypeList'
+                      :children:
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - rent
+                              - groupType
+                          :children:
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - residence
+                              :children:
+                                - :name: 'h2'
+                                  :attributes:
+                                    :class:
+                                      - heading
+                                - :name: 'div'
+                                  :attributes:
+                                    :class:
+                                      - category
+                                  :children:
+                                    - :name: 'a'
+                                      :attributes:
+                                        :class:
+                                          - item
+                                        :data-gtm-label: 'rent_residence'
+                                        :href: 'http://www.homes.co.jp/smp/chintai/'
+                                      :children:
+                                        - :name: 'p'
+                                          :attributes:
+                                            :class:
+                                              - thumb
+                                          :children:
+                                            - :name: 'img'
+                                              :attributes:
+                                                :alt: '賃貸マンション・アパート・一戸建て'
+                                                :height: '60'
+                                                :src: '/smp/assets/img/smartphone/page/index/abtest_b/ra_thumb/sprite_ra_thumb_rent_residence.png'
+                                                :width: '50'
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - categoryLabel
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - rType
+                                            - :name: 'br'
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - prg-business
+                                  - business
+                                  - 
+                              :children:
+                                - :name: 'div'
+                                  :attributes:
+                                    :class:
+                                      - moreBusiness
+                                  :children:
+                                    - :name: 'p'
+                                      :attributes:
+                                        :class:
+                                          - prg-moreBusiness
+                                      :children:
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - label
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - down
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - ui-svg-icon
+                                              :children:
+                                                - :name: 'svg'
+                                                  :attributes:
+                                                    :height: '14'
+                                                    :width: '14'
+                                                  :children:
+                                                    - :name: 'g'
+                                                      :children:
+                                                        - :name: 'use'
+                                                          :attributes:
+                                                            :fill: '#626262'
+                                                            :xlink:href: '#arrow4'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - up
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - ui-svg-icon
+                                              :children:
+                                                - :name: 'svg'
+                                                  :attributes:
+                                                    :height: '14'
+                                                    :width: '14'
+                                                  :children:
+                                                    - :name: 'g'
+                                                      :children:
+                                                        - :name: 'use'
+                                                          :attributes:
+                                                            :fill: '#626262'
+                                                            :xlink:href: '#arrow3'
+                                - :name: 'div'
+                                  :attributes:
+                                    :class:
+                                      - categoryList
+                                  :children:
+                                    - :name: 'ul'
+                                      :children:
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - businessCategory
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'rent_parking'
+                                                    :href: 'http://www.homes.co.jp/smp/chintai/parking/'
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - label
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - businessCategory
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'rent_tochi'
+                                                    :href: 'http://www.homes.co.jp/smp/chintai/tochi/'
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - label
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - businessCategory
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'rent_tempo'
+                                                    :href: 'http://www.homes.co.jp/smp/chintai/tempo/'
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - label
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - businessCategory
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'rent_office'
+                                                    :href: 'http://www.homes.co.jp/smp/chintai/office/'
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - label
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - businessCategory
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'trunkroom'
+                                                    :href: 'http://www.homes.co.jp/trunkroom/'
+                                                    :target: '_blank'
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - label
+                                                      :children:
+                                                        - :name: 'br'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - businessCategory
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'senior'
+                                                    :href: 'http://sp.kaigo.homes.co.jp/'
+                                                    :target: '_blank'
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - label
+                                                      :children:
+                                                        - :name: 'br'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - businessCategory
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'rent_other'
+                                                    :href: 'http://www.homes.co.jp/smp/chintai/other/'
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - label
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - businessCategory
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'rent_soko'
+                                                    :href: 'http://www.homes.co.jp/smp/chintai/soko/'
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - label
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - sale
+                              - groupType
+                          :children:
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - residence
+                              :children:
+                                - :name: 'h2'
+                                  :attributes:
+                                    :class:
+                                      - heading
+                                - :name: 'div'
+                                  :attributes:
+                                    :class:
+                                      - categoryList
+                                  :children:
+                                    - :name: 'ul'
+                                      :children:
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - category
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'mansion_shinchiku'
+                                                    :href: 'http://www.homes.co.jp/smp/mansion/shinchiku/'
+                                                  :children:
+                                                    - :name: 'p'
+                                                      :attributes:
+                                                        :class:
+                                                          - thumb
+                                                      :children:
+                                                        - :name: 'img'
+                                                          :attributes:
+                                                            :alt: '新築マンション'
+                                                            :height: '60'
+                                                            :src: '/smp/assets/img/smartphone/page/index/abtest_b/ra_thumb/sprite_ra_thumb_mansion_shinchiku.png'
+                                                            :width: '50'
+                                                    - :name: 'div'
+                                                      :attributes:
+                                                        :class:
+                                                          - categoryLabel
+                                                      :children:
+                                                        - :name: 'span'
+                                                          :attributes:
+                                                            :class:
+                                                              - rType
+                                                        - :name: 'br'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - category
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'mansion_chuko'
+                                                    :href: 'http://www.homes.co.jp/smp/mansion/chuko/'
+                                                  :children:
+                                                    - :name: 'p'
+                                                      :attributes:
+                                                        :class:
+                                                          - thumb
+                                                      :children:
+                                                        - :name: 'img'
+                                                          :attributes:
+                                                            :alt: '中古マンション'
+                                                            :height: '60'
+                                                            :src: '/smp/assets/img/smartphone/page/index/abtest_b/ra_thumb/sprite_ra_thumb_mansion_chuko.png'
+                                                            :width: '50'
+                                                    - :name: 'div'
+                                                      :attributes:
+                                                        :class:
+                                                          - categoryLabel
+                                                      :children:
+                                                        - :name: 'span'
+                                                          :attributes:
+                                                            :class:
+                                                              - rType
+                                                        - :name: 'br'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - category
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'kodate_shinchiku'
+                                                    :href: 'http://www.homes.co.jp/smp/kodate/shinchiku/'
+                                                  :children:
+                                                    - :name: 'p'
+                                                      :attributes:
+                                                        :class:
+                                                          - thumb
+                                                      :children:
+                                                        - :name: 'img'
+                                                          :attributes:
+                                                            :alt: '新築一戸建て'
+                                                            :height: '60'
+                                                            :src: '/smp/assets/img/smartphone/page/index/abtest_b/ra_thumb/sprite_ra_thumb_kodate_shinchiku.png'
+                                                            :width: '50'
+                                                    - :name: 'div'
+                                                      :attributes:
+                                                        :class:
+                                                          - categoryLabel
+                                                      :children:
+                                                        - :name: 'span'
+                                                          :attributes:
+                                                            :class:
+                                                              - rType
+                                                        - :name: 'br'
+                                                        - :name: 'br'
+                                                        - :name: 'span'
+                                                          :attributes:
+                                                            :class:
+                                                              - note
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - category
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'kodate_chuko'
+                                                    :href: 'http://www.homes.co.jp/smp/kodate/chuko/'
+                                                  :children:
+                                                    - :name: 'p'
+                                                      :attributes:
+                                                        :class:
+                                                          - thumb
+                                                      :children:
+                                                        - :name: 'img'
+                                                          :attributes:
+                                                            :alt: '中古一戸建て'
+                                                            :height: '60'
+                                                            :src: '/smp/assets/img/smartphone/page/index/abtest_b/ra_thumb/sprite_ra_thumb_kodate_chuko.png'
+                                                            :width: '50'
+                                                    - :name: 'div'
+                                                      :attributes:
+                                                        :class:
+                                                          - categoryLabel
+                                                      :children:
+                                                        - :name: 'span'
+                                                          :attributes:
+                                                            :class:
+                                                              - rType
+                                                        - :name: 'br'
+                                                        - :name: 'br'
+                                                        - :name: 'span'
+                                                          :attributes:
+                                                            :class:
+                                                              - note
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - category
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'tochi'
+                                                    :href: 'http://www.homes.co.jp/smp/tochi/'
+                                                  :children:
+                                                    - :name: 'p'
+                                                      :attributes:
+                                                        :class:
+                                                          - thumb
+                                                      :children:
+                                                        - :name: 'img'
+                                                          :attributes:
+                                                            :alt: '土地'
+                                                            :height: '60'
+                                                            :src: '/smp/assets/img/smartphone/page/index/abtest_b/ra_thumb/sprite_ra_thumb_tochi.png'
+                                                            :width: '50'
+                                                    - :name: 'div'
+                                                      :attributes:
+                                                        :class:
+                                                          - categoryLabel
+                                                      :children:
+                                                        - :name: 'span'
+                                                          :attributes:
+                                                            :class:
+                                                              - rType
+                                                        - :name: 'br'
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - prg-business
+                                  - business
+                                  - 
+                              :children:
+                                - :name: 'div'
+                                  :attributes:
+                                    :class:
+                                      - moreBusiness
+                                  :children:
+                                    - :name: 'p'
+                                      :attributes:
+                                        :class:
+                                          - prg-moreBusiness
+                                      :children:
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - label
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - down
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - ui-svg-icon
+                                              :children:
+                                                - :name: 'svg'
+                                                  :attributes:
+                                                    :height: '14'
+                                                    :width: '14'
+                                                  :children:
+                                                    - :name: 'g'
+                                                      :children:
+                                                        - :name: 'use'
+                                                          :attributes:
+                                                            :fill: '#626262'
+                                                            :xlink:href: '#arrow4'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - up
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - ui-svg-icon
+                                              :children:
+                                                - :name: 'svg'
+                                                  :attributes:
+                                                    :height: '14'
+                                                    :width: '14'
+                                                  :children:
+                                                    - :name: 'g'
+                                                      :children:
+                                                        - :name: 'use'
+                                                          :attributes:
+                                                            :fill: '#626262'
+                                                            :xlink:href: '#arrow3'
+                                - :name: 'div'
+                                  :attributes:
+                                    :class:
+                                      - categoryList
+                                  :children:
+                                    - :name: 'ul'
+                                      :children:
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - businessCategory
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'toushi'
+                                                    :href: 'http://t.homes.co.jp'
+                                                    :target: '_blank'
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - label
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - businessCategory
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'tempo'
+                                                    :href: 'http://www.homes.co.jp/smp/tempo/'
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - label
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - businessCategory
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'office'
+                                                    :href: 'http://www.homes.co.jp/smp/office/'
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - label
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - businessCategory
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'soko'
+                                                    :href: 'http://www.homes.co.jp/smp/soko/'
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - label
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - businessCategory
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :class:
+                                                      - item
+                                                    :data-gtm-label: 'other'
+                                                    :href: 'http://www.homes.co.jp/smp/other/'
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - label
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - build
+                              - groupType
+                          :children:
+                            - :name: 'h2'
+                              :attributes:
+                                :class:
+                                  - heading
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - categoryList
+                              :children:
+                                - :name: 'ul'
+                                  :children:
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - category
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :class:
+                                                  - item
+                                                :data-gtm-label: 'iezukuri'
+                                                :href: 'http://www.homes.co.jp/iezukuri/'
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - thumb
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: '注文住宅'
+                                                        :height: '60'
+                                                        :src: '/smp/assets/img/smartphone/page/index/abtest_b/ra_thumb/sprite_ra_thumb_iezukuri.png'
+                                                        :width: '50'
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - categoryLabel
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - rType
+                                                    - :name: 'br'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - category
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :class:
+                                                  - item
+                                                :data-gtm-label: 'reform'
+                                                :href: 'http://www.homes.co.jp/reform/'
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - thumb
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: 'リフォーム'
+                                                        :height: '60'
+                                                        :src: '/smp/assets/img/smartphone/page/index/abtest_b/ra_thumb/sprite_ra_thumb_reform.png'
+                                                        :width: '50'
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - categoryLabel
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - rType
+                                                    - :name: 'br'
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - category
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :class:
+                                                  - item
+                                                :data-gtm-label: 'renovation'
+                                                :href: 'http://www.homes.co.jp/renovation/'
+                                                :target: '_blank'
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - thumb
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: 'リノベーション'
+                                                        :height: '60'
+                                                        :src: '/smp/assets/img/smartphone/page/index/abtest_b/ra_thumb/sprite_ra_thumb_renovation.png'
+                                                        :width: '50'
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - categoryLabel
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - rType
+                                                    - :name: 'br'
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - sell
+                              - groupType
+                          :children:
+                            - :name: 'h2'
+                              :attributes:
+                                :class:
+                                  - heading
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - categoryList
+                              :children:
+                                - :name: 'ul'
+                                  :children:
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - category
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :class:
+                                                  - item
+                                                :data-gtm-label: 'satei'
+                                                :href: 'http://www.homes.co.jp/satei/'
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - thumb
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: '不動産売却査定'
+                                                        :height: '60'
+                                                        :src: '/smp/assets/img/smartphone/page/index/abtest_b/ra_thumb/sprite_ra_thumb_satei.png'
+                                                        :width: '50'
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - categoryLabel
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - rType
+                                                    - :name: 'br'
+                - :name: 'section'
+                  :attributes:
+                    :class:
+                      - sec-callcenter
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-callCenter
+                        :id: 'prg-callcenter'
+                      :children:
+                        - :name: 'h2'
+                          :attributes:
+                            :class:
+                              - heading
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - callButton
+                          :children:
+                            - :name: 'p'
+                              :attributes:
+                                :class:
+                                  - consultation
+                            - :name: 'a'
+                              :attributes:
+                                :class:
+                                  - call
+                                  - prg-callBtn
+                                :data-ga_page_name: 'top'
+                                :href: 'tel:0120-840-134'
+                              :children:
+                                - :name: 'p'
+                                  :children:
+                                    - :name: 'span'
+                                      :attributes:
+                                        :class:
+                                          - free
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - icon
+                                  :children:
+                                    - :name: 'span'
+                                      :attributes:
+                                        :class:
+                                          - ui-svg-icon
+                                      :children:
+                                        - :name: 'svg'
+                                          :attributes:
+                                            :height: '20'
+                                            :width: '20'
+                                          :children:
+                                            - :name: 'g'
+                                              :children:
+                                                - :name: 'use'
+                                                  :attributes:
+                                                    :fill: '#ffffff'
+                                                    :xlink:href: '#phone2'
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - number
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - infoButton
+                          :children:
+                            - :name: 'a'
+                              :attributes:
+                                :class:
+                                  - item
+                                :data-gtm-label: 'callcenter'
+                                :href: '/callcenter/?nx_id=homes_08_20150630001'
+                - :name: 'section'
+                  :attributes:
+                    :class:
+                      - sec-realtorTypeList
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-realtorTypeList
+                      :children:
+                        - :name: 'h2'
+                          :attributes:
+                            :class:
+                              - heading
+                        - :name: 'ul'
+                          :attributes:
+                            :class:
+                              - categoryList
+                          :children:
+                            - :name: 'li'
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - market
+                                    :data-gtm-label: 'realtor_rentsale'
+                                    :href: 'http://www.homes.co.jp/smp/realtor/'
+                                  :children:
+                                    - :name: 'p'
+                                      :attributes:
+                                        :class:
+                                          - wrap
+                                      :children:
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - realtorIcon
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - ui-svg-icon
+                                              :children:
+                                                - :name: 'svg'
+                                                  :attributes:
+                                                    :height: '40'
+                                                    :width: '40'
+                                                  :children:
+                                                    - :name: 'g'
+                                                      :children:
+                                                        - :name: 'use'
+                                                          :attributes:
+                                                            :fill: '#ed6103'
+                                                            :xlink:href: '#agent3'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - label
+                                          :children:
+                                            - :name: 'br'
+                            - :name: 'li'
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - market
+                                    :data-gtm-label: 'realtor_mansion'
+                                    :href: 'http://www.homes.co.jp/smp/mansion/shinchiku/realtor/'
+                                  :children:
+                                    - :name: 'p'
+                                      :attributes:
+                                        :class:
+                                          - wrap
+                                      :children:
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - realtorIcon
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - ui-svg-icon
+                                              :children:
+                                                - :name: 'svg'
+                                                  :attributes:
+                                                    :height: '40'
+                                                    :width: '40'
+                                                  :children:
+                                                    - :name: 'g'
+                                                      :children:
+                                                        - :name: 'use'
+                                                          :attributes:
+                                                            :fill: '#ed6103'
+                                                            :xlink:href: '#agent3'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - label
+                            - :name: 'li'
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - market
+                                    :data-gtm-label: 'realtor_kodate'
+                                    :href: 'http://www.homes.co.jp/smp/kodate/shinchiku/realtor/'
+                                  :children:
+                                    - :name: 'p'
+                                      :attributes:
+                                        :class:
+                                          - wrap
+                                      :children:
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - realtorIcon
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - ui-svg-icon
+                                              :children:
+                                                - :name: 'svg'
+                                                  :attributes:
+                                                    :height: '40'
+                                                    :width: '40'
+                                                  :children:
+                                                    - :name: 'g'
+                                                      :children:
+                                                        - :name: 'use'
+                                                          :attributes:
+                                                            :fill: '#ed6103'
+                                                            :xlink:href: '#agent3'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - label
+                - :name: 'section'
+                  :attributes:
+                    :class:
+                      - sec-lifeStyle
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-lifeStyle
+                      :children:
+                        - :name: 'h2'
+                          :attributes:
+                            :class:
+                              - heading
+                        - :name: 'ul'
+                          :attributes:
+                            :class:
+                              - categoryList
+                          :children:
+                            - :name: 'li'
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                    :data-gtm-label: 'lifestyle'
+                                    :href: 'http://www.homes.co.jp/lifestyle/'
+                                  :children:
+                                    - :name: 'p'
+                                      :attributes:
+                                        :class:
+                                          - wrap
+                                      :children:
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - lifeStyleIcon
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - ui-svg-icon
+                                              :children:
+                                                - :name: 'svg'
+                                                  :attributes:
+                                                    :height: '40'
+                                                    :width: '40'
+                                                  :children:
+                                                    - :name: 'g'
+                                                      :children:
+                                                        - :name: 'use'
+                                                          :attributes:
+                                                            :fill: '#ed6103'
+                                                            :xlink:href: '#note7'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - label
+                - :name: 'section'
+                  :attributes:
+                    :class:
+                      - sec-livingService
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-livingService
+                      :children:
+                        - :name: 'h2'
+                          :attributes:
+                            :class:
+                              - heading
+                        - :name: 'ul'
+                          :attributes:
+                            :class:
+                              - list
+                          :children:
+                            - :name: 'li'
+                              :attributes:
+                                :class:
+                                  - listItem
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                    :data-gtm-label: 'hikkoshi'
+                                    :href: 'http://www.homes.co.jp/hikkoshi/'
+                                  :children:
+                                    - :name: 'img'
+                                      :attributes:
+                                        :alt: '引越し見積もり・予約'
+                                        :height: '80'
+                                        :src: '/smp/assets/img/smartphone/page/index/abtest_b/services/hikkoshi.png'
+                                        :width: '145'
+                                    - :name: 'p'
+                                      :attributes:
+                                        :class:
+                                          - label
+                            - :name: 'li'
+                              :attributes:
+                                :class:
+                                  - listItem
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                    :data-gtm-label: 'stylemarket'
+                                    :href: 'http://www.homes.co.jp/stylemarket/shop/?nx_id=homes_14_20140701003'
+                                    :target: '_blank'
+                                  :children:
+                                    - :name: 'img'
+                                      :attributes:
+                                        :alt: '家具・インテリア通販'
+                                        :height: '80'
+                                        :src: '/smp/assets/img/smartphone/page/index/abtest_b/services/stylemarket.png'
+                                        :width: '145'
+                                    - :name: 'p'
+                                      :attributes:
+                                        :class:
+                                          - label
+                            - :name: 'li'
+                              :attributes:
+                                :class:
+                                  - listItem
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                    :data-gtm-label: 'fintech'
+                                    :href: 'https://hoken.homes.co.jp/kasai/?cmp_id=homes'
+                                    :target: '_blank'
+                                  :children:
+                                    - :name: 'img'
+                                      :attributes:
+                                        :alt: '火災保険・賃貸の家財保険'
+                                        :height: '80'
+                                        :src: '/smp/assets/img/smartphone/page/index/abtest_b/services/fintech.png'
+                                        :width: '145'
+                                    - :name: 'p'
+                                      :attributes:
+                                        :class:
+                                          - label
+                - :name: 'section'
+                  :attributes:
+                    :class:
+                      - sec-livingKnowledge
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-livingKnowledge
+                      :children:
+                        - :name: 'h2'
+                          :attributes:
+                            :class:
+                              - heading
+                        - :name: 'ul'
+                          :attributes:
+                            :class:
+                              - list
+                          :children:
+                            - :name: 'li'
+                              :attributes:
+                                :class:
+                                  - listItem
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                    :data-gtm-label: 'around'
+                                    :href: '/smp/around/?nx_id=homes_08_20140811001'
+                                  :children:
+                                    - :name: 'img'
+                                      :attributes:
+                                        :alt: '街情報'
+                                        :height: '80'
+                                        :src: '/smp/assets/img/smartphone/page/index/abtest_b/services/around.png'
+                                        :width: '145'
+                                    - :name: 'p'
+                                      :attributes:
+                                        :class:
+                                          - label
+                            - :name: 'li'
+                              :attributes:
+                                :class:
+                                  - listItem
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                    :data-gtm-label: 'cont'
+                                    :href: 'http://www.homes.co.jp/cont/'
+                                  :children:
+                                    - :name: 'img'
+                                      :attributes:
+                                        :alt: '住まいのお役立ち情報'
+                                        :height: '80'
+                                        :src: '/smp/assets/img/smartphone/page/index/abtest_b/services/cont.png'
+                                        :width: '145'
+                                    - :name: 'p'
+                                      :attributes:
+                                        :class:
+                                          - label
+                            - :name: 'li'
+                              :attributes:
+                                :class:
+                                  - listItem
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                    :data-gtm-label: 'press'
+                                    :href: 'http://www.homes.co.jp/cont/press/'
+                                    :target: '_blank'
+                                  :children:
+                                    - :name: 'img'
+                                      :attributes:
+                                        :alt: 'HOME''S PRESS'
+                                        :height: '80'
+                                        :src: '/smp/assets/img/smartphone/page/index/abtest_b/services/press.png'
+                                        :width: '145'
+                                    - :name: 'p'
+                                      :attributes:
+                                        :class:
+                                          - label
+                            - :name: 'li'
+                              :attributes:
+                                :class:
+                                  - listItem
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                    :data-gtm-label: 'madream'
+                                    :href: 'http://madream.jp/sp/'
+                                    :target: '_blank'
+                                  :children:
+                                    - :name: 'img'
+                                      :attributes:
+                                        :alt: 'マドリーム'
+                                        :height: '80'
+                                        :src: 'https://madream.jp/bnr/madream_290_160.jpg'
+                                        :width: '145'
+                                    - :name: 'p'
+                                      :attributes:
+                                        :class:
+                                          - label
+                - :name: 'section'
+                  :attributes:
+                    :class:
+                      - sec-eventRelease
+                - :name: 'section'
+                  :attributes:
+                    :class:
+                      - sec-homesApp
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-homesApp
+                      :children:
+                        - :name: 'h2'
+                          :attributes:
+                            :class:
+                              - heading
+                        - :name: 'ul'
+                          :attributes:
+                            :class:
+                              - list
+                          :children:
+                            - :name: 'li'
+                              :attributes:
+                                :class:
+                                  - listItem
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                    :href: 'http://itunes.apple.com/jp/app/id342650611'
+                                    :target: '_blank'
+                                  :children:
+                                    - :name: 'img'
+                                      :attributes:
+                                        :alt: 'iOS(AppStore)'
+                                        :height: '80'
+                                        :src: '/smp/assets/img/smartphone/page/index/abtest_b/services/ios.png'
+                                        :width: '145'
+                                    - :name: 'p'
+                                      :attributes:
+                                        :class:
+                                          - label
+                                      :children:
+                                        - :name: 'br'
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - allApps
+                          :children:
+                            - :name: 'a'
+                              :attributes:
+                                :data-gtm-label: 'app'
+                                :href: 'http://www.homes.co.jp/app/'
+                - :name: 'section'
+                  :attributes:
+                    :class:
+                      - sec-sns
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-sns
+                      :children:
+                        - :name: 'h2'
+                          :attributes:
+                            :class:
+                              - heading
+                        - :name: 'ul'
+                          :attributes:
+                            :class:
+                              - list
+                          :children:
+                            - :name: 'li'
+                              :attributes:
+                                :class:
+                                  - listItem
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                    :data-gtm-label: 'facebook'
+                                    :href: 'http://m.facebook.com/homes.co.jp'
+                                    :target: '_blank'
+                                  :children:
+                                    - :name: 'img'
+                                      :attributes:
+                                        :alt: 'FacebookHOME''Sページ'
+                                        :height: '80'
+                                        :src: '/smp/assets/img/smartphone/page/index/abtest_b/services/facebook.png'
+                                        :width: '145'
+                                    - :name: 'p'
+                                      :attributes:
+                                        :class:
+                                          - label
+                                      :children:
+                                        - :name: 'br'
+                            - :name: 'li'
+                              :attributes:
+                                :class:
+                                  - listItem
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                    :data-gtm-label: 'twitter'
+                                    :href: 'http://twitter.com/HOMES_kun'
+                                    :target: '_blank'
+                                  :children:
+                                    - :name: 'img'
+                                      :attributes:
+                                        :alt: 'Twitter@HOMES_kun'
+                                        :height: '80'
+                                        :src: '/smp/assets/img/smartphone/page/index/abtest_b/services/twitter.png'
+                                        :width: '145'
+                                    - :name: 'p'
+                                      :attributes:
+                                        :class:
+                                          - label
+                                      :children:
+                                        - :name: 'br'
+                - :name: 'section'
+                  :attributes:
+                    :class:
+                      - sec-announceForRealtor
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-announceForRealtor
+                      :children:
+                        - :name: 'h2'
+                          :attributes:
+                            :class:
+                              - heading
+                        - :name: 'ul'
+                          :attributes:
+                            :class:
+                              - list
+                          :children:
+                            - :name: 'li'
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                    :data-gtm-label: 'businesspartner'
+                                    :href: 'http://www.homes.co.jp/businesspartner/'
+                                    :target: '_blank'
+                                  :children:
+                                    - :name: 'div'
+                                      :attributes:
+                                        :class:
+                                          - wrap
+                                      :children:
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - label
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - device
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - icon
+                - :name: 'section'
+                  :attributes:
+                    :class:
+                      - sec-recommendService
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-recommendService
+                      :children:
+                        - :name: 'h2'
+                          :attributes:
+                            :class:
+                              - heading
+                        - :name: 'ul'
+                          :attributes:
+                            :class:
+                              - list
+                          :children:
+                            - :name: 'li'
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                    :data-gtm-label: 'moneymo'
+                                    :href: 'https://www.moneymo.jp/seimei/'
+                                    :target: '_blank'
+                                  :children:
+                                    - :name: 'span'
+                                      :attributes:
+                                        :class:
+                                          - label
+                            - :name: 'li'
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                    :data-gtm-label: 'fam'
+                                    :href: 'http://lifull-fam.com/'
+                                    :target: '_blank'
+                                  :children:
+                                    - :name: 'span'
+                                      :attributes:
+                                        :class:
+                                          - label
+                            - :name: 'li'
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                    :data-gtm-label: 'livematch'
+                                    :href: 'http://www.lifull-livematch.com/'
+                                    :target: '_blank'
+                                  :children:
+                                    - :name: 'span'
+                                      :attributes:
+                                        :class:
+                                          - label
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - sec-award
+                  :children:
+                    - :name: 'div'
+                      :attributes:
+                        :class:
+                          - mod-award
+                      :children:
+                        - :name: 'ul'
+                          :attributes:
+                            :class:
+                              - list
+                          :children:
+                            - :name: 'li'
+                              :children:
+                                - :name: 'a'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                    :data-gtm-label: 'evaluation'
+                                    :href: 'http://www.homes.co.jp/about/service/evaluation/'
+                                  :children:
+                                    - :name: 'div'
+                                      :attributes:
+                                        :class:
+                                          - wrap
+                                      :children:
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - image
+                                          :children:
+                                            - :name: 'img'
+                                              :attributes:
+                                                :alt: 'Gomez Web Site Ranking 賃貸不動産情報サイトランキング第1位'
+                                                :src: '/smp/assets/img/smartphone/common/gomez_chintai.jpg'
+                                        - :name: 'span'
+                                          :attributes:
+                                            :class:
+                                              - label
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - sec-extraContents
+        - :name: 'div'
+          :attributes:
+            :class:
+              - mod-cxense
+            :style: 'display: none;'
+          :children:
+            - :name: 'p'
+              :attributes:
+                :class:
+                  - pr
+            - :name: 'div'
+              :attributes:
+                :id: 'insertAdSpaceBeforeThis_00000001604954d1'
+                :style: 'display:none'
+            - :name: 'script'
+              :attributes:
+                :type: 'text/javascript'
+            - :name: 'script'
+              :attributes:
+                :type: 'text/javascript'
+            - :name: 'div'
+              :attributes:
+                :id: 'insertAdSpaceBeforeThis_000000016070fa74'
+                :style: 'display:none'
+            - :name: 'script'
+              :attributes:
+                :type: 'text/javascript'
+            - :name: 'script'
+              :attributes:
+                :type: 'text/javascript'
+        - :name: 'footer'
+          :attributes:
+            :id: 'footer'
+          :children:
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - sec-pageTop
+              :children:
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - mod-pageTop
+                  :children:
+                    - :name: 'p'
+                      :attributes:
+                        :class:
+                          - pagetop
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: '#header'
+                          :children:
+                            - :name: 'span'
+                              :attributes:
+                                :class:
+                                  - icon
+                              :children:
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - ui-svg-icon
+                                  :children:
+                                    - :name: 'svg'
+                                      :attributes:
+                                        :height: '20'
+                                        :width: '20'
+                                      :children:
+                                        - :name: 'g'
+                                          :children:
+                                            - :name: 'use'
+                                              :attributes:
+                                                :fill: '#626262'
+                                                :xlink:href: '#arrow5'
+                            - :name: 'span'
+                              :attributes:
+                                :class:
+                                  - label
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - mod-footer
+              :children:
+                - :name: 'ul'
+                  :attributes:
+                    :class:
+                      - navUtility
+                  :children:
+                    - :name: 'li'
+                      :attributes:
+                        :class:
+                          - about
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'http://www.homes.co.jp/about/concept/'
+                    - :name: 'li'
+                      :attributes:
+                        :class:
+                          - kiyaku
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'http://www.homes.co.jp/kiyaku/'
+                    - :name: 'li'
+                      :attributes:
+                        :class:
+                          - privacy
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'http://www.next-group.jp/privacy/'
+                            :target: '_blank'
+                    - :name: 'li'
+                      :attributes:
+                        :class:
+                          - company
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'http://www.next-group.jp/'
+                            :target: '_blank'
+                    - :name: 'li'
+                      :attributes:
+                        :class:
+                          - request
+                      :children:
+                        - :name: 'a'
+                          :attributes:
+                            :href: 'https://f.msgs.jp/webapp/form/13722_uhu_14/index.do'
+                            :target: '_blank'
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - companyIdentity
+                  :children:
+                    - :name: 'p'
+                      :attributes:
+                        :class:
+                          - logo
+                      :children:
+                        - :name: 'img'
+                          :attributes:
+                            :alt: '株式会社ネクスト'
+                            :height: '60'
+                            :src: '/smp/assets/img/smartphone/page/index/abtest_b/next.png'
+                            :width: '200'
+                    - :name: 'p'
+                      :attributes:
+                        :class:
+                          - copyright
+        - :name: 'script'
+          :attributes:
+            :type: 'text/javascript'
+        - :name: 'script'
+          :attributes:
+            :id: 'tracker-googleTagParams'
+        - :name: 'script'
+          :attributes:
+            :id: 'tracker-dataLayer'
+            :type: 'text/javascript'
+        - :name: 'noscript'
+          :attributes:
+            :id: 'tracker-gtmNoScriptSp'
+          :children:
+            - :name: 'iframe'
+              :attributes:
+                :height: '0'
+                :src: '//www.googletagmanager.com/ns.html?id=GTM-MX8VT9'
+                :style: 'display:none;visibility:hidden'
+                :width: '0'
+        - :name: 'script'
+          :attributes:
+            :id: 'tracker-gtmScriptSp'
+            :type: 'text/javascript'
+        - :name: 'script'
+          :attributes:
+            :id: 'tracker-tagknightSp'
+            :type: 'text/javascript'
+        - :name: 'script'
+          :attributes:
+            :type: 'text/javascript'
+        - :name: 'script'
+          :attributes:
+            :src: '//penta.a.one.impact-ad.jp/dd?oid=be1ed93f154f602c&rft=j&jsonp=aone_segments'
+            :type: 'text/javascript'
