@@ -519,7 +519,7 @@
                                           :attributes:
                                             :alt: ''
                                             :height: '50'
-                                            :src: '/reform/img/common/avatar/man01.png'
+                                            :src: '/reform/img/common/avatar/woman01.png'
                                             :width: '50'
                                     - :name: 'div'
                                       :attributes:
@@ -544,7 +544,7 @@
                                                   :attributes:
                                                     :alt: '点数：'
                                                     :height: '20'
-                                                    :src: '/reform/img/common/icon/star/point45.png'
+                                                    :src: '/reform/img/common/icon/star/point50.png'
                                                     :width: '100'
                                             - :name: 'span'
                                               :attributes:
@@ -649,6 +649,218 @@
                                 :class:
                                   - voiceContents
                               :children:
+                                - :name: 'h3'
+                                  :attributes:
+                                    :class:
+                                      - title
+                                - :name: 'p'
+                                - :name: 'h3'
+                                  :attributes:
+                                    :class:
+                                      - title
+                                - :name: 'p'
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - constructionContents
+                              :children:
+                                - :name: 'h3'
+                                  :attributes:
+                                    :class:
+                                      - title
+                                - :name: 'table'
+                                  :attributes:
+                                    :class:
+                                      - ui-table-def
+                                  :children:
+                                    - :name: 'tbody'
+                                      :children:
+                                        - :name: 'tr'
+                                          :children:
+                                            - :name: 'th'
+                                            - :name: 'td'
+                                        - :name: 'tr'
+                                          :children:
+                                            - :name: 'th'
+                                            - :name: 'td'
+                                        - :name: 'tr'
+                                          :children:
+                                            - :name: 'th'
+                                            - :name: 'td'
+                                        - :name: 'tr'
+                                          :children:
+                                            - :name: 'th'
+                                            - :name: 'td'
+                                        - :name: 'tr'
+                                          :children:
+                                            - :name: 'th'
+                                            - :name: 'td'
+                                        - :name: 'tr'
+                                          :children:
+                                            - :name: 'th'
+                                            - :name: 'td'
+                                              :attributes:
+                                                :class:
+                                                  - parts
+                        - :name: 'div'
+                          :attributes:
+                            :class:
+                              - reviewUnit
+                          :children:
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - reviewContents
+                              :children:
+                                - :name: 'div'
+                                  :attributes:
+                                    :class:
+                                      - reviewHead
+                                  :children:
+                                    - :name: 'div'
+                                      :attributes:
+                                        :class:
+                                          - userFigure
+                                      :children:
+                                        - :name: 'img'
+                                          :attributes:
+                                            :alt: ''
+                                            :height: '50'
+                                            :src: '/reform/img/common/avatar/man01.png'
+                                            :width: '50'
+                                    - :name: 'div'
+                                      :attributes:
+                                        :class:
+                                          - userReview
+                                      :children:
+                                        - :name: 'p'
+                                          :attributes:
+                                            :class:
+                                              - profile
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - reviewStar
+                                          :children:
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - star
+                                              :children:
+                                                - :name: 'img'
+                                                  :attributes:
+                                                    :alt: '点数：'
+                                                    :height: '20'
+                                                    :src: '/reform/img/common/icon/star/point35.png'
+                                                    :width: '100'
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - totalPoint
+                                - :name: 'div'
+                                  :attributes:
+                                    :class:
+                                      - reviewEachPoint
+                                  :children:
+                                    - :name: 'h3'
+                                      :attributes:
+                                        :class:
+                                          - title
+                                    - :name: 'div'
+                                      :attributes:
+                                        :class:
+                                          - line
+                                      :children:
+                                        - :name: 'dl'
+                                          :children:
+                                            - :name: 'dt'
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-iconSet-evaluationItems
+                                                      - extends-speed
+                                            - :name: 'dd'
+                                        - :name: 'dl'
+                                          :children:
+                                            - :name: 'dt'
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-iconSet-evaluationItems
+                                                      - extends-price
+                                            - :name: 'dd'
+                                        - :name: 'dl'
+                                          :children:
+                                            - :name: 'dt'
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-iconSet-evaluationItems
+                                                      - extends-completion
+                                            - :name: 'dd'
+                                        - :name: 'dl'
+                                          :children:
+                                            - :name: 'dt'
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-iconSet-evaluationItems
+                                                      - extends-planning
+                                            - :name: 'dd'
+                                        - :name: 'dl'
+                                          :children:
+                                            - :name: 'dt'
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-iconSet-evaluationItems
+                                                      - extends-sensitivity
+                                            - :name: 'dd'
+                                        - :name: 'dl'
+                                          :children:
+                                            - :name: 'dt'
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-iconSet-evaluationItems
+                                                      - extends-manners
+                                            - :name: 'dd'
+                                        - :name: 'dl'
+                                          :children:
+                                            - :name: 'dt'
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-iconSet-evaluationItems
+                                                      - extends-promise
+                                            - :name: 'dd'
+                                        - :name: 'dl'
+                                          :children:
+                                            - :name: 'dt'
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-iconSet-evaluationItems
+                                                      - extends-recommend
+                                            - :name: 'dd'
+                            - :name: 'div'
+                              :attributes:
+                                :class:
+                                  - voiceContents
+                              :children:
+                                - :name: 'h3'
+                                  :attributes:
+                                    :class:
+                                      - title
+                                - :name: 'p'
                                 - :name: 'h3'
                                   :attributes:
                                     :class:
@@ -746,7 +958,7 @@
                                                   :attributes:
                                                     :alt: '点数：'
                                                     :height: '20'
-                                                    :src: '/reform/img/common/icon/star/point45.png'
+                                                    :src: '/reform/img/common/icon/star/point50.png'
                                                     :width: '100'
                                             - :name: 'span'
                                               :attributes:
@@ -856,214 +1068,6 @@
                                     :class:
                                       - title
                                 - :name: 'p'
-                                - :name: 'h3'
-                                  :attributes:
-                                    :class:
-                                      - title
-                                - :name: 'p'
-                            - :name: 'div'
-                              :attributes:
-                                :class:
-                                  - constructionContents
-                              :children:
-                                - :name: 'h3'
-                                  :attributes:
-                                    :class:
-                                      - title
-                                - :name: 'table'
-                                  :attributes:
-                                    :class:
-                                      - ui-table-def
-                                  :children:
-                                    - :name: 'tbody'
-                                      :children:
-                                        - :name: 'tr'
-                                          :children:
-                                            - :name: 'th'
-                                            - :name: 'td'
-                                        - :name: 'tr'
-                                          :children:
-                                            - :name: 'th'
-                                            - :name: 'td'
-                                        - :name: 'tr'
-                                          :children:
-                                            - :name: 'th'
-                                            - :name: 'td'
-                                        - :name: 'tr'
-                                          :children:
-                                            - :name: 'th'
-                                            - :name: 'td'
-                                        - :name: 'tr'
-                                          :children:
-                                            - :name: 'th'
-                                            - :name: 'td'
-                                        - :name: 'tr'
-                                          :children:
-                                            - :name: 'th'
-                                            - :name: 'td'
-                                              :attributes:
-                                                :class:
-                                                  - parts
-                        - :name: 'div'
-                          :attributes:
-                            :class:
-                              - reviewUnit
-                          :children:
-                            - :name: 'div'
-                              :attributes:
-                                :class:
-                                  - reviewContents
-                              :children:
-                                - :name: 'div'
-                                  :attributes:
-                                    :class:
-                                      - reviewHead
-                                  :children:
-                                    - :name: 'div'
-                                      :attributes:
-                                        :class:
-                                          - userFigure
-                                      :children:
-                                        - :name: 'img'
-                                          :attributes:
-                                            :height: '50'
-                                            :src: '/reform/img/common/avatar/user.png'
-                                            :width: '50'
-                                    - :name: 'div'
-                                      :attributes:
-                                        :class:
-                                          - userReview
-                                      :children:
-                                        - :name: 'p'
-                                          :attributes:
-                                            :class:
-                                              - profile
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - reviewStar
-                                          :children:
-                                            - :name: 'span'
-                                              :attributes:
-                                                :class:
-                                                  - star
-                                              :children:
-                                                - :name: 'img'
-                                                  :attributes:
-                                                    :alt: '点数：'
-                                                    :height: '20'
-                                                    :src: '/reform/img/common/icon/star/point20.png'
-                                                    :width: '100'
-                                            - :name: 'span'
-                                              :attributes:
-                                                :class:
-                                                  - totalPoint
-                                - :name: 'div'
-                                  :attributes:
-                                    :class:
-                                      - reviewEachPoint
-                                  :children:
-                                    - :name: 'h3'
-                                      :attributes:
-                                        :class:
-                                          - title
-                                    - :name: 'div'
-                                      :attributes:
-                                        :class:
-                                          - line
-                                      :children:
-                                        - :name: 'dl'
-                                          :children:
-                                            - :name: 'dt'
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-iconSet-evaluationItems
-                                                      - extends-speed
-                                            - :name: 'dd'
-                                        - :name: 'dl'
-                                          :children:
-                                            - :name: 'dt'
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-iconSet-evaluationItems
-                                                      - extends-price
-                                            - :name: 'dd'
-                                        - :name: 'dl'
-                                          :children:
-                                            - :name: 'dt'
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-iconSet-evaluationItems
-                                                      - extends-completion
-                                            - :name: 'dd'
-                                        - :name: 'dl'
-                                          :children:
-                                            - :name: 'dt'
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-iconSet-evaluationItems
-                                                      - extends-planning
-                                            - :name: 'dd'
-                                        - :name: 'dl'
-                                          :children:
-                                            - :name: 'dt'
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-iconSet-evaluationItems
-                                                      - extends-sensitivity
-                                            - :name: 'dd'
-                                        - :name: 'dl'
-                                          :children:
-                                            - :name: 'dt'
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-iconSet-evaluationItems
-                                                      - extends-manners
-                                            - :name: 'dd'
-                                        - :name: 'dl'
-                                          :children:
-                                            - :name: 'dt'
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-iconSet-evaluationItems
-                                                      - extends-promise
-                                            - :name: 'dd'
-                                        - :name: 'dl'
-                                          :children:
-                                            - :name: 'dt'
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-iconSet-evaluationItems
-                                                      - extends-recommend
-                                            - :name: 'dd'
-                            - :name: 'div'
-                              :attributes:
-                                :class:
-                                  - voiceContents
-                              :children:
-                                - :name: 'h3'
-                                  :attributes:
-                                    :class:
-                                      - title
-                                - :name: 'p'
-                                  :children:
-                                    - :name: 'br'
                                 - :name: 'h3'
                                   :attributes:
                                     :class:
@@ -1136,7 +1140,7 @@
                                           :attributes:
                                             :alt: ''
                                             :height: '50'
-                                            :src: '/reform/img/common/avatar/man01.png'
+                                            :src: '/reform/img/common/avatar/woman01.png'
                                             :width: '50'
                                     - :name: 'div'
                                       :attributes:
@@ -1420,7 +1424,7 @@
                                         - :name: 'img'
                                           :attributes:
                                             :alt: ''
-                                            :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510582/construction_case/3411/3411_1_1.jpg&width=60&height=60'
+                                            :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510580/construction_case/924/924_1_1.jpg&width=60&height=60'
                                     - :name: 'span'
                                       :attributes:
                                         :class:
@@ -1462,7 +1466,7 @@
                                         - :name: 'img'
                                           :attributes:
                                             :alt: ''
-                                            :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510786/construction_case/4113/4113_5_1.jpg&width=60&height=60'
+                                            :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510630/construction_case/6178/6178_7_1.jpg&width=60&height=60'
                                     - :name: 'span'
                                       :attributes:
                                         :class:
@@ -1504,7 +1508,7 @@
                                         - :name: 'img'
                                           :attributes:
                                             :alt: ''
-                                            :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513288/construction_case/8994/8994_2_1.png&width=60&height=60'
+                                            :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510590/construction_case/28/28_4_1.jpg&width=60&height=60'
                                     - :name: 'span'
                                       :attributes:
                                         :class:
@@ -1546,7 +1550,7 @@
                                         - :name: 'img'
                                           :attributes:
                                             :alt: ''
-                                            :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510725/construction_case/186/186_3_1.jpg&width=60&height=60'
+                                            :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510579/construction_case/3068/3068_1_1.jpg&width=60&height=60'
                                     - :name: 'span'
                                       :attributes:
                                         :class:
@@ -1599,7 +1603,7 @@
                                                 - :name: 'img'
                                                   :attributes:
                                                     :alt: ''
-                                                    :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510579/construction_case/3175/3175_5_1.jpg&width=60&height=60'
+                                                    :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510892/construction_case/6347/6347_3_1.jpg&width=60&height=60'
                                             - :name: 'span'
                                               :attributes:
                                                 :class:
@@ -1641,7 +1645,7 @@
                                                 - :name: 'img'
                                                   :attributes:
                                                     :alt: ''
-                                                    :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510786/construction_case/4521/4521_2_1.jpg&width=60&height=60'
+                                                    :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510600/construction_case/4165/4165_1_1.jpg&width=60&height=60'
                                             - :name: 'span'
                                               :attributes:
                                                 :class:
@@ -1683,7 +1687,7 @@
                                                 - :name: 'img'
                                                   :attributes:
                                                     :alt: ''
-                                                    :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510980/construction_case/4427/4427_1_1.jpg&width=60&height=60'
+                                                    :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510709/construction_case/7372/7372_2_1.jpg&width=60&height=60'
                                             - :name: 'span'
                                               :attributes:
                                                 :class:
@@ -1725,7 +1729,7 @@
                                                 - :name: 'img'
                                                   :attributes:
                                                     :alt: ''
-                                                    :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513349/construction_case/9411/9411_2_1.jpg&width=60&height=60'
+                                                    :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510630/construction_case/6084/6084_2_1.jpg&width=60&height=60'
                                             - :name: 'span'
                                               :attributes:
                                                 :class:
@@ -1767,7 +1771,7 @@
                                                 - :name: 'img'
                                                   :attributes:
                                                     :alt: ''
-                                                    :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510576/construction_case/3983/3983_5_1.jpg&width=60&height=60'
+                                                    :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510585/construction_case/5719/5719_3_1.jpg&width=60&height=60'
                                             - :name: 'span'
                                               :attributes:
                                                 :class:
@@ -1809,7 +1813,7 @@
                                                 - :name: 'img'
                                                   :attributes:
                                                     :alt: ''
-                                                    :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513145/construction_case/8322/8322_3_1.jpg&width=60&height=60'
+                                                    :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513110/construction_case/9025/9025_7_1.jpg&width=60&height=60'
                                             - :name: 'span'
                                               :attributes:
                                                 :class:
@@ -1893,7 +1897,7 @@
                                                 - :name: 'img'
                                                   :attributes:
                                                     :alt: ''
-                                                    :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510590/construction_case/26/26_5_1.jpg&width=60&height=60'
+                                                    :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510630/construction_case/6122/6122_8_1.jpg&width=60&height=60'
                                             - :name: 'span'
                                               :attributes:
                                                 :class:
@@ -1935,7 +1939,7 @@
                                                 - :name: 'img'
                                                   :attributes:
                                                     :alt: ''
-                                                    :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513118/construction_case/7203/7203_2_1.jpg&width=60&height=60'
+                                                    :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513306/construction_case/9010/9010_6_1.jpg&width=60&height=60'
                                             - :name: 'span'
                                               :attributes:
                                                 :class:
@@ -1977,7 +1981,7 @@
                                                 - :name: 'img'
                                                   :attributes:
                                                     :alt: ''
-                                                    :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513118/construction_case/7199/7199_8_1.jpg&width=60&height=60'
+                                                    :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513129/construction_case/8803/8803_3_1.jpg&width=60&height=60'
                                             - :name: 'span'
                                               :attributes:
                                                 :class:
@@ -2019,7 +2023,7 @@
                                                 - :name: 'img'
                                                   :attributes:
                                                     :alt: ''
-                                                    :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513110/construction_case/7179/7179_7_1.jpg&width=60&height=60'
+                                                    :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513123/construction_case/7240/7240_2_1.jpg&width=60&height=60'
                                             - :name: 'span'
                                               :attributes:
                                                 :class:
@@ -2103,7 +2107,7 @@
                                                 - :name: 'img'
                                                   :attributes:
                                                     :alt: ''
-                                                    :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513145/construction_case/7636/7636_5_1.jpg&width=60&height=60'
+                                                    :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513232/construction_case/8209/8209_1_1.jpg&width=60&height=60'
                                             - :name: 'span'
                                               :attributes:
                                                 :class:
@@ -2145,7 +2149,7 @@
                                                 - :name: 'img'
                                                   :attributes:
                                                     :alt: ''
-                                                    :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510892/construction_case/7231/7231_1_1.jpg&width=60&height=60'
+                                                    :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513123/construction_case/7240/7240_4_1.jpg&width=60&height=60'
                                             - :name: 'span'
                                               :attributes:
                                                 :class:
@@ -2187,7 +2191,7 @@
                                                 - :name: 'img'
                                                   :attributes:
                                                     :alt: ''
-                                                    :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510580/construction_case/2790/2790_1_1.jpg&width=60&height=60'
+                                                    :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510950/construction_case/5696/5696_1_1.jpg&width=60&height=60'
                                             - :name: 'span'
                                               :attributes:
                                                 :class:
@@ -2229,7 +2233,7 @@
                                                 - :name: 'img'
                                                   :attributes:
                                                     :alt: ''
-                                                    :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510576/construction_case/1430/1430_5_1.jpg&width=60&height=60'
+                                                    :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510582/construction_case/3582/3582_10_1.jpg&width=60&height=60'
                                             - :name: 'span'
                                               :attributes:
                                                 :class:

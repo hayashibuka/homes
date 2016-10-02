@@ -542,7 +542,7 @@
                                                     - :name: 'img'
                                                       :attributes:
                                                         :alt: ''
-                                                        :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513232/main/9513232_0_1.jpg&width=80&height=80'
+                                                        :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513089/main/9513089_0_1.jpg&width=80&height=80'
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
@@ -555,175 +555,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: '/reform/shop/9513232_0/'
-                                                        :target: '_blank'
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - prtext
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - item
-                                      :children:
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - shopHead
-                                          :children:
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopThumb
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-imageBox
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: ''
-                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513088/main/9513088_0_1.jpg&width=80&height=80'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopData
-                                              :children:
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - shopName
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: '/reform/shop/9513088_0/'
-                                                        :target: '_blank'
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - prtext
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - item
-                                      :children:
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - shopHead
-                                          :children:
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopThumb
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-imageBox
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: ''
-                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9511119/main/9511119_0_1.jpg&width=80&height=80'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopData
-                                              :children:
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - shopName
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: '/reform/shop/9511119_0/'
-                                                        :target: '_blank'
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - prtext
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - item
-                                      :children:
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - shopHead
-                                          :children:
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopThumb
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-imageBox
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: ''
-                                                        :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513122/main/9513122_0_1.jpg&width=80&height=80'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopData
-                                              :children:
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - shopName
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: '/reform/shop/9513122_0/'
-                                                        :target: '_blank'
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - prtext
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - item
-                                      :children:
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - shopHead
-                                          :children:
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopThumb
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-imageBox
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: ''
-                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513329/main/9513329_0_1.gif&width=80&height=80'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopData
-                                              :children:
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - shopName
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: '/reform/shop/9513329_0/'
+                                                        :href: '/reform/shop/9513089_0/'
                                                         :target: '_blank'
                                                 - :name: 'p'
                                                   :attributes:
@@ -794,7 +626,7 @@
                                                     - :name: 'img'
                                                       :attributes:
                                                         :alt: ''
-                                                        :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513298/main/9513298_0_1.jpg&width=80&height=80'
+                                                        :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513335/main/9513335_0_1.jpg&width=80&height=80'
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
@@ -807,7 +639,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: '/reform/shop/9513298_1/'
+                                                        :href: '/reform/shop/9513335_0/'
                                                         :target: '_blank'
                                                 - :name: 'p'
                                                   :attributes:
@@ -836,7 +668,7 @@
                                                     - :name: 'img'
                                                       :attributes:
                                                         :alt: ''
-                                                        :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513149/main/9513149_0_1.gif&width=80&height=80'
+                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510895/main/9510895_0_1.jpg&width=80&height=80'
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
@@ -849,91 +681,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: '/reform/shop/9513149_0/'
-                                                        :target: '_blank'
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - prtext
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - item
-                                      :children:
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - shopHead
-                                          :children:
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopThumb
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-imageBox
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: ''
-                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513173/main/9513173_0_1.jpg&width=80&height=80'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopData
-                                              :children:
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - shopName
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: '/reform/shop/9513173_0/'
-                                                        :target: '_blank'
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - prtext
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - item
-                                      :children:
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - shopHead
-                                          :children:
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopThumb
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-imageBox
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: ''
-                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510709/main/9510709_0_1.jpg&width=80&height=80'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopData
-                                              :children:
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - shopName
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: '/reform/shop/9510709_0/'
+                                                        :href: '/reform/shop/9510895_0/'
                                                         :target: '_blank'
                                                 - :name: 'p'
                                                   :attributes:
@@ -1004,7 +752,7 @@
                                                     - :name: 'img'
                                                       :attributes:
                                                         :alt: ''
-                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510601/main/9510601_0_1.gif&width=80&height=80'
+                                                        :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510794/main/9510794_0_1.jpg&width=80&height=80'
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
@@ -1017,7 +765,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: '/reform/shop/9510601_2/'
+                                                        :href: '/reform/shop/9510794_0/'
                                                         :target: '_blank'
                                                 - :name: 'p'
                                                   :attributes:
@@ -1046,7 +794,7 @@
                                                     - :name: 'img'
                                                       :attributes:
                                                         :alt: ''
-                                                        :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510649/main/9510649_0_1.jpg&width=80&height=80'
+                                                        :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510847/main/9510847_0_1.jpg&width=80&height=80'
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
@@ -1059,7 +807,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: '/reform/shop/9510649_2/'
+                                                        :href: '/reform/shop/9510847_0/'
                                                         :target: '_blank'
                                                 - :name: 'p'
                                                   :attributes:
@@ -1088,7 +836,7 @@
                                                     - :name: 'img'
                                                       :attributes:
                                                         :alt: ''
-                                                        :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510657/main/9510657_0_1.jpg&width=80&height=80'
+                                                        :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510625/main/9510625_0_1.jpg&width=80&height=80'
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
@@ -1101,217 +849,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: '/reform/shop/9510657_0/'
-                                                        :target: '_blank'
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - prtext
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - item
-                                      :children:
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - shopHead
-                                          :children:
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopThumb
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-imageBox
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: ''
-                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513273/main/9513273_0_1.jpg&width=80&height=80'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopData
-                                              :children:
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - shopName
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: '/reform/shop/9513273_0/'
-                                                        :target: '_blank'
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - prtext
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - item
-                                      :children:
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - shopHead
-                                          :children:
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopThumb
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-imageBox
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: ''
-                                                        :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9511121/main/9511121_0_1.jpg&width=80&height=80'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopData
-                                              :children:
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - shopName
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: '/reform/shop/9511121_0/'
-                                                        :target: '_blank'
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - prtext
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - item
-                                      :children:
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - shopHead
-                                          :children:
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopThumb
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-imageBox
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: ''
-                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510603/main/9510603_0_1.jpg&width=80&height=80'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopData
-                                              :children:
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - shopName
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: '/reform/shop/9510603_0/'
-                                                        :target: '_blank'
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - prtext
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - item
-                                      :children:
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - shopHead
-                                          :children:
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopThumb
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-imageBox
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: ''
-                                                        :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510581/main/9510581_0_1.jpg&width=80&height=80'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopData
-                                              :children:
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - shopName
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: '/reform/shop/9510581_22/'
-                                                        :target: '_blank'
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - prtext
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - item
-                                      :children:
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - shopHead
-                                          :children:
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopThumb
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-imageBox
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: ''
-                                                        :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513145/main/9513145_0_1.jpg&width=80&height=80'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopData
-                                              :children:
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - shopName
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: '/reform/shop/9513145_13/'
+                                                        :href: '/reform/shop/9510625_0/'
                                                         :target: '_blank'
                                                 - :name: 'p'
                                                   :attributes:
@@ -1382,7 +920,7 @@
                                                     - :name: 'img'
                                                       :attributes:
                                                         :alt: ''
-                                                        :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513323/main/9513323_0_1.jpg&width=80&height=80'
+                                                        :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510589/main/9510589_0_1.jpg&width=80&height=80'
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
@@ -1395,91 +933,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: '/reform/shop/9513323_0/'
-                                                        :target: '_blank'
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - prtext
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - item
-                                      :children:
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - shopHead
-                                          :children:
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopThumb
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-imageBox
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: ''
-                                                        :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513335/main/9513335_0_1.jpg&width=80&height=80'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopData
-                                              :children:
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - shopName
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: '/reform/shop/9513335_0/'
-                                                        :target: '_blank'
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - prtext
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - item
-                                      :children:
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - shopHead
-                                          :children:
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopThumb
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-imageBox
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: ''
-                                                        :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513186/main/9513186_0_1.jpg&width=80&height=80'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopData
-                                              :children:
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - shopName
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: '/reform/shop/9513186_0/'
+                                                        :href: '/reform/shop/9510589_0/'
                                                         :target: '_blank'
                                                 - :name: 'p'
                                                   :attributes:
@@ -1550,7 +1004,7 @@
                                                     - :name: 'img'
                                                       :attributes:
                                                         :alt: ''
-                                                        :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513381/main/9513381_0_1.jpg&width=80&height=80'
+                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510585/main/9510585_0_1.jpg&width=80&height=80'
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
@@ -1563,49 +1017,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: '/reform/shop/9513381_0/'
-                                                        :target: '_blank'
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - prtext
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - item
-                                      :children:
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - shopHead
-                                          :children:
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopThumb
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - ui-imageBox
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: ''
-                                                        :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513346/main/9513346_0_1.jpg&width=80&height=80'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - shopData
-                                              :children:
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - shopName
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: '/reform/shop/9513346_0/'
+                                                        :href: '/reform/shop/9510585_1/'
                                                         :target: '_blank'
                                                 - :name: 'p'
                                                   :attributes:
@@ -1676,7 +1088,7 @@
                                                     - :name: 'img'
                                                       :attributes:
                                                         :alt: ''
-                                                        :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513118/main/9513118_0_1.jpg&width=80&height=80'
+                                                        :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510590/main/9510590_0_1.jpg&width=80&height=80'
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
@@ -1689,7 +1101,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: '/reform/shop/9513118_0/'
+                                                        :href: '/reform/shop/9510590_0/'
                                                         :target: '_blank'
                                                 - :name: 'p'
                                                   :attributes:
@@ -1718,7 +1130,7 @@
                                                     - :name: 'img'
                                                       :attributes:
                                                         :alt: ''
-                                                        :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9511142/main/9511142_0_1.jpg&width=80&height=80'
+                                                        :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513275/main/9513275_0_1.png&width=80&height=80'
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
@@ -1731,7 +1143,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: '/reform/shop/9511142_0/'
+                                                        :href: '/reform/shop/9513275_0/'
                                                         :target: '_blank'
                                                 - :name: 'p'
                                                   :attributes:
@@ -1760,7 +1172,7 @@
                                                     - :name: 'img'
                                                       :attributes:
                                                         :alt: ''
-                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513367/main/9513367_0_1.jpg&width=80&height=80'
+                                                        :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513363/main/9513363_0_1.jpg&width=80&height=80'
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
@@ -1773,7 +1185,595 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: '/reform/shop/9513367_0/'
+                                                        :href: '/reform/shop/9513363_0/'
+                                                        :target: '_blank'
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - prtext
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - item
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - shopHead
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopThumb
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-imageBox
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: ''
+                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510980/main/9510980_0_1.jpg&width=80&height=80'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopData
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - shopName
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: '/reform/shop/9510980_0/'
+                                                        :target: '_blank'
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - prtext
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - item
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - shopHead
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopThumb
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-imageBox
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: ''
+                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513339/main/9513339_0_1.jpg&width=80&height=80'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopData
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - shopName
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: '/reform/shop/9513339_0/'
+                                                        :target: '_blank'
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - prtext
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - item
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - shopHead
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopThumb
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-imageBox
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: ''
+                                                        :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510583/main/9510583_0_1.jpg&width=80&height=80'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopData
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - shopName
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: '/reform/shop/9510583_0/'
+                                                        :target: '_blank'
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - prtext
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - item
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - shopHead
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopThumb
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-imageBox
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: ''
+                                                        :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510657/main/9510657_0_1.jpg&width=80&height=80'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopData
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - shopName
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: '/reform/shop/9510657_0/'
+                                                        :target: '_blank'
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - prtext
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - item
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - shopHead
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopThumb
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-imageBox
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: ''
+                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9511119/main/9511119_0_1.jpg&width=80&height=80'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopData
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - shopName
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: '/reform/shop/9511119_0/'
+                                                        :target: '_blank'
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - prtext
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - item
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - shopHead
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopThumb
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-imageBox
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: ''
+                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510610/main/9510610_0_1.jpg&width=80&height=80'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopData
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - shopName
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: '/reform/shop/9510610_0/'
+                                                        :target: '_blank'
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - prtext
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - item
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - shopHead
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopThumb
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-imageBox
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: ''
+                                                        :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510612/main/9510612_0_1.jpg&width=80&height=80'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopData
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - shopName
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: '/reform/shop/9510612_13/'
+                                                        :target: '_blank'
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - prtext
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - item
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - shopHead
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopThumb
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-imageBox
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: ''
+                                                        :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9511104/main/9511104_0_1.jpg&width=80&height=80'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopData
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - shopName
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: '/reform/shop/9511104_0/'
+                                                        :target: '_blank'
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - prtext
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - item
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - shopHead
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopThumb
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-imageBox
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: ''
+                                                        :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510580/main/9510580_0_1.gif&width=80&height=80'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopData
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - shopName
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: '/reform/shop/9510580_4/'
+                                                        :target: '_blank'
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - prtext
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - item
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - shopHead
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopThumb
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-imageBox
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: ''
+                                                        :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510656/main/9510656_0_1.jpg&width=80&height=80'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopData
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - shopName
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: '/reform/shop/9510656_0/'
+                                                        :target: '_blank'
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - prtext
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - item
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - shopHead
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopThumb
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-imageBox
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: ''
+                                                        :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513122/main/9513122_0_1.jpg&width=80&height=80'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopData
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - shopName
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: '/reform/shop/9513122_0/'
+                                                        :target: '_blank'
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - prtext
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - item
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - shopHead
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopThumb
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-imageBox
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: ''
+                                                        :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9511108/main/9511108_0_1.jpg&width=80&height=80'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopData
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - shopName
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: '/reform/shop/9511108_0/'
+                                                        :target: '_blank'
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - prtext
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - item
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - shopHead
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopThumb
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-imageBox
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: ''
+                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510603/main/9510603_0_1.jpg&width=80&height=80'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopData
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - shopName
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: '/reform/shop/9510603_0/'
+                                                        :target: '_blank'
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - prtext
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - item
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - shopHead
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopThumb
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - ui-imageBox
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: ''
+                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513329/main/9513329_0_1.gif&width=80&height=80'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - shopData
+                                              :children:
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - shopName
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: '/reform/shop/9513329_0/'
                                                         :target: '_blank'
                                                 - :name: 'p'
                                                   :attributes:
@@ -1978,7 +1978,222 @@
                                                           :attributes:
                                                             :alt: '点数：'
                                                             :height: '20'
-                                                            :src: '/reform/img/common/icon/star/point50.png'
+                                                            :src: '/reform/img/common/icon/star/point40.png'
+                                                            :width: '100'
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - totalPoint
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - profile
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - reviewEachPoint
+                                              :children:
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - line
+                                                  :children:
+                                                    - :name: 'dl'
+                                                      :children:
+                                                        - :name: 'dt'
+                                                          :children:
+                                                            - :name: 'span'
+                                                              :attributes:
+                                                                :class:
+                                                                  - ui-iconSet-evaluationItems
+                                                                  - extends-speed
+                                                        - :name: 'dd'
+                                                    - :name: 'dl'
+                                                      :children:
+                                                        - :name: 'dt'
+                                                          :children:
+                                                            - :name: 'span'
+                                                              :attributes:
+                                                                :class:
+                                                                  - ui-iconSet-evaluationItems
+                                                                  - extends-price
+                                                        - :name: 'dd'
+                                                    - :name: 'dl'
+                                                      :children:
+                                                        - :name: 'dt'
+                                                          :children:
+                                                            - :name: 'span'
+                                                              :attributes:
+                                                                :class:
+                                                                  - ui-iconSet-evaluationItems
+                                                                  - extends-completion
+                                                        - :name: 'dd'
+                                                    - :name: 'dl'
+                                                      :children:
+                                                        - :name: 'dt'
+                                                          :children:
+                                                            - :name: 'span'
+                                                              :attributes:
+                                                                :class:
+                                                                  - ui-iconSet-evaluationItems
+                                                                  - extends-planning
+                                                        - :name: 'dd'
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - line
+                                                  :children:
+                                                    - :name: 'dl'
+                                                      :children:
+                                                        - :name: 'dt'
+                                                          :children:
+                                                            - :name: 'span'
+                                                              :attributes:
+                                                                :class:
+                                                                  - ui-iconSet-evaluationItems
+                                                                  - extends-sensitivity
+                                                        - :name: 'dd'
+                                                    - :name: 'dl'
+                                                      :children:
+                                                        - :name: 'dt'
+                                                          :children:
+                                                            - :name: 'span'
+                                                              :attributes:
+                                                                :class:
+                                                                  - ui-iconSet-evaluationItems
+                                                                  - extends-manners
+                                                        - :name: 'dd'
+                                                    - :name: 'dl'
+                                                      :children:
+                                                        - :name: 'dt'
+                                                          :children:
+                                                            - :name: 'span'
+                                                              :attributes:
+                                                                :class:
+                                                                  - ui-iconSet-evaluationItems
+                                                                  - extends-promise
+                                                        - :name: 'dd'
+                                                    - :name: 'dl'
+                                                      :children:
+                                                        - :name: 'dt'
+                                                          :children:
+                                                            - :name: 'span'
+                                                              :attributes:
+                                                                :class:
+                                                                  - ui-iconSet-evaluationItems
+                                                                  - extends-recommend
+                                                        - :name: 'dd'
+                                    - :name: 'div'
+                                      :attributes:
+                                        :class:
+                                          - constructionContents
+                                      :children:
+                                        - :name: 'h3'
+                                          :attributes:
+                                            :class:
+                                              - ui-headingSmall
+                                        - :name: 'table'
+                                          :attributes:
+                                            :class:
+                                              - ui-table
+                                              - constructionTable
+                                          :children:
+                                            - :name: 'tbody'
+                                              :children:
+                                                - :name: 'tr'
+                                                  :children:
+                                                    - :name: 'th'
+                                                    - :name: 'td'
+                                                    - :name: 'th'
+                                                    - :name: 'td'
+                                                    - :name: 'th'
+                                                    - :name: 'td'
+                                                    - :name: 'th'
+                                                    - :name: 'td'
+                                                - :name: 'tr'
+                                                  :children:
+                                                    - :name: 'th'
+                                                    - :name: 'td'
+                                                    - :name: 'th'
+                                                    - :name: 'td'
+                                                      :attributes:
+                                                        :class:
+                                                          - parts
+                                                        :colspan: '5'
+                                    - :name: 'div'
+                                      :attributes:
+                                        :class:
+                                          - voiceContents
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - userVoice
+                                              - ui-frame
+                                              - extends-insetOrange
+                                          :children:
+                                            - :name: 'dl'
+                                              :children:
+                                                - :name: 'dt'
+                                                  :attributes:
+                                                    :class:
+                                                      - title
+                                                - :name: 'dd'
+                                            - :name: 'dl'
+                                              :children:
+                                                - :name: 'dt'
+                                                  :attributes:
+                                                    :class:
+                                                      - reason
+                                                - :name: 'dd'
+                                - :name: 'div'
+                                  :attributes:
+                                    :class:
+                                      - reviewUnit
+                                      - ui-frame
+                                      - extends-cacaoBar
+                                  :children:
+                                    - :name: 'div'
+                                      :attributes:
+                                        :class:
+                                          - reviewContents
+                                      :children:
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - userFigure
+                                          :children:
+                                            - :name: 'img'
+                                              :attributes:
+                                                :alt: ''
+                                                :height: '80'
+                                                :src: '/reform/img/common/avatar/man01.png'
+                                                :width: '80'
+                                        - :name: 'div'
+                                          :attributes:
+                                            :class:
+                                              - userReview
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - reviewHead
+                                              :children:
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - reviewStar
+                                                  :children:
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - star
+                                                      :children:
+                                                        - :name: 'img'
+                                                          :attributes:
+                                                            :alt: '点数：'
+                                                            :height: '20'
+                                                            :src: '/reform/img/common/icon/star/point20.png'
                                                             :width: '100'
                                                     - :name: 'span'
                                                       :attributes:
@@ -2354,9 +2569,6 @@
                                                     :class:
                                                       - title
                                                 - :name: 'dd'
-                                                  :children:
-                                                    - :name: 'br'
-                                                    - :name: 'br'
                                             - :name: 'dl'
                                               :children:
                                                 - :name: 'dt'
@@ -2385,7 +2597,7 @@
                                               :attributes:
                                                 :alt: ''
                                                 :height: '80'
-                                                :src: '/reform/img/common/avatar/man01.png'
+                                                :src: '/reform/img/common/avatar/woman01.png'
                                                 :width: '80'
                                         - :name: 'div'
                                           :attributes:
@@ -2411,222 +2623,7 @@
                                                           :attributes:
                                                             :alt: '点数：'
                                                             :height: '20'
-                                                            :src: '/reform/img/common/icon/star/point45.png'
-                                                            :width: '100'
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - totalPoint
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - profile
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - reviewEachPoint
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - line
-                                                  :children:
-                                                    - :name: 'dl'
-                                                      :children:
-                                                        - :name: 'dt'
-                                                          :children:
-                                                            - :name: 'span'
-                                                              :attributes:
-                                                                :class:
-                                                                  - ui-iconSet-evaluationItems
-                                                                  - extends-speed
-                                                        - :name: 'dd'
-                                                    - :name: 'dl'
-                                                      :children:
-                                                        - :name: 'dt'
-                                                          :children:
-                                                            - :name: 'span'
-                                                              :attributes:
-                                                                :class:
-                                                                  - ui-iconSet-evaluationItems
-                                                                  - extends-price
-                                                        - :name: 'dd'
-                                                    - :name: 'dl'
-                                                      :children:
-                                                        - :name: 'dt'
-                                                          :children:
-                                                            - :name: 'span'
-                                                              :attributes:
-                                                                :class:
-                                                                  - ui-iconSet-evaluationItems
-                                                                  - extends-completion
-                                                        - :name: 'dd'
-                                                    - :name: 'dl'
-                                                      :children:
-                                                        - :name: 'dt'
-                                                          :children:
-                                                            - :name: 'span'
-                                                              :attributes:
-                                                                :class:
-                                                                  - ui-iconSet-evaluationItems
-                                                                  - extends-planning
-                                                        - :name: 'dd'
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - line
-                                                  :children:
-                                                    - :name: 'dl'
-                                                      :children:
-                                                        - :name: 'dt'
-                                                          :children:
-                                                            - :name: 'span'
-                                                              :attributes:
-                                                                :class:
-                                                                  - ui-iconSet-evaluationItems
-                                                                  - extends-sensitivity
-                                                        - :name: 'dd'
-                                                    - :name: 'dl'
-                                                      :children:
-                                                        - :name: 'dt'
-                                                          :children:
-                                                            - :name: 'span'
-                                                              :attributes:
-                                                                :class:
-                                                                  - ui-iconSet-evaluationItems
-                                                                  - extends-manners
-                                                        - :name: 'dd'
-                                                    - :name: 'dl'
-                                                      :children:
-                                                        - :name: 'dt'
-                                                          :children:
-                                                            - :name: 'span'
-                                                              :attributes:
-                                                                :class:
-                                                                  - ui-iconSet-evaluationItems
-                                                                  - extends-promise
-                                                        - :name: 'dd'
-                                                    - :name: 'dl'
-                                                      :children:
-                                                        - :name: 'dt'
-                                                          :children:
-                                                            - :name: 'span'
-                                                              :attributes:
-                                                                :class:
-                                                                  - ui-iconSet-evaluationItems
-                                                                  - extends-recommend
-                                                        - :name: 'dd'
-                                    - :name: 'div'
-                                      :attributes:
-                                        :class:
-                                          - constructionContents
-                                      :children:
-                                        - :name: 'h3'
-                                          :attributes:
-                                            :class:
-                                              - ui-headingSmall
-                                        - :name: 'table'
-                                          :attributes:
-                                            :class:
-                                              - ui-table
-                                              - constructionTable
-                                          :children:
-                                            - :name: 'tbody'
-                                              :children:
-                                                - :name: 'tr'
-                                                  :children:
-                                                    - :name: 'th'
-                                                    - :name: 'td'
-                                                    - :name: 'th'
-                                                    - :name: 'td'
-                                                    - :name: 'th'
-                                                    - :name: 'td'
-                                                    - :name: 'th'
-                                                    - :name: 'td'
-                                                - :name: 'tr'
-                                                  :children:
-                                                    - :name: 'th'
-                                                    - :name: 'td'
-                                                    - :name: 'th'
-                                                    - :name: 'td'
-                                                      :attributes:
-                                                        :class:
-                                                          - parts
-                                                        :colspan: '5'
-                                    - :name: 'div'
-                                      :attributes:
-                                        :class:
-                                          - voiceContents
-                                      :children:
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - userVoice
-                                              - ui-frame
-                                              - extends-insetOrange
-                                          :children:
-                                            - :name: 'dl'
-                                              :children:
-                                                - :name: 'dt'
-                                                  :attributes:
-                                                    :class:
-                                                      - title
-                                                - :name: 'dd'
-                                            - :name: 'dl'
-                                              :children:
-                                                - :name: 'dt'
-                                                  :attributes:
-                                                    :class:
-                                                      - reason
-                                                - :name: 'dd'
-                                - :name: 'div'
-                                  :attributes:
-                                    :class:
-                                      - reviewUnit
-                                      - ui-frame
-                                      - extends-cacaoBar
-                                  :children:
-                                    - :name: 'div'
-                                      :attributes:
-                                        :class:
-                                          - reviewContents
-                                      :children:
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - userFigure
-                                          :children:
-                                            - :name: 'img'
-                                              :attributes:
-                                                :alt: ''
-                                                :height: '80'
-                                                :src: '/reform/img/common/avatar/man01.png'
-                                                :width: '80'
-                                        - :name: 'div'
-                                          :attributes:
-                                            :class:
-                                              - userReview
-                                          :children:
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - reviewHead
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - reviewStar
-                                                  :children:
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - star
-                                                      :children:
-                                                        - :name: 'img'
-                                                          :attributes:
-                                                            :alt: '点数：'
-                                                            :height: '20'
-                                                            :src: '/reform/img/common/icon/star/point45.png'
+                                                            :src: '/reform/img/common/icon/star/point40.png'
                                                             :width: '100'
                                                     - :name: 'span'
                                                       :attributes:
@@ -2840,7 +2837,7 @@
                                                           :attributes:
                                                             :alt: '点数：'
                                                             :height: '20'
-                                                            :src: '/reform/img/common/icon/star/point50.png'
+                                                            :src: '/reform/img/common/icon/star/point45.png'
                                                             :width: '100'
                                                     - :name: 'span'
                                                       :attributes:
@@ -3001,11 +2998,6 @@
                                                     :class:
                                                       - title
                                                 - :name: 'dd'
-                                                  :children:
-                                                    - :name: 'br'
-                                                    - :name: 'br'
-                                                    - :name: 'br'
-                                                    - :name: 'br'
                                             - :name: 'dl'
                                               :children:
                                                 - :name: 'dt'
@@ -3109,13 +3101,13 @@
                                                   :attributes:
                                                     :class:
                                                       - ui-imageBox
-                                                    :href: '/reform/case/3345/extension/1/'
+                                                    :href: '/reform/case/2554/extension/2/'
                                                     :target: '_blank'
                                                   :children:
                                                     - :name: 'img'
                                                       :attributes:
                                                         :alt: ''
-                                                        :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510582/construction_case/3345/3345_1_1.jpg&width=60&height=60'
+                                                        :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510579/construction_case/2554/2554_2_1.jpg&width=60&height=60'
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
@@ -3128,7 +3120,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: '/reform/case/3345/extension/1/'
+                                                        :href: '/reform/case/2554/extension/2/'
                                                         :target: '_blank'
                                                 - :name: 'p'
                                                   :attributes:
@@ -3192,13 +3184,13 @@
                                                   :attributes:
                                                     :class:
                                                       - ui-imageBox
-                                                    :href: '/reform/case/6191/extension/9/'
+                                                    :href: '/reform/case/3200/extension/7/'
                                                     :target: '_blank'
                                                   :children:
                                                     - :name: 'img'
                                                       :attributes:
                                                         :alt: ''
-                                                        :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510630/construction_case/6191/6191_9_1.jpg&width=60&height=60'
+                                                        :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510579/construction_case/3200/3200_7_1.jpg&width=60&height=60'
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
@@ -3211,7 +3203,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: '/reform/case/6191/extension/9/'
+                                                        :href: '/reform/case/3200/extension/7/'
                                                         :target: '_blank'
                                                 - :name: 'p'
                                                   :attributes:
@@ -3275,13 +3267,13 @@
                                                   :attributes:
                                                     :class:
                                                       - ui-imageBox
-                                                    :href: '/reform/case/4474/extension/9/'
+                                                    :href: '/reform/case/3462/extension/10/'
                                                     :target: '_blank'
                                                   :children:
                                                     - :name: 'img'
                                                       :attributes:
                                                         :alt: ''
-                                                        :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510600/construction_case/4474/4474_9_1.jpg&width=60&height=60'
+                                                        :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510582/construction_case/3462/3462_10_1.jpg&width=60&height=60'
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
@@ -3294,23 +3286,12 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: '/reform/case/4474/extension/9/'
+                                                        :href: '/reform/case/3462/extension/10/'
                                                         :target: '_blank'
                                                 - :name: 'p'
                                                   :attributes:
                                                     :class:
                                                       - caption
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - price
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: '施工価格'
-                                                        :height: '19'
-                                                        :src: '/reform/img/mod/top_case/construction_price.png'
-                                                        :width: '58'
                                         - :name: 'dl'
                                           :attributes:
                                             :class:
@@ -3369,13 +3350,13 @@
                                                   :attributes:
                                                     :class:
                                                       - ui-imageBox
-                                                    :href: '/reform/case/9107/extension/2/'
+                                                    :href: '/reform/case/831/extension/3/'
                                                     :target: '_blank'
                                                   :children:
                                                     - :name: 'img'
                                                       :attributes:
                                                         :alt: ''
-                                                        :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513239/construction_case/9107/9107_2_1.jpg&width=60&height=60'
+                                                        :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510589/construction_case/831/831_3_1.jpg&width=60&height=60'
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
@@ -3388,7 +3369,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: '/reform/case/9107/extension/2/'
+                                                        :href: '/reform/case/831/extension/3/'
                                                         :target: '_blank'
                                                 - :name: 'p'
                                                   :attributes:
@@ -3475,13 +3456,13 @@
                                                       :attributes:
                                                         :class:
                                                           - ui-imageBox
-                                                        :href: '/reform/case/3328/extension/1/'
+                                                        :href: '/reform/case/5302/extension/4/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'img'
                                                           :attributes:
                                                             :alt: ''
-                                                            :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510582/construction_case/3328/3328_1_1.jpg&width=60&height=60'
+                                                            :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510619/construction_case/5302/5302_4_1.jpg&width=60&height=60'
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
@@ -3494,7 +3475,7 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: '/reform/case/3328/extension/1/'
+                                                            :href: '/reform/case/5302/extension/4/'
                                                             :target: '_blank'
                                                     - :name: 'p'
                                                       :attributes:
@@ -3558,13 +3539,13 @@
                                                       :attributes:
                                                         :class:
                                                           - ui-imageBox
-                                                        :href: '/reform/case/2892/extension/1/'
+                                                        :href: '/reform/case/192/extension/1/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'img'
                                                           :attributes:
                                                             :alt: ''
-                                                            :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510576/construction_case/2892/2892_1_1.jpg&width=60&height=60'
+                                                            :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510600/construction_case/192/192_1_1.jpg&width=60&height=60'
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
@@ -3577,7 +3558,7 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: '/reform/case/2892/extension/1/'
+                                                            :href: '/reform/case/192/extension/1/'
                                                             :target: '_blank'
                                                     - :name: 'p'
                                                       :attributes:
@@ -3641,13 +3622,13 @@
                                                       :attributes:
                                                         :class:
                                                           - ui-imageBox
-                                                        :href: '/reform/case/3277/extension/1/'
+                                                        :href: '/reform/case/5106/extension/1/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'img'
                                                           :attributes:
                                                             :alt: ''
-                                                            :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510579/construction_case/3277/3277_1_1.jpg&width=60&height=60'
+                                                            :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510582/construction_case/5106/5106_1_1.jpg&width=60&height=60'
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
@@ -3660,7 +3641,7 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: '/reform/case/3277/extension/1/'
+                                                            :href: '/reform/case/5106/extension/1/'
                                                             :target: '_blank'
                                                     - :name: 'p'
                                                       :attributes:
@@ -3724,13 +3705,13 @@
                                                       :attributes:
                                                         :class:
                                                           - ui-imageBox
-                                                        :href: '/reform/case/1952/extension/6/'
+                                                        :href: '/reform/case/6228/extension/2/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'img'
                                                           :attributes:
                                                             :alt: ''
-                                                            :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9511104/construction_case/1952/1952_6_1.jpg&width=60&height=60'
+                                                            :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510950/construction_case/6228/6228_2_1.jpg&width=60&height=60'
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
@@ -3743,7 +3724,7 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: '/reform/case/1952/extension/6/'
+                                                            :href: '/reform/case/6228/extension/2/'
                                                             :target: '_blank'
                                                     - :name: 'p'
                                                       :attributes:
@@ -3807,13 +3788,13 @@
                                                       :attributes:
                                                         :class:
                                                           - ui-imageBox
-                                                        :href: '/reform/case/3149/extension/1/'
+                                                        :href: '/reform/case/76/extension/4/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'img'
                                                           :attributes:
                                                             :alt: ''
-                                                            :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510617/construction_case/3149/3149_1_1.jpg&width=60&height=60'
+                                                            :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510590/construction_case/76/76_4_1.jpg&width=60&height=60'
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
@@ -3826,7 +3807,7 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: '/reform/case/3149/extension/1/'
+                                                            :href: '/reform/case/76/extension/4/'
                                                             :target: '_blank'
                                                     - :name: 'p'
                                                       :attributes:
@@ -3890,13 +3871,13 @@
                                                       :attributes:
                                                         :class:
                                                           - ui-imageBox
-                                                        :href: '/reform/case/9260/extension/1/'
+                                                        :href: '/reform/case/8176/extension/2/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'img'
                                                           :attributes:
                                                             :alt: ''
-                                                            :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513273/construction_case/9260/9260_1_1.jpg&width=60&height=60'
+                                                            :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513185/construction_case/8176/8176_2_1.jpg&width=60&height=60'
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
@@ -3909,7 +3890,7 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: '/reform/case/9260/extension/1/'
+                                                            :href: '/reform/case/8176/extension/2/'
                                                             :target: '_blank'
                                                     - :name: 'p'
                                                       :attributes:
@@ -3984,13 +3965,13 @@
                                                       :attributes:
                                                         :class:
                                                           - ui-imageBox
-                                                        :href: '/reform/case/9180/extension/5/'
+                                                        :href: '/reform/case/8161/extension/4/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'img'
                                                           :attributes:
                                                             :alt: ''
-                                                            :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513339/construction_case/9180/9180_5_1.jpg&width=60&height=60'
+                                                            :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513185/construction_case/8161/8161_4_1.jpg&width=60&height=60'
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
@@ -4003,7 +3984,7 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: '/reform/case/9180/extension/5/'
+                                                            :href: '/reform/case/8161/extension/4/'
                                                             :target: '_blank'
                                                     - :name: 'p'
                                                       :attributes:
@@ -4078,13 +4059,13 @@
                                                       :attributes:
                                                         :class:
                                                           - ui-imageBox
-                                                        :href: '/reform/case/6248/extension/5/'
+                                                        :href: '/reform/case/6562/extension/4/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'img'
                                                           :attributes:
                                                             :alt: ''
-                                                            :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510950/construction_case/6248/6248_5_1.jpg&width=60&height=60'
+                                                            :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510600/construction_case/6562/6562_4_1.jpg&width=60&height=60'
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
@@ -4097,12 +4078,23 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: '/reform/case/6248/extension/5/'
+                                                            :href: '/reform/case/6562/extension/4/'
                                                             :target: '_blank'
                                                     - :name: 'p'
                                                       :attributes:
                                                         :class:
                                                           - caption
+                                                    - :name: 'p'
+                                                      :attributes:
+                                                        :class:
+                                                          - price
+                                                      :children:
+                                                        - :name: 'img'
+                                                          :attributes:
+                                                            :alt: '施工価格'
+                                                            :height: '19'
+                                                            :src: '/reform/img/mod/top_case/construction_price.png'
+                                                            :width: '58'
                                             - :name: 'dl'
                                               :attributes:
                                                 :class:
@@ -4161,13 +4153,13 @@
                                                       :attributes:
                                                         :class:
                                                           - ui-imageBox
-                                                        :href: '/reform/case/9508/extension/2/'
+                                                        :href: '/reform/case/7545/extension/7/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'img'
                                                           :attributes:
                                                             :alt: ''
-                                                            :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510630/construction_case/9508/9508_2_1.jpg&width=60&height=60'
+                                                            :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510590/construction_case/7545/7545_7_1.jpg&width=60&height=60'
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
@@ -4180,7 +4172,7 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: '/reform/case/9508/extension/2/'
+                                                            :href: '/reform/case/7545/extension/7/'
                                                             :target: '_blank'
                                                     - :name: 'p'
                                                       :attributes:
@@ -4255,13 +4247,13 @@
                                                       :attributes:
                                                         :class:
                                                           - ui-imageBox
-                                                        :href: '/reform/case/8999/extension/5/'
+                                                        :href: '/reform/case/7446/extension/7/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'img'
                                                           :attributes:
                                                             :alt: ''
-                                                            :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513288/construction_case/8999/8999_5_1.png&width=60&height=60'
+                                                            :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510583/construction_case/7446/7446_7_1.jpg&width=60&height=60'
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
@@ -4274,7 +4266,7 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: '/reform/case/8999/extension/5/'
+                                                            :href: '/reform/case/7446/extension/7/'
                                                             :target: '_blank'
                                                     - :name: 'p'
                                                       :attributes:
@@ -4349,13 +4341,13 @@
                                                       :attributes:
                                                         :class:
                                                           - ui-imageBox
-                                                        :href: '/reform/case/7240/extension/2/'
+                                                        :href: '/reform/case/7179/extension/7/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'img'
                                                           :attributes:
                                                             :alt: ''
-                                                            :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513123/construction_case/7240/7240_2_1.jpg&width=60&height=60'
+                                                            :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513110/construction_case/7179/7179_7_1.jpg&width=60&height=60'
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
@@ -4368,7 +4360,7 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: '/reform/case/7240/extension/2/'
+                                                            :href: '/reform/case/7179/extension/7/'
                                                             :target: '_blank'
                                                     - :name: 'p'
                                                       :attributes:
@@ -4443,13 +4435,13 @@
                                                       :attributes:
                                                         :class:
                                                           - ui-imageBox
-                                                        :href: '/reform/case/9354/extension/2/'
+                                                        :href: '/reform/case/9559/extension/6/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'img'
                                                           :attributes:
                                                             :alt: ''
-                                                            :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510860/construction_case/9354/9354_2_1.jpg&width=60&height=60'
+                                                            :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513273/construction_case/9559/9559_6_1.jpg&width=60&height=60'
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
@@ -4462,7 +4454,7 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: '/reform/case/9354/extension/2/'
+                                                            :href: '/reform/case/9559/extension/6/'
                                                             :target: '_blank'
                                                     - :name: 'p'
                                                       :attributes:
@@ -4537,13 +4529,13 @@
                                                       :attributes:
                                                         :class:
                                                           - ui-imageBox
-                                                        :href: '/reform/case/9545/extension/3/'
+                                                        :href: '/reform/case/9600/extension/1/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'img'
                                                           :attributes:
                                                             :alt: ''
-                                                            :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513349/construction_case/9545/9545_3_1.jpg&width=60&height=60'
+                                                            :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513374/construction_case/9600/9600_1_1.jpg&width=60&height=60'
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
@@ -4556,7 +4548,7 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: '/reform/case/9545/extension/3/'
+                                                            :href: '/reform/case/9600/extension/1/'
                                                             :target: '_blank'
                                                     - :name: 'p'
                                                       :attributes:
@@ -4631,13 +4623,13 @@
                                                       :attributes:
                                                         :class:
                                                           - ui-imageBox
-                                                        :href: '/reform/case/7231/extension/1/'
+                                                        :href: '/reform/case/7240/extension/4/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'img'
                                                           :attributes:
                                                             :alt: ''
-                                                            :src: 'https://reform-image4.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510892/construction_case/7231/7231_1_1.jpg&width=60&height=60'
+                                                            :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9513123/construction_case/7240/7240_4_1.jpg&width=60&height=60'
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
@@ -4650,7 +4642,7 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: '/reform/case/7231/extension/1/'
+                                                            :href: '/reform/case/7240/extension/4/'
                                                             :target: '_blank'
                                                     - :name: 'p'
                                                       :attributes:
@@ -4725,13 +4717,13 @@
                                                       :attributes:
                                                         :class:
                                                           - ui-imageBox
-                                                        :href: '/reform/case/2790/extension/1/'
+                                                        :href: '/reform/case/6122/extension/9/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'img'
                                                           :attributes:
                                                             :alt: ''
-                                                            :src: 'https://reform-image3.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510580/construction_case/2790/2790_1_1.jpg&width=60&height=60'
+                                                            :src: 'https://reform-image2.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510630/construction_case/6122/6122_9_1.jpg&width=60&height=60'
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
@@ -4744,7 +4736,7 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: '/reform/case/2790/extension/1/'
+                                                            :href: '/reform/case/6122/extension/9/'
                                                             :target: '_blank'
                                                     - :name: 'p'
                                                       :attributes:
@@ -4808,13 +4800,13 @@
                                                       :attributes:
                                                         :class:
                                                           - ui-imageBox
-                                                        :href: '/reform/case/1079/extension/1/'
+                                                        :href: '/reform/case/6844/extension/4/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'img'
                                                           :attributes:
                                                             :alt: ''
-                                                            :src: 'https://reform-image.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510582/construction_case/1079/1079_1_1.jpg&width=60&height=60'
+                                                            :src: 'https://reform-image1.homes.co.jp/smallimg/image.php?file=/build/ref2/images/client/9510874/construction_case/6844/6844_4_1.jpg&width=60&height=60'
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
@@ -4827,12 +4819,23 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: '/reform/case/1079/extension/1/'
+                                                            :href: '/reform/case/6844/extension/4/'
                                                             :target: '_blank'
                                                     - :name: 'p'
                                                       :attributes:
                                                         :class:
                                                           - caption
+                                                    - :name: 'p'
+                                                      :attributes:
+                                                        :class:
+                                                          - price
+                                                      :children:
+                                                        - :name: 'img'
+                                                          :attributes:
+                                                            :alt: '施工価格'
+                                                            :height: '19'
+                                                            :src: '/reform/img/mod/top_case/construction_price.png'
+                                                            :width: '58'
                                             - :name: 'dl'
                                               :attributes:
                                                 :class:
@@ -5953,94 +5956,94 @@
                   :children:
                     - :name: 'a'
                       :attributes:
-                        :href: '/reform/shop/9513232_0/'
-                    - :name: 'a'
-                      :attributes:
-                        :href: '/reform/shop/9513088_0/'
-                    - :name: 'a'
-                      :attributes:
-                        :href: '/reform/shop/9511119_0/'
-                    - :name: 'a'
-                      :attributes:
-                        :href: '/reform/shop/9513122_0/'
-                    - :name: 'a'
-                      :attributes:
-                        :href: '/reform/shop/9513329_0/'
+                        :href: '/reform/shop/9513089_0/'
                     - :name: 'a'
                       :attributes:
                         :href: '/reform/shop/9510892_0/'
                     - :name: 'a'
                       :attributes:
-                        :href: '/reform/shop/9513298_1/'
+                        :href: '/reform/shop/9513335_0/'
                     - :name: 'a'
                       :attributes:
-                        :href: '/reform/shop/9513149_0/'
-                    - :name: 'a'
-                      :attributes:
-                        :href: '/reform/shop/9513173_0/'
-                    - :name: 'a'
-                      :attributes:
-                        :href: '/reform/shop/9510709_0/'
+                        :href: '/reform/shop/9510895_0/'
                     - :name: 'a'
                       :attributes:
                         :href: '/reform/shop/9513322_0/'
                     - :name: 'a'
                       :attributes:
-                        :href: '/reform/shop/9510601_2/'
+                        :href: '/reform/shop/9510794_0/'
                     - :name: 'a'
                       :attributes:
-                        :href: '/reform/shop/9510649_2/'
+                        :href: '/reform/shop/9510847_0/'
                     - :name: 'a'
                       :attributes:
-                        :href: '/reform/shop/9510657_0/'
-                    - :name: 'a'
-                      :attributes:
-                        :href: '/reform/shop/9513273_0/'
-                    - :name: 'a'
-                      :attributes:
-                        :href: '/reform/shop/9511121_0/'
-                    - :name: 'a'
-                      :attributes:
-                        :href: '/reform/shop/9510603_0/'
-                    - :name: 'a'
-                      :attributes:
-                        :href: '/reform/shop/9510581_22/'
-                    - :name: 'a'
-                      :attributes:
-                        :href: '/reform/shop/9513145_13/'
+                        :href: '/reform/shop/9510625_0/'
                     - :name: 'a'
                       :attributes:
                         :href: '/reform/shop/9513312_0/'
                     - :name: 'a'
                       :attributes:
-                        :href: '/reform/shop/9513323_0/'
-                    - :name: 'a'
-                      :attributes:
-                        :href: '/reform/shop/9513335_0/'
-                    - :name: 'a'
-                      :attributes:
-                        :href: '/reform/shop/9513186_0/'
+                        :href: '/reform/shop/9510589_0/'
                     - :name: 'a'
                       :attributes:
                         :href: '/reform/shop/9513365_0/'
                     - :name: 'a'
                       :attributes:
-                        :href: '/reform/shop/9513381_0/'
-                    - :name: 'a'
-                      :attributes:
-                        :href: '/reform/shop/9513346_0/'
+                        :href: '/reform/shop/9510585_1/'
                     - :name: 'a'
                       :attributes:
                         :href: '/reform/shop/9513300_0/'
                     - :name: 'a'
                       :attributes:
-                        :href: '/reform/shop/9513118_0/'
+                        :href: '/reform/shop/9510590_0/'
                     - :name: 'a'
                       :attributes:
-                        :href: '/reform/shop/9511142_0/'
+                        :href: '/reform/shop/9513275_0/'
                     - :name: 'a'
                       :attributes:
-                        :href: '/reform/shop/9513367_0/'
+                        :href: '/reform/shop/9513363_0/'
+                    - :name: 'a'
+                      :attributes:
+                        :href: '/reform/shop/9510980_0/'
+                    - :name: 'a'
+                      :attributes:
+                        :href: '/reform/shop/9513339_0/'
+                    - :name: 'a'
+                      :attributes:
+                        :href: '/reform/shop/9510583_0/'
+                    - :name: 'a'
+                      :attributes:
+                        :href: '/reform/shop/9510657_0/'
+                    - :name: 'a'
+                      :attributes:
+                        :href: '/reform/shop/9511119_0/'
+                    - :name: 'a'
+                      :attributes:
+                        :href: '/reform/shop/9510610_0/'
+                    - :name: 'a'
+                      :attributes:
+                        :href: '/reform/shop/9510612_13/'
+                    - :name: 'a'
+                      :attributes:
+                        :href: '/reform/shop/9511104_0/'
+                    - :name: 'a'
+                      :attributes:
+                        :href: '/reform/shop/9510580_4/'
+                    - :name: 'a'
+                      :attributes:
+                        :href: '/reform/shop/9510656_0/'
+                    - :name: 'a'
+                      :attributes:
+                        :href: '/reform/shop/9513122_0/'
+                    - :name: 'a'
+                      :attributes:
+                        :href: '/reform/shop/9511108_0/'
+                    - :name: 'a'
+                      :attributes:
+                        :href: '/reform/shop/9510603_0/'
+                    - :name: 'a'
+                      :attributes:
+                        :href: '/reform/shop/9513329_0/'
                     - :name: 'a'
                       :attributes:
                         :class:

@@ -1031,6 +1031,7 @@
                                     :class:
                                       - station
                                       - prg-is-selectable
+                                      - is-disabled
                                   :children:
                                     - :name: 'label'
                                       :attributes:
@@ -1047,6 +1048,7 @@
                                                 :class:
                                                   - prg-station-items
                                                   - prg-line-91
+                                                :disabled: ''
                                                 :id: 'cond_roseneki_9100582'
                                                 :name: 'cond[roseneki][9100582]'
                                                 :type: 'checkbox'

@@ -1469,6 +1469,31 @@
                                       :children:
                                         - :name: 'a'
                                           :attributes:
+                                            :href: '/iezukuri/mid-5493/feature/'
+                                          :children:
+                                            - :name: 'p'
+                                              :attributes:
+                                                :class:
+                                                  - img
+                                              :children:
+                                                - :name: 'img'
+                                                  :attributes:
+                                                    :alt: '施工会社：株式会社 高砂建設'
+                                                    :height: '60'
+                                                    :src: '/iezukuri/img/default/page/index/feature/img_feature_takasago.jpg'
+                                                    :width: '60'
+                                            - :name: 'p'
+                                              :attributes:
+                                                :class:
+                                                  - explain
+                                            - :name: 'p'
+                                              :attributes:
+                                                :class:
+                                                  - makerName
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
                                             :href: '/iezukuri/special/mutenkahouse/'
                                           :children:
                                             - :name: 'p'
@@ -1519,6 +1544,31 @@
                                       :children:
                                         - :name: 'a'
                                           :attributes:
+                                            :href: '/iezukuri/mid-217/feature/'
+                                          :children:
+                                            - :name: 'p'
+                                              :attributes:
+                                                :class:
+                                                  - img
+                                              :children:
+                                                - :name: 'img'
+                                                  :attributes:
+                                                    :alt: '施工会社：アローズホーム'
+                                                    :height: '60'
+                                                    :src: '/iezukuri/img/default/page/index/feature/img_feature_arrows.jpg'
+                                                    :width: '60'
+                                            - :name: 'p'
+                                              :attributes:
+                                                :class:
+                                                  - explain
+                                            - :name: 'p'
+                                              :attributes:
+                                                :class:
+                                                  - makerName
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
                                             :href: '/iezukuri/special/fpgroup/'
                                           :children:
                                             - :name: 'p'
@@ -1556,56 +1606,6 @@
                                                     :alt: '施工会社：OMソーラー'
                                                     :height: '60'
                                                     :src: '/iezukuri/img/default/page/index/feature/img_feature_om.jpg'
-                                                    :width: '60'
-                                            - :name: 'p'
-                                              :attributes:
-                                                :class:
-                                                  - explain
-                                            - :name: 'p'
-                                              :attributes:
-                                                :class:
-                                                  - makerName
-                                    - :name: 'li'
-                                      :children:
-                                        - :name: 'a'
-                                          :attributes:
-                                            :href: '/iezukuri/mid-217/feature/'
-                                          :children:
-                                            - :name: 'p'
-                                              :attributes:
-                                                :class:
-                                                  - img
-                                              :children:
-                                                - :name: 'img'
-                                                  :attributes:
-                                                    :alt: '施工会社：アローズホーム'
-                                                    :height: '60'
-                                                    :src: '/iezukuri/img/default/page/index/feature/img_feature_arrows.jpg'
-                                                    :width: '60'
-                                            - :name: 'p'
-                                              :attributes:
-                                                :class:
-                                                  - explain
-                                            - :name: 'p'
-                                              :attributes:
-                                                :class:
-                                                  - makerName
-                                    - :name: 'li'
-                                      :children:
-                                        - :name: 'a'
-                                          :attributes:
-                                            :href: '/iezukuri/mid-5493/feature/'
-                                          :children:
-                                            - :name: 'p'
-                                              :attributes:
-                                                :class:
-                                                  - img
-                                              :children:
-                                                - :name: 'img'
-                                                  :attributes:
-                                                    :alt: '施工会社：株式会社 高砂建設'
-                                                    :height: '60'
-                                                    :src: '/iezukuri/img/default/page/index/feature/img_feature_takasago.jpg'
                                                     :width: '60'
                                             - :name: 'p'
                                               :attributes:
@@ -2137,7 +2137,7 @@
                                   :children:
                                     - :name: 'a'
                                       :attributes:
-                                        :href: '/iezukuri/mid-5622/voice/vid-4855/'
+                                        :href: '/iezukuri/mid-3449/voice/vid-5407/'
                                     - :name: 'span'
                                       :attributes:
                                         :class:
@@ -2146,7 +2146,7 @@
                                   :children:
                                     - :name: 'a'
                                       :attributes:
-                                        :href: '/iezukuri/mid-842/voice/vid-429/'
+                                        :href: '/iezukuri/mid-5622/voice/vid-4892/'
                                     - :name: 'span'
                                       :attributes:
                                         :class:
@@ -2155,7 +2155,7 @@
                                   :children:
                                     - :name: 'a'
                                       :attributes:
-                                        :href: '/iezukuri/mid-2033/voice/vid-3085/'
+                                        :href: '/iezukuri/mid-183/voice/vid-1564/'
                                     - :name: 'span'
                                       :attributes:
                                         :class:
