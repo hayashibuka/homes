@@ -9568,7 +9568,37 @@
                                 :class:
                                   - anchor
                                   - ui-bar
-                                :href: 'http://www.homes.co.jp/smp/kodate/shinchiku/realtor/'
+                                :href: '/smp/kodate/shinchiku/realtor/'
+                              :children:
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                      - title
+                                      - ui-bar-text
+                                - :name: 'span'
+                                  :attributes:
+                                    :class:
+                                      - item
+                                      - icon
+                                      - ui-bar-icon
+                                  :children:
+                                    - :name: 'span'
+                                      :attributes:
+                                        :class:
+                                          - ui-icon
+                                          - ui-icon-arrow_right
+                        - :name: 'li'
+                          :attributes:
+                            :class:
+                              - listItem
+                          :children:
+                            - :name: 'a'
+                              :attributes:
+                                :class:
+                                  - anchor
+                                  - ui-bar
+                                :href: '/smp/realtor/sale/'
                               :children:
                                 - :name: 'span'
                                   :attributes:

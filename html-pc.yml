@@ -115,17 +115,17 @@
             :type: 'application/opensearchdescription+xml'
         - :name: 'link'
           :attributes:
-            :href: '/minifile/search/assets/css/8e8d261c495ee8b2332058cc04b39272a917490a.css?v=20160928154'
+            :href: '/minifile/search/assets/css/8e8d261c495ee8b2332058cc04b39272a917490a.css?v=20161003190'
             :rel:
               - stylesheet
             :type: 'text/css'
         - :name: 'script'
           :attributes:
-            :src: '/minifile/search/assets/js/7d14ace39c97d78ac3b8dfacfb10beaaaedae5e7.js?v=20160928154'
+            :src: '/minifile/search/assets/js/7d14ace39c97d78ac3b8dfacfb10beaaaedae5e7.js?v=20161003190'
             :type: 'text/javascript'
         - :name: 'script'
           :attributes:
-            :src: '/minifile/search/assets/js/a9f0522e919a2be52b291a235fcc1d4d16b5cb33.js?v=20160928154'
+            :src: '/minifile/search/assets/js/a9f0522e919a2be52b291a235fcc1d4d16b5cb33.js?v=20161003190'
             :type: 'text/javascript'
         - :name: 'link'
           :attributes:
@@ -271,6 +271,26 @@
                     - :name: 'a'
                       :attributes:
                         :href: 'http://www.homes.co.jp/edit/kumamotoshien2016/'
+        - :name: 'div'
+          :attributes:
+            :class:
+              - mod-topAnnouncement
+          :children:
+            - :name: 'ul'
+              :attributes:
+                :class:
+                  - inner
+              :children:
+                - :name: 'li'
+                  :children:
+                    - :name: 'p'
+                      :attributes:
+                        :class:
+                          - heading
+                    - :name: 'p'
+                      :attributes:
+                        :class:
+                          - body
         - :name: 'div'
           :attributes:
             :class:
@@ -684,14 +704,9 @@
                                                     :class:
                                                       - prg-categoryBtn
                                                     :data-search-type: 'area'
-                                                    :data-title: '新築一戸建て（分譲）'
+                                                    :data-title: '新築一戸建て'
                                                     :data-type: '/kodate/shinchiku'
                                                     :href: '#'
-                                                  :children:
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - itemize
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
@@ -702,11 +717,6 @@
                                                     :data-title: '中古一戸建て'
                                                     :data-type: '/kodate/chuko'
                                                     :href: '#'
-                                                  :children:
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - itemize
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
@@ -1352,14 +1362,9 @@
                                                     :class:
                                                       - prg-categoryBtn
                                                     :data-search-type: 'rosen'
-                                                    :data-title: '新築一戸建て（分譲）'
+                                                    :data-title: '新築一戸建て'
                                                     :data-type: '/kodate/shinchiku'
                                                     :href: '#'
-                                                  :children:
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - itemize
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
@@ -1370,11 +1375,6 @@
                                                     :data-title: '中古一戸建て'
                                                     :data-type: '/kodate/chuko'
                                                     :href: '#'
-                                                  :children:
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - itemize
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
@@ -2019,14 +2019,9 @@
                                                     :class:
                                                       - prg-categoryBtn
                                                     :data-search-type: 'transit'
-                                                    :data-title: '新築一戸建て（分譲）'
+                                                    :data-title: '新築一戸建て'
                                                     :data-type: '/kodate/shinchiku'
                                                     :href: '/kodate/shinchiku/#transit'
-                                                  :children:
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - itemize
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
@@ -2037,11 +2032,6 @@
                                                     :data-title: '中古一戸建て'
                                                     :data-type: '/kodate/chuko'
                                                     :href: '/kodate/chuko/#transit'
-                                                  :children:
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - itemize
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
@@ -2182,14 +2172,9 @@
                                                     :class:
                                                       - prg-categoryBtn
                                                     :data-search-type: 'map'
-                                                    :data-title: '新築一戸建て（分譲）'
+                                                    :data-title: '新築一戸建て'
                                                     :data-type: '/kodate/shinchiku'
                                                     :href: '#'
-                                                  :children:
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - itemize
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
@@ -2200,11 +2185,6 @@
                                                     :data-title: '中古一戸建て'
                                                     :data-type: '/kodate/chuko'
                                                     :href: '#'
-                                                  :children:
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - itemize
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
@@ -2974,11 +2954,6 @@
                                 - :name: 'a'
                                   :attributes:
                                     :href: 'http://www.homes.co.jp/kodate/shinchiku/'
-                                  :children:
-                                    - :name: 'span'
-                                      :attributes:
-                                        :class:
-                                          - itemize
                             - :name: 'p'
                               :attributes:
                                 :class:
@@ -2988,11 +2963,6 @@
                                 - :name: 'a'
                                   :attributes:
                                     :href: 'http://www.homes.co.jp/kodate/chuko/'
-                                  :children:
-                                    - :name: 'span'
-                                      :attributes:
-                                        :class:
-                                          - itemize
                             - :name: 'h4'
                               :attributes:
                                 :class:

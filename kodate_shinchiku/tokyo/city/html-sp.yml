@@ -1736,7 +1736,6 @@
                                           - ui-checkboxbar
                                           - prg-is-selectable
                                           - prg-city-label
-                                          - is-disabled
                                       :children:
                                         - :name: 'span'
                                           :attributes:
@@ -1749,7 +1748,6 @@
                                                 :class:
                                                   - prg-city-items
                                                   - prg-city-1399
-                                                :disabled: 'disabled'
                                                 :id: 'cond_city_13205'
                                                 :name: 'cond[city][13205]'
                                                 :type: 'checkbox'
@@ -2245,7 +2243,6 @@
                                           - ui-checkboxbar
                                           - prg-is-selectable
                                           - prg-city-label
-                                          - is-disabled
                                       :children:
                                         - :name: 'span'
                                           :attributes:
@@ -2258,7 +2255,6 @@
                                                 :class:
                                                   - prg-city-items
                                                   - prg-city-1399
-                                                :disabled: 'disabled'
                                                 :id: 'cond_city_13220'
                                                 :name: 'cond[city][13220]'
                                                 :type: 'checkbox'
@@ -2598,7 +2594,6 @@
                                           - ui-checkboxbar
                                           - prg-is-selectable
                                           - prg-city-label
-                                          - is-disabled
                                       :children:
                                         - :name: 'span'
                                           :attributes:
@@ -2611,7 +2606,6 @@
                                                 :class:
                                                   - prg-city-items
                                                   - prg-city-1399
-                                                :disabled: 'disabled'
                                                 :id: 'cond_city_13303'
                                                 :name: 'cond[city][13303]'
                                                 :type: 'checkbox'
@@ -2639,7 +2633,6 @@
                                           - ui-checkboxbar
                                           - prg-is-selectable
                                           - prg-city-label
-                                          - is-disabled
                                       :children:
                                         - :name: 'span'
                                           :attributes:
@@ -2652,7 +2645,6 @@
                                                 :class:
                                                   - prg-city-items
                                                   - prg-city-1399
-                                                :disabled: 'disabled'
                                                 :id: 'cond_city_13305'
                                                 :name: 'cond[city][13305]'
                                                 :type: 'checkbox'

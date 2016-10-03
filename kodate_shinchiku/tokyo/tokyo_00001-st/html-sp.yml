@@ -1334,52 +1334,72 @@
                             - :name: 'div'
                               :attributes:
                                 :class:
-                                  - content
+                                  - mod-condSetting
                               :children:
                                 - :name: 'div'
                                   :attributes:
                                     :class:
-                                      - mod-condSetting
+                                      - checkbox
                                   :children:
-                                    - :name: 'div'
+                                    - :name: 'ul'
                                       :attributes:
                                         :class:
-                                          - checkbox
-                                          - full
+                                          - checkboxList
                                       :children:
-                                        - :name: 'ul'
+                                        - :name: 'li'
                                           :attributes:
                                             :class:
-                                              - checkboxList
+                                              - listItem
                                           :children:
-                                            - :name: 'li'
+                                            - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - listItem
-                                                  - full
+                                                  - item
+                                                  - prg-is-selectable
                                               :children:
-                                                - :name: 'div'
+                                                - :name: 'span'
                                                   :attributes:
                                                     :class:
-                                                      - item
-                                                      - prg-is-selectable
+                                                      - icon
                                                   :children:
-                                                    - :name: 'span'
+                                                    - :name: 'input'
                                                       :attributes:
-                                                        :class:
-                                                          - icon
-                                                      :children:
-                                                        - :name: 'input'
-                                                          :attributes:
-                                                            :id: 'cond_land_exclude'
-                                                            :name: 'cond[land_exclude]'
-                                                            :type: 'checkbox'
-                                                            :value: '1'
-                                                    - :name: 'label'
+                                                        :id: 'cond_direct_deal_only'
+                                                        :name: 'cond[direct_deal_only]'
+                                                        :type: 'checkbox'
+                                                        :value: '1'
+                                                - :name: 'label'
+                                                  :attributes:
+                                                    :class:
+                                                      - name
+                                                    :for: 'cond_direct_deal_only'
+                                        - :name: 'li'
+                                          :attributes:
+                                            :class:
+                                              - listItem
+                                          :children:
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - item
+                                                  - prg-is-selectable
+                                              :children:
+                                                - :name: 'span'
+                                                  :attributes:
+                                                    :class:
+                                                      - icon
+                                                  :children:
+                                                    - :name: 'input'
                                                       :attributes:
-                                                        :class:
-                                                          - name
-                                                        :for: 'cond_land_exclude'
+                                                        :id: 'cond_land_exclude'
+                                                        :name: 'cond[land_exclude]'
+                                                        :type: 'checkbox'
+                                                        :value: '1'
+                                                - :name: 'label'
+                                                  :attributes:
+                                                    :class:
+                                                      - name
+                                                    :for: 'cond_land_exclude'
                             - :name: 'div'
                               :attributes:
                                 :id: 'prg-fixed_btn_area'
@@ -1706,7 +1726,7 @@
                                 :class:
                                   - anchor
                                   - ui-bar
-                                :href: 'http://k.homes.co.jp/bukken/list/sid/576/'
+                                :href: 'http://k.homes.co.jp/bukken/list/sid/608/'
                               :children:
                                 - :name: 'span'
                                   :attributes:
@@ -1736,7 +1756,7 @@
                                 :class:
                                   - anchor
                                   - ui-bar
-                                :href: 'http://k.homes.co.jp/bukken/list/sid/601/'
+                                :href: 'http://k.homes.co.jp/bukken/list/sid/576/'
                               :children:
                                 - :name: 'span'
                                   :attributes:

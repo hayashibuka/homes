@@ -1290,60 +1290,6 @@
                                                     :class:
                                                       - name
                                                     :for: 'cond_bustime'
-                            - :name: 'h2'
-                              :attributes:
-                                :class:
-                                  - heading
-                                  - ui-heading_point_lv1
-                            - :name: 'div'
-                              :attributes:
-                                :class:
-                                  - content
-                              :children:
-                                - :name: 'div'
-                                  :attributes:
-                                    :class:
-                                      - mod-condSetting
-                                  :children:
-                                    - :name: 'div'
-                                      :attributes:
-                                        :class:
-                                          - checkbox
-                                          - full
-                                      :children:
-                                        - :name: 'ul'
-                                          :attributes:
-                                            :class:
-                                              - checkboxList
-                                          :children:
-                                            - :name: 'li'
-                                              :attributes:
-                                                :class:
-                                                  - listItem
-                                                  - full
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - item
-                                                      - prg-is-selectable
-                                                  :children:
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - icon
-                                                      :children:
-                                                        - :name: 'input'
-                                                          :attributes:
-                                                            :id: 'cond_land_exclude'
-                                                            :name: 'cond[land_exclude]'
-                                                            :type: 'checkbox'
-                                                            :value: '1'
-                                                    - :name: 'label'
-                                                      :attributes:
-                                                        :class:
-                                                          - name
-                                                        :for: 'cond_land_exclude'
                             - :name: 'div'
                               :attributes:
                                 :class:
@@ -1371,9 +1317,6 @@
                                             :value: '0'
                                         - :name: 'option'
                                           :attributes:
-                                            :value: '1'
-                                        - :name: 'option'
-                                          :attributes:
                                             :value: '3'
                                         - :name: 'option'
                                           :attributes:
@@ -1393,45 +1336,6 @@
                                         - :name: 'option'
                                           :attributes:
                                             :value: '30'
-                                - :name: 'div'
-                                  :attributes:
-                                    :class:
-                                      - checkbox
-                                      - full
-                                  :children:
-                                    - :name: 'ul'
-                                      :attributes:
-                                        :class:
-                                          - checkboxList
-                                      :children:
-                                        - :name: 'li'
-                                          :attributes:
-                                            :class:
-                                              - listItem
-                                              - full
-                                          :children:
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - item
-                                                  - prg-is-selectable
-                                              :children:
-                                                - :name: 'span'
-                                                  :attributes:
-                                                    :class:
-                                                      - icon
-                                                  :children:
-                                                    - :name: 'input'
-                                                      :attributes:
-                                                        :id: 'cond_exclude_newarticle'
-                                                        :name: 'cond[exclude_newarticle]'
-                                                        :type: 'checkbox'
-                                                        :value: '1'
-                                                - :name: 'label'
-                                                  :attributes:
-                                                    :class:
-                                                      - name
-                                                    :for: 'cond_exclude_newarticle'
                             - :name: 'div'
                               :attributes:
                                 :id: 'prg-fixed_btn_area'
