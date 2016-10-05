@@ -27,7 +27,7 @@
             :name: 'description'
         - :name: 'link'
           :attributes:
-            :href: '/iezukuri/compiled/sp/css/3b55397.css'
+            :href: '/iezukuri/compiled/sp/css/c485670.css'
             :rel:
               - stylesheet
             :type: 'text/css'
@@ -2713,6 +2713,33 @@
                             :class:
                               - ui-icon
                               - ui-icon-arrow_left
+        - :name: 'div'
+          :attributes:
+            :class:
+              - mod-campaignBanner
+          :children:
+            - :name: 'p'
+              :attributes:
+                :class:
+                  - label
+            - :name: 'ul'
+              :attributes:
+                :class:
+                  - banner
+              :children:
+                - :name: 'li'
+                  :children:
+                    - :name: 'a'
+                      :attributes:
+                        :href: '/iezukuri/campaign/daiwahouse_201610/?traffic=sp_footerbanner'
+                        :target: '_blank'
+                      :children:
+                        - :name: 'img'
+                          :attributes:
+                            :alt: 'いっけん発見学会'
+                            :height: '250'
+                            :src: '/iezukuri/img/smartphone/bnr/campaign/daiwa_612x500.jpg'
+                            :width: '306'
         - :name: 'div'
           :attributes:
             :class:

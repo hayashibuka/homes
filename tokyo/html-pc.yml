@@ -3614,7 +3614,7 @@
                                   - kksearch
                                   - kksArea
                                 :data-adtype: 'usual'
-                                :data-frame: '{"key":"020:40:00:141:0000000013","ad11":13,"market":40}'
+                                :data-frame: '{"key":"020:30:00:141:0000000013","ad11":13,"market":30}'
                                 :data-lmt: '4'
                                 :id: 'kksTopFeature'
                         - :name: 'div'
@@ -5173,9 +5173,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1192010392890
+                                                  - fav-marker-BSale_1078830006493
                                                   - bukken
-                                                  - rApart
+                                                  - cKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -5186,7 +5186,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1192010392890/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006493/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -5208,10 +5208,14 @@
                                                                       :attributes:
                                                                         :class:
                                                                           - bType
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - bStatus
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D33297&width=120&height=120'
+                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6493-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -5239,9 +5243,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1192010391509
+                                                  - fav-marker-BSale_1078830006495
                                                   - bukken
-                                                  - rApart
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -5252,7 +5256,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1192010391509/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006495/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -5277,7 +5281,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D33621&width=120&height=120'
+                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6495-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -5305,9 +5309,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1188700006956
+                                                  - fav-marker-BSale_1078830006544
                                                   - bukken
-                                                  - rApart
+                                                  - cKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -5318,7 +5322,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1188700006956/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006544/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -5340,10 +5344,14 @@
                                                                       :attributes:
                                                                         :class:
                                                                           - bType
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - bStatus
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D19457&width=120&height=120'
+                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6544-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -5371,9 +5379,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1180700374336
+                                                  - fav-marker-BMansion_16100010000544
                                                   - bukken
-                                                  - rApart
+                                                  - sbMansion
                                                   - favorite
                                                   - slide
                                               :children:
@@ -5384,7 +5392,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1180700374336/'
+                                                        :href: 'https://www.homes.co.jp/mansion/b-16100010000544/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -5406,10 +5414,14 @@
                                                                       :attributes:
                                                                         :class:
                                                                           - bType
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - bStatus
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D28687&width=120&height=120'
+                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F1610001%2Fsale%2Fimage1%2F00000010000975.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -5437,9 +5449,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1191240082341
+                                                  - fav-marker-BSale_1078830006543
                                                   - bukken
-                                                  - rApart
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -5450,7 +5462,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1191240082341/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006543/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -5475,7 +5487,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D22407&width=120&height=120'
+                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6543-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -5503,9 +5515,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1190040372894
+                                                  - fav-marker-BSale_1078830006494
                                                   - bukken
-                                                  - rApart
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -5516,7 +5528,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1190040372894/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006494/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -5541,7 +5553,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D7006&width=120&height=120'
+                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6494-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -5569,9 +5581,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1190040370713
+                                                  - fav-marker-BSale_1078830006486
                                                   - bukken
-                                                  - rMansion
+                                                  - cKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -5582,7 +5594,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1190040370713/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006486/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -5607,7 +5619,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D55508&width=120&height=120'
+                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6486-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -5635,9 +5647,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1192010400121
+                                                  - fav-marker-BSale_1078830006545
                                                   - bukken
-                                                  - rApart
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -5648,7 +5660,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1192010400121/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006545/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -5673,7 +5685,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D28481&width=120&height=120'
+                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6545-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -5701,9 +5713,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1180700368005
+                                                  - fav-marker-BMansion_16000010000291
                                                   - bukken
-                                                  - rMansion
+                                                  - sbMansion
                                                   - favorite
                                                   - slide
                                               :children:
@@ -5714,7 +5726,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1180700368005/'
+                                                        :href: 'https://www.homes.co.jp/mansion/b-16000010000291/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -5736,10 +5748,14 @@
                                                                       :attributes:
                                                                         :class:
                                                                           - bType
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - bStatus
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F0126452%2Frent%2Fimage%2F2409-1-2.jpg&width=120&height=120'
+                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F1600001%2Fsale%2Fimage%2F0000291-1.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -5767,9 +5783,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1188620035503
+                                                  - fav-marker-BSale_1078830006489
                                                   - bukken
-                                                  - rMansion
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -5780,7 +5796,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1188620035503/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006489/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -5805,7 +5821,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D36252&width=120&height=120'
+                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6489-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -5833,9 +5849,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1180700375188
+                                                  - fav-marker-BSale_1078830006491
                                                   - bukken
-                                                  - rMansion
+                                                  - cKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -5846,7 +5862,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1180700375188/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006491/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -5871,7 +5887,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F0106940%2Frent%2Fimage%2F32680-1-2.jpg&width=120&height=120'
+                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6491-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -5899,9 +5915,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1180800302406
+                                                  - fav-marker-BSale_1078830006547
                                                   - bukken
-                                                  - rApart
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -5912,7 +5928,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1180800302406/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006547/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -5937,7 +5953,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D44940&width=120&height=120'
+                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6547-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -5965,9 +5981,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1188630010627
+                                                  - fav-marker-BSale_1078830006546
                                                   - bukken
-                                                  - rMansion
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -5978,7 +5994,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1188630010627/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006546/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -6003,7 +6019,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D34429&width=120&height=120'
+                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6546-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -6031,9 +6047,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1186640040258
+                                                  - fav-marker-BMansion_16000010000289
                                                   - bukken
-                                                  - rApart
+                                                  - sbMansion
                                                   - favorite
                                                   - slide
                                               :children:
@@ -6044,7 +6060,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1186640040258/'
+                                                        :href: 'https://www.homes.co.jp/mansion/b-16000010000289/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -6066,10 +6082,14 @@
                                                                       :attributes:
                                                                         :class:
                                                                           - bType
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - bStatus
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D21085&width=120&height=120'
+                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=%2Fdata%2F1600001%2Fsale%2Fimage%2F0000289-1.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -6097,9 +6117,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1190040377363
+                                                  - fav-marker-BSale_1078830006490
                                                   - bukken
-                                                  - rApart
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -6110,7 +6130,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1190040377363/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006490/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -6135,7 +6155,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D34717&width=120&height=120'
+                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6490-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -6163,9 +6183,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1188550008965
+                                                  - fav-marker-BSale_1078830006482
                                                   - bukken
-                                                  - rMansion
+                                                  - cMansion
                                                   - favorite
                                                   - slide
                                               :children:
@@ -6176,7 +6196,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1188550008965/'
+                                                        :href: 'https://www.homes.co.jp/mansion/b-1078830006482/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -6201,7 +6221,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D40047&width=120&height=120'
+                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6482-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -6229,9 +6249,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1180800307365
+                                                  - fav-marker-BSale_1078830006542
                                                   - bukken
-                                                  - rApart
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -6242,7 +6262,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1180800307365/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006542/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -6267,7 +6287,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D25222&width=120&height=120'
+                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6542-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -6295,9 +6315,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1190040367039
+                                                  - fav-marker-BSale_1078830006549
                                                   - bukken
-                                                  - rApart
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -6308,7 +6328,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1190040367039/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006549/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -6333,7 +6353,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D28549&width=120&height=120'
+                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6549-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -6361,9 +6381,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1194190126497
+                                                  - fav-marker-BSale_1078830006483
                                                   - bukken
-                                                  - rMansion
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -6374,7 +6394,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1194190126497/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006483/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -6399,7 +6419,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F0126400%2Frent%2Fimage%2F4337-1-2.jpg&width=120&height=120'
+                                                                    :data-src: 'http://image.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6483-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -6427,9 +6447,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1180800301881
+                                                  - fav-marker-BSale_1078830006548
                                                   - bukken
-                                                  - rApart
+                                                  - cTochi
                                                   - favorite
                                                   - slide
                                               :children:
@@ -6440,7 +6460,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1180800301881/'
+                                                        :href: 'https://www.homes.co.jp/tochi/b-1078830006548/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -6465,7 +6485,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D16513&width=120&height=120'
+                                                                    :data-src: 'http://image.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6548-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -6493,9 +6513,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1192010399494
+                                                  - fav-marker-BSale_1078830006550
                                                   - bukken
-                                                  - rApart
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -6506,7 +6526,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1192010399494/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006550/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -6531,7 +6551,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D881&width=120&height=120'
+                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6550-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -6559,9 +6579,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1180700365826
+                                                  - fav-marker-BSale_1078830006551
                                                   - bukken
-                                                  - rApart
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -6572,7 +6592,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1180700365826/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006551/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -6597,7 +6617,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D13382&width=120&height=120'
+                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6551-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -6625,9 +6645,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1202470004088
+                                                  - fav-marker-BSale_1078830006484
                                                   - bukken
-                                                  - rMansion
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -6638,7 +6658,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1202470004088/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006484/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -6663,7 +6683,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D46328&width=120&height=120'
+                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6484-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -6691,9 +6711,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1190040377510
+                                                  - fav-marker-BSale_1078830006488
                                                   - bukken
-                                                  - rApart
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -6704,7 +6724,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1190040377510/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006488/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -6729,7 +6749,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D23277&width=120&height=120'
+                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6488-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -6757,9 +6777,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1180700377101
+                                                  - fav-marker-BSale_1078830006487
                                                   - bukken
-                                                  - rApart
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -6770,7 +6790,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1180700377101/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006487/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -6795,7 +6815,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D34290&width=120&height=120'
+                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6487-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -6823,9 +6843,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_37130540007307
+                                                  - fav-marker-BSale_1078830006485
                                                   - bukken
-                                                  - rApart
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -6836,7 +6856,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-37130540007307/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006485/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -6861,7 +6881,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=http%3A%2F%2Fpro-acrnwl-images.s3-ap-northeast-1.amazonaws.com%2Fbk%2F1000%2F87%2F29%2F000000000658729%2F021%2F0000000006587290003_20161004143249936.JPG&width=120&height=120'
+                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6485-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -6889,9 +6909,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1188650017241
+                                                  - fav-marker-BMansion_16100010000573
                                                   - bukken
-                                                  - rApart
+                                                  - sbMansion
                                                   - favorite
                                                   - slide
                                               :children:
@@ -6902,7 +6922,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1188650017241/'
+                                                        :href: 'https://www.homes.co.jp/mansion/b-16100010000573/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -6924,10 +6944,14 @@
                                                                       :attributes:
                                                                         :class:
                                                                           - bType
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - bStatus
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D23630&width=120&height=120'
+                                                                    :data-src: 'http://image.homes.jp/smallimg/image.php?file=%2Fdata%2F1610001%2Fsale%2Fimage1%2F00000010001004.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -6955,9 +6979,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1190040371757
+                                                  - fav-marker-BSale_1078830006481
                                                   - bukken
-                                                  - rMansion
+                                                  - cMansion
                                                   - favorite
                                                   - slide
                                               :children:
@@ -6968,7 +6992,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1190040371757/'
+                                                        :href: 'https://www.homes.co.jp/mansion/b-1078830006481/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -6993,7 +7017,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F0115451%2Frent%2Fimage%2F0000377-2-2.jpg&width=120&height=120'
+                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6481-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -7021,9 +7045,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1180700370422
+                                                  - fav-marker-BMansion_16000010000292
                                                   - bukken
-                                                  - rApart
+                                                  - sbMansion
                                                   - favorite
                                                   - slide
                                               :children:
@@ -7034,7 +7058,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1180700370422/'
+                                                        :href: 'https://www.homes.co.jp/mansion/b-16000010000292/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -7056,10 +7080,14 @@
                                                                       :attributes:
                                                                         :class:
                                                                           - bType
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - bStatus
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D34561&width=120&height=120'
+                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F1600001%2Fsale%2Fimage%2F0000292-1.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -7087,9 +7115,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1191240082604
+                                                  - fav-marker-BSale_1078830006541
                                                   - bukken
-                                                  - rApart
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -7100,7 +7128,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1191240082604/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006541/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -7125,7 +7153,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D7394&width=120&height=120'
+                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6541-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -7153,9 +7181,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1192010385317
+                                                  - fav-marker-BMansion_16001520000026
                                                   - bukken
-                                                  - rApart
+                                                  - sbMansion
                                                   - favorite
                                                   - slide
                                               :children:
@@ -7166,7 +7194,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1192010385317/'
+                                                        :href: 'https://www.homes.co.jp/mansion/b-16001520000026/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -7188,10 +7216,14 @@
                                                                       :attributes:
                                                                         :class:
                                                                           - bType
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - bStatus
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D28720&width=120&height=120'
+                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F1600152%2Fsale%2Fimage%2F0000026-1.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -7219,9 +7251,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BRent_1192010394405
+                                                  - fav-marker-BSale_1078830006492
                                                   - bukken
-                                                  - rMansion
+                                                  - scKodate
                                                   - favorite
                                                   - slide
                                               :children:
@@ -7232,7 +7264,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1192010394405/'
+                                                        :href: 'https://www.homes.co.jp/kodate/b-1078830006492/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -7257,1195 +7289,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D44925&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1180800302500
-                                                  - bukken
-                                                  - rApart
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1180800302500/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D28767&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1180800306363
-                                                  - bukken
-                                                  - rApart
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1180800306363/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D13658&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1190040375274
-                                                  - bukken
-                                                  - rApart
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1190040375274/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D7631&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1190040372191
-                                                  - bukken
-                                                  - rApart
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1190040372191/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fd465%2Fa4f2cb23db3cb344080fe7f05826_02d3d358aeb5ae41a312edb85393cf90.jpg&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1188620036178
-                                                  - bukken
-                                                  - rApart
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1188620036178/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D26318&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1180800307149
-                                                  - bukken
-                                                  - rMansion
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1180800307149/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D9887&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1192010391659
-                                                  - bukken
-                                                  - rApart
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1192010391659/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D48229&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1194190126990
-                                                  - bukken
-                                                  - rMansion
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1194190126990/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D48268&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1180800303598
-                                                  - bukken
-                                                  - rMansion
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1180800303598/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D24069&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1190040377141
-                                                  - bukken
-                                                  - rApart
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1190040377141/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D55845&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1192010386623
-                                                  - bukken
-                                                  - rApart
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1192010386623/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D16267&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1194190126629
-                                                  - bukken
-                                                  - rMansion
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1194190126629/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F0117815%2Frent%2Fimage%2F10117-1-2.jpg&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1180700376910
-                                                  - bukken
-                                                  - rApart
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1180700376910/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D30391&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1188660010352
-                                                  - bukken
-                                                  - rApart
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1188660010352/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D31209&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1180700367016
-                                                  - bukken
-                                                  - rApart
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1180700367016/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D1161&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1180700370940
-                                                  - bukken
-                                                  - rApart
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1180700370940/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D11040&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1190040373933
-                                                  - bukken
-                                                  - rMansion
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1190040373933/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fbbd6%2F37be198ad00f044da161f8c18fad_464b8ffaa28b46c1b2026dedb063f488.jpg&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BRent_1191240081835
-                                                  - bukken
-                                                  - rMansion
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/chintai/b-1191240081835/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: ''
-                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fwww.leopalace21.com%2Fapp%2Fimage%2Frequest%3FTABLE%3DLEO_IMAGE%26IMAGE%3DIM_IMAGE%26IM_BK_NO%3D29505&width=120&height=120'
+                                                                    :data-src: 'http://image.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6492-1-2.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -8848,102 +7692,102 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/gotokuji_04995-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/sakurakaido_09191-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/shimoakatsuka_04753-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/shibaurafuto_09199-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/nihombashi_06309-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/meijijingumae_06372-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/kugayama_04985-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/keiseimachiya_04872-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/hachioji_00232-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/itabashi_00631-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/waseda_06349-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/shinkoenji_06331-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/machiya_06364-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/nishidai_06422-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/higashijujo_00600-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/hamamatsucho_00572-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/takaido_04983-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/hirayamajoshikoen_04953-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/tsukiji_06342-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/kamiitabashi_04751-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/ebaramachi_05082-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/higashiazuma_04660-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/fuchukeibaseimommae_04972-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/gotanda_00575-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/senjuohashi_04873-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/hamadayama_04982-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/azabujuban_09214-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/akasaka_06370-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/yamashita_05132-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/yoyogi_00580-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/odaibakaihinkoen_09200-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/ushihama_00811-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/nishitakashimadaira_06425-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/hatonosu_00827-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/akadoshogakkomae_10016-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/omorimachi_05142-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/samezu_05138-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/roppongi_06346-st/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/wakabayashi_05127-st/'
+                                                :href: 'http://www.homes.co.jp/tokyo/komazawadaigaku_05093-st/'
                             - :name: 'div'
                               :attributes:
                                 :class:
@@ -8966,32 +7810,42 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/koto-city/'
+                                                :href: 'http://www.homes.co.jp/tokyo/taito-city/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/shinagawa-city/'
+                                                :href: 'http://www.homes.co.jp/tokyo/sumida-city/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/setagaya-city/'
+                                                :href: 'http://www.homes.co.jp/tokyo/shibuya-city/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/katsushika-city/'
+                                                :href: 'http://www.homes.co.jp/tokyo/suginami-city/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/hachioji-city/'
+                                                :href: 'http://www.homes.co.jp/tokyo/nerima-city/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/hino-city/'
+                                                :href: 'http://www.homes.co.jp/tokyo/adachi-city/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/tokyo/musashino-city/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/tokyo/machida-city/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
@@ -9001,22 +7855,12 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/kokubunji-city/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/fussa-city/'
+                                                :href: 'http://www.homes.co.jp/tokyo/kunitachi-city/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
                                                 :href: 'http://www.homes.co.jp/tokyo/komae-city/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/kiyose-city/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
@@ -9031,6 +7875,11 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
+                                                :href: 'http://www.homes.co.jp/tokyo/tama-city/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
                                                 :href: 'http://www.homes.co.jp/tokyo/inagi-city/'
                                         - :name: 'li'
                                           :children:
@@ -9041,22 +7890,17 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/nishitama_mizuho-city/'
+                                                :href: 'http://www.homes.co.jp/tokyo/nishitama_okutama-city/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/kozushima-city/'
+                                                :href: 'http://www.homes.co.jp/tokyo/niijima-city/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/mikurajima-city/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
-                                                :href: 'http://www.homes.co.jp/tokyo/13420-city/'
+                                                :href: 'http://www.homes.co.jp/tokyo/aogashima-city/'
                     - :name: 'div'
                       :attributes:
                         :class:
@@ -9077,9 +7921,9 @@
                                   - kksearch
                                   - kksArea
                                 :id: 'kksTop'
-                                :key: '010:30:00:141:0000000013'
+                                :key: '010:10:00:141:0000000013'
                                 :lmt: '2'
-                                :market: '30'
+                                :market: '10'
                         - :name: 'div'
                           :attributes:
                             :class:

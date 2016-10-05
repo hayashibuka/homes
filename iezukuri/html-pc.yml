@@ -35,7 +35,7 @@
               - canonical
         - :name: 'link'
           :attributes:
-            :href: '/iezukuri/compiled/pc/css/f78d408.css'
+            :href: '/iezukuri/compiled/pc/css/fa226b1.css'
             :rel:
               - stylesheet
             :type: 'text/css'
@@ -1469,7 +1469,7 @@
                                       :children:
                                         - :name: 'a'
                                           :attributes:
-                                            :href: '/iezukuri/mid-1588/feature/'
+                                            :href: '/iezukuri/mid-5493/feature/'
                                           :children:
                                             - :name: 'p'
                                               :attributes:
@@ -1478,9 +1478,9 @@
                                               :children:
                                                 - :name: 'img'
                                                   :attributes:
-                                                    :alt: '施工会社：ファーストホーム'
+                                                    :alt: '施工会社：株式会社 高砂建設'
                                                     :height: '60'
-                                                    :src: '/iezukuri/img/default/page/index/feature/img_feature_first.jpg'
+                                                    :src: '/iezukuri/img/default/page/index/feature/img_feature_takasago.jpg'
                                                     :width: '60'
                                             - :name: 'p'
                                               :attributes:
@@ -1506,6 +1506,31 @@
                                                     :alt: '施工会社：無添加住宅'
                                                     :height: '60'
                                                     :src: '/iezukuri/img/default/page/index/feature/img_feature_mutenka.jpg'
+                                                    :width: '60'
+                                            - :name: 'p'
+                                              :attributes:
+                                                :class:
+                                                  - explain
+                                            - :name: 'p'
+                                              :attributes:
+                                                :class:
+                                                  - makerName
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: '/iezukuri/mid-1588/feature/'
+                                          :children:
+                                            - :name: 'p'
+                                              :attributes:
+                                                :class:
+                                                  - img
+                                              :children:
+                                                - :name: 'img'
+                                                  :attributes:
+                                                    :alt: '施工会社：ファーストホーム'
+                                                    :height: '60'
+                                                    :src: '/iezukuri/img/default/page/index/feature/img_feature_first.jpg'
                                                     :width: '60'
                                             - :name: 'p'
                                               :attributes:
@@ -1556,31 +1581,6 @@
                                                     :alt: '施工会社：OMソーラー'
                                                     :height: '60'
                                                     :src: '/iezukuri/img/default/page/index/feature/img_feature_om.jpg'
-                                                    :width: '60'
-                                            - :name: 'p'
-                                              :attributes:
-                                                :class:
-                                                  - explain
-                                            - :name: 'p'
-                                              :attributes:
-                                                :class:
-                                                  - makerName
-                                    - :name: 'li'
-                                      :children:
-                                        - :name: 'a'
-                                          :attributes:
-                                            :href: '/iezukuri/mid-5493/feature/'
-                                          :children:
-                                            - :name: 'p'
-                                              :attributes:
-                                                :class:
-                                                  - img
-                                              :children:
-                                                - :name: 'img'
-                                                  :attributes:
-                                                    :alt: '施工会社：株式会社 高砂建設'
-                                                    :height: '60'
-                                                    :src: '/iezukuri/img/default/page/index/feature/img_feature_takasago.jpg'
                                                     :width: '60'
                                             - :name: 'p'
                                               :attributes:
@@ -2137,7 +2137,7 @@
                                   :children:
                                     - :name: 'a'
                                       :attributes:
-                                        :href: '/iezukuri/mid-842/voice/vid-1638/'
+                                        :href: '/iezukuri/mid-4823/voice/vid-4819/'
                                     - :name: 'span'
                                       :attributes:
                                         :class:
@@ -2146,7 +2146,7 @@
                                   :children:
                                     - :name: 'a'
                                       :attributes:
-                                        :href: '/iezukuri/mid-1327/voice/vid-3561/'
+                                        :href: '/iezukuri/mid-842/voice/vid-1283/'
                                     - :name: 'span'
                                       :attributes:
                                         :class:
@@ -2155,7 +2155,7 @@
                                   :children:
                                     - :name: 'a'
                                       :attributes:
-                                        :href: '/iezukuri/mid-4023/voice/vid-3758/'
+                                        :href: '/iezukuri/mid-3846/voice/vid-3543/'
                                     - :name: 'span'
                                       :attributes:
                                         :class:
@@ -2298,6 +2298,36 @@
                                         :height: '220'
                                         :src: '/iezukuri/img/default/bnr/bp_side_220x220.jpg'
                                         :width: '220'
+            - :name: 'div'
+              :attributes:
+                :class:
+                  - mod-campaignBanner
+              :children:
+                - :name: 'div'
+                  :attributes:
+                    :class:
+                      - wrap
+                  :children:
+                    - :name: 'ul'
+                      :attributes:
+                        :class:
+                          - banner
+                      :children:
+                        - :name: 'li'
+                          :children:
+                            - :name: 'a'
+                              :attributes:
+                                :class:
+                                  - btn
+                                :href: '/iezukuri/campaign/daiwahouse_201610/?traffic=pc_footerbanner'
+                                :target: '_blank'
+                              :children:
+                                - :name: 'img'
+                                  :attributes:
+                                    :alt: 'いっけん発見学会'
+                                    :height: '92'
+                                    :src: '/iezukuri/img/default/bnr/campaign/daiwa_730x92.jpg'
+                                    :width: '730'
             - :name: 'div'
               :attributes:
                 :class:
