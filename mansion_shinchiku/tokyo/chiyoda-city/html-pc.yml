@@ -38,42 +38,42 @@
               - canonical
         - :name: 'link'
           :attributes:
-            :href: '/minifile/search/assets/css/286470fe0d6546518577d2f0c184562b39453e0d.css?v=20161004231'
+            :href: '/minifile/search/assets/css/286470fe0d6546518577d2f0c184562b39453e0d.css?v=20161006205'
             :rel:
               - stylesheet
             :type: 'text/css'
         - :name: 'link'
           :attributes:
-            :href: '/minifile/search/assets/css/64168e3d2ddac920edc466562763995f289265f8.css?v=20161004231'
+            :href: '/minifile/search/assets/css/64168e3d2ddac920edc466562763995f289265f8.css?v=20161006205'
             :rel:
               - stylesheet
             :type: 'text/css'
         - :name: 'link'
           :attributes:
-            :href: '/minifile/search/assets/css/bde261411e6ebad469312f2772dea3cb4e3b8f9f.css?v=20161004231'
+            :href: '/minifile/search/assets/css/bde261411e6ebad469312f2772dea3cb4e3b8f9f.css?v=20161006205'
             :media: 'print'
             :rel:
               - stylesheet
             :type: 'text/css'
         - :name: 'script'
           :attributes:
-            :src: '/minifile/search/assets/js/7d14ace39c97d78ac3b8dfacfb10beaaaedae5e7.js?v=20161004231'
+            :src: '/minifile/search/assets/js/7d14ace39c97d78ac3b8dfacfb10beaaaedae5e7.js?v=20161006205'
             :type: 'text/javascript'
         - :name: 'script'
           :attributes:
-            :src: '/minifile/search/assets/js/f30e2befd962255e4a807e42fe0189cf23aef26c.js?v=20161004231'
+            :src: '/minifile/search/assets/js/f30e2befd962255e4a807e42fe0189cf23aef26c.js?v=20161006205'
             :type: 'text/javascript'
         - :name: 'script'
           :attributes:
-            :src: '/search/assets/js/app/flow/module/RangeSearch.js?20161004231'
+            :src: '/search/assets/js/app/flow/module/RangeSearch.js?20161006205'
             :type: 'text/javascript'
         - :name: 'script'
           :attributes:
-            :src: '/search/assets/js/app/flow/module/launcher/condbox.js?20161004231'
+            :src: '/search/assets/js/app/flow/module/launcher/condbox.js?20161006205'
             :type: 'text/javascript'
         - :name: 'script'
           :attributes:
-            :src: '/search/assets/js/app/flow/city/cityController.js?20161004231'
+            :src: '/search/assets/js/app/flow/city/cityController.js?20161006205'
             :type: 'text/javascript'
         - :name: 'link'
           :attributes:
@@ -1498,17 +1498,17 @@
                                       :children:
                                         - :name: 'a'
                                           :attributes:
-                                            :data-kks: '{"adlcls":"ads","adlgrp":"5203","adlctg":"022:40:02:161:0000000002","adltyp":"CLK","adladid":"","adlads":"20331288","adlaid":"20610572","adlcol":"","adlmem":"","adllid":"","adlcky":"","adlloc":3,"adlplc":"specialTopic"}'
-                                            :data-url: 'http://www.homes.co.jp/mansion/shinchiku/special/kanto/sid-1432/'
-                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/special/kanto/sid-1432/'
+                                            :data-kks: '{"adlcls":"ads","adlgrp":"5203","adlctg":"022:40:02:161:0000000002","adltyp":"CLK","adladid":"","adlads":"20331304","adlaid":"20610594","adlcol":"","adlmem":"","adllid":"","adlcky":"","adlloc":3,"adlplc":"specialTopic"}'
+                                            :data-url: 'http://www.homes.co.jp/mansion/shinchiku/special/sid-1439/'
+                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/special/sid-1439/'
                                             :target: '_self'
                                           :children:
                                             - :name: 'img'
                                               :attributes:
-                                                :alt: '一度は住みたい、憧れのマンション'
+                                                :alt: '歴史と伝統を持つ古都・京都'
                                                 :class:
                                                   - thumbnail
-                                                :src: 'http://shinchiku.homes.co.jp/footprint/banner/getimage.php?category=top_theme_a&file=banner_path_2537.jpg'
+                                                :src: 'http://shinchiku.homes.co.jp/footprint/banner/getimage.php?category=top_theme_a&file=banner_path_2544.jpg'
                                             - :name: 'span'
                                               :attributes:
                                                 :class:
@@ -1525,34 +1525,7 @@
                                       :children:
                                         - :name: 'a'
                                           :attributes:
-                                            :data-kks: '{"adlcls":"ads","adlgrp":"5203","adlctg":"022:40:02:161:0000000002","adltyp":"CLK","adladid":"","adlads":"20331284","adlaid":"20610568","adlcol":"","adlmem":"","adllid":"","adlcky":"","adlloc":4,"adlplc":"specialTopic"}'
-                                            :data-url: 'http://www.homes.co.jp/mansion/shinchiku/special/kanto/sid-1430/'
-                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/special/kanto/sid-1430/'
-                                            :target: '_self'
-                                          :children:
-                                            - :name: 'img'
-                                              :attributes:
-                                                :alt: '通勤・通学にゆとりを生む、駅近生活'
-                                                :class:
-                                                  - thumbnail
-                                                :src: 'http://shinchiku.homes.co.jp/footprint/banner/getimage.php?category=top_theme_a&file=banner_path_2535.jpg'
-                                            - :name: 'span'
-                                              :attributes:
-                                                :class:
-                                                  - title
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - topics
-                                          - prg-kksUsualClick
-                                          - prg-kksAdInfo
-                                          - sbMansion
-                                        :s_evar: ''
-                                        :s_events: 'event8'
-                                      :children:
-                                        - :name: 'a'
-                                          :attributes:
-                                            :data-kks: '{"adlcls":"ads","adlgrp":"5203","adlctg":"022:40:02:161:0000000002","adltyp":"CLK","adladid":"","adlads":"20331297","adlaid":"20610582","adlcol":"","adlmem":"","adllid":"","adlcky":"","adlloc":5,"adlplc":"specialTopic"}'
+                                            :data-kks: '{"adlcls":"ads","adlgrp":"5203","adlctg":"022:40:02:161:0000000002","adltyp":"CLK","adladid":"","adlads":"20331297","adlaid":"20610582","adlcol":"","adlmem":"","adllid":"","adlcky":"","adlloc":4,"adlplc":"specialTopic"}'
                                             :data-url: 'http://www.homes.co.jp/mansion/shinchiku/special/kanto/sid-1436/'
                                             :href: 'http://www.homes.co.jp/mansion/shinchiku/special/kanto/sid-1436/'
                                             :target: '_self'
@@ -1563,6 +1536,33 @@
                                                 :class:
                                                   - thumbnail
                                                 :src: 'http://shinchiku.homes.co.jp/footprint/banner/getimage.php?category=top_theme_a&file=banner_path_2541.jpg'
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - title
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - topics
+                                          - prg-kksUsualClick
+                                          - prg-kksAdInfo
+                                          - sbMansion
+                                        :s_evar: ''
+                                        :s_events: 'event8'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :data-kks: '{"adlcls":"ads","adlgrp":"5203","adlctg":"022:40:02:161:0000000002","adltyp":"CLK","adladid":"","adlads":"20331302","adlaid":"20610590","adlcol":"","adlmem":"","adllid":"","adlcky":"","adlloc":5,"adlplc":"specialTopic"}'
+                                            :data-url: 'http://www.homes.co.jp/mansion/shinchiku/special/kanto/sid-1438/'
+                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/special/kanto/sid-1438/'
+                                            :target: '_self'
+                                          :children:
+                                            - :name: 'img'
+                                              :attributes:
+                                                :alt: 'リノベーションという新しい選択肢'
+                                                :class:
+                                                  - thumbnail
+                                                :src: 'http://shinchiku.homes.co.jp/footprint/banner/getimage.php?category=top_theme_a&file=banner_path_2543.jpg'
                                             - :name: 'span'
                                               :attributes:
                                                 :class:
@@ -1627,9 +1627,9 @@
                                       :children:
                                         - :name: 'a'
                                           :attributes:
-                                            :data-kks: '{"adlcls":"ads","adlgrp":"5203","adlctg":"022:40:02:161:0000000002","adltyp":"CLK","adladid":"","adlads":"20331290","adlaid":"20610574","adlcol":"","adlmem":"","adllid":"","adlcky":"","adlloc":8,"adlplc":"specialTopic"}'
-                                            :data-url: 'http://www.homes.co.jp/mansion/shinchiku/special/kanto/sid-1433/'
-                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/special/kanto/sid-1433/'
+                                            :data-kks: '{"adlcls":"ads","adlgrp":"5203","adlctg":"022:40:02:161:0000000002","adltyp":"CLK","adladid":"","adlads":"5016698","adlaid":"5102793","adlcol":"","adlmem":"","adllid":"","adlcky":"","adlloc":8,"adlplc":"specialTopic"}'
+                                            :data-url: 'http://www.homes.co.jp/mansion/shinchiku/special/kanto/sid-1111/'
+                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/special/kanto/sid-1111/'
                                             :target: '_self'
                                           :children:
                                             - :name: 'span'
@@ -1648,9 +1648,9 @@
                                       :children:
                                         - :name: 'a'
                                           :attributes:
-                                            :data-kks: '{"adlcls":"ads","adlgrp":"5203","adlctg":"022:40:02:161:0000000002","adltyp":"CLK","adladid":"","adlads":"20331286","adlaid":"20610570","adlcol":"","adlmem":"","adllid":"","adlcky":"","adlloc":9,"adlplc":"specialTopic"}'
-                                            :data-url: 'http://www.homes.co.jp/mansion/shinchiku/special/kanto/sid-1431/'
-                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/special/kanto/sid-1431/'
+                                            :data-kks: '{"adlcls":"ads","adlgrp":"5203","adlctg":"022:40:02:161:0000000002","adltyp":"CLK","adladid":"","adlads":"5016700","adlaid":"5102795","adlcol":"","adlmem":"","adllid":"","adlcky":"","adlloc":9,"adlplc":"specialTopic"}'
+                                            :data-url: 'http://www.homes.co.jp/mansion/shinchiku/special/kanto/sid-1086/'
+                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/special/kanto/sid-1086/'
                                             :target: '_self'
                                           :children:
                                             - :name: 'span'
@@ -1727,16 +1727,40 @@
                                       :children:
                                         - :name: 'a'
                                           :attributes:
-                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/theme/12108/tokyo/list/'
+                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/theme/12121/tokyo/list/'
                                             :target: '_self'
                                           :children:
                                             - :name: 'img'
                                               :attributes:
-                                                :alt: 'タワーマンション（高層マンション）'
+                                                :alt: 'ハイグレードマンション'
                                                 :class:
                                                   - thumbnail
                                                 :height: '43'
-                                                :src: '/search/assets/img/default/page/theme/thumbnail/12/12108_60x60.jpg'
+                                                :src: '/search/assets/img/default/page/theme/thumbnail/12/12121_60x60.jpg'
+                                                :width: '43'
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - title
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - theme
+                                          - sbMansion
+                                          - prg-paidThemeClick
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
+                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/theme/12125/tokyo/list/'
+                                            :target: '_self'
+                                          :children:
+                                            - :name: 'img'
+                                              :attributes:
+                                                :alt: '免震構造のマンション'
+                                                :class:
+                                                  - thumbnail
+                                                :height: '43'
+                                                :src: '/search/assets/img/default/page/theme/thumbnail/12/12125_60x60.jpg'
                                                 :width: '43'
                                             - :name: 'span'
                                               :attributes:
@@ -1799,6 +1823,30 @@
                                       :children:
                                         - :name: 'a'
                                           :attributes:
+                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/theme/14101/tokyo/list/'
+                                            :target: '_self'
+                                          :children:
+                                            - :name: 'img'
+                                              :attributes:
+                                                :alt: '駅まで徒歩5分の便利な物件'
+                                                :class:
+                                                  - thumbnail
+                                                :height: '43'
+                                                :src: '/search/assets/img/default/page/theme/thumbnail/14/14101_60x60.jpg'
+                                                :width: '43'
+                                            - :name: 'span'
+                                              :attributes:
+                                                :class:
+                                                  - title
+                                    - :name: 'li'
+                                      :attributes:
+                                        :class:
+                                          - theme
+                                          - sbMansion
+                                          - prg-paidThemeClick
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
                                             :href: 'http://www.homes.co.jp/mansion/shinchiku/theme/14113/tokyo/list/'
                                             :target: '_self'
                                           :children:
@@ -1823,16 +1871,16 @@
                                       :children:
                                         - :name: 'a'
                                           :attributes:
-                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/theme/12133/tokyo/list/'
+                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/theme/12132/tokyo/list/'
                                             :target: '_self'
                                           :children:
                                             - :name: 'img'
                                               :attributes:
-                                                :alt: '環境にやさしいマンション'
+                                                :alt: 'シニアに優しいマンション'
                                                 :class:
                                                   - thumbnail
                                                 :height: '43'
-                                                :src: '/search/assets/img/default/page/theme/thumbnail/12/12133_60x60.jpg'
+                                                :src: '/search/assets/img/default/page/theme/thumbnail/12/12132_60x60.jpg'
                                                 :width: '43'
                                             - :name: 'span'
                                               :attributes:
@@ -1847,64 +1895,16 @@
                                       :children:
                                         - :name: 'a'
                                           :attributes:
-                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/theme/12122/tokyo/list/'
+                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/theme/12108/tokyo/list/'
                                             :target: '_self'
                                           :children:
                                             - :name: 'img'
                                               :attributes:
-                                                :alt: '子育てに嬉しい環境'
+                                                :alt: 'タワーマンション（高層マンション）'
                                                 :class:
                                                   - thumbnail
                                                 :height: '43'
-                                                :src: '/search/assets/img/default/page/theme/thumbnail/12/12122_60x60.jpg'
-                                                :width: '43'
-                                            - :name: 'span'
-                                              :attributes:
-                                                :class:
-                                                  - title
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - theme
-                                          - sbMansion
-                                          - prg-paidThemeClick
-                                      :children:
-                                        - :name: 'a'
-                                          :attributes:
-                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/theme/15107/tokyo/list/'
-                                            :target: '_self'
-                                          :children:
-                                            - :name: 'img'
-                                              :attributes:
-                                                :alt: 'シングル＆DINKS向け'
-                                                :class:
-                                                  - thumbnail
-                                                :height: '43'
-                                                :src: '/search/assets/img/default/page/theme/thumbnail/15/15107_60x60.jpg'
-                                                :width: '43'
-                                            - :name: 'span'
-                                              :attributes:
-                                                :class:
-                                                  - title
-                                    - :name: 'li'
-                                      :attributes:
-                                        :class:
-                                          - theme
-                                          - sbMansion
-                                          - prg-paidThemeClick
-                                      :children:
-                                        - :name: 'a'
-                                          :attributes:
-                                            :href: 'http://www.homes.co.jp/mansion/shinchiku/theme/12113/tokyo/list/'
-                                            :target: '_self'
-                                          :children:
-                                            - :name: 'img'
-                                              :attributes:
-                                                :alt: '大規模マンション'
-                                                :class:
-                                                  - thumbnail
-                                                :height: '43'
-                                                :src: '/search/assets/img/default/page/theme/thumbnail/12/12113_60x60.jpg'
+                                                :src: '/search/assets/img/default/page/theme/thumbnail/12/12108_60x60.jpg'
                                                 :width: '43'
                                             - :name: 'span'
                                               :attributes:
@@ -2156,9 +2156,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BMansion_16001520000026
+                                                  - fav-marker-BSale_60000330204167
                                                   - bukken
-                                                  - sbMansion
+                                                  - scMansion
                                                   - favorite
                                                   - slide
                                               :children:
@@ -2169,7 +2169,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/mansion/b-16001520000026/'
+                                                        :href: 'https://www.homes.co.jp/mansion/b-60000330204167/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -2192,14 +2192,10 @@
                                                                       :attributes:
                                                                         :class:
                                                                           - bType
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bStatus
                                                                 - :name: 'img'
                                                                   :attributes:
-                                                                    :alt: 'アトラス千代田御茶ノ水'
-                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F1600152%2Fsale%2Fimage%2F0000026-1.jpg&width=120&height=120'
+                                                                    :alt: 'ＤＵＡＲＥＳ千代田三崎町'
+                                                                    :data-src: '/search/assets/img/default/common/thumb/no-image_120x120.png'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                                 - :name: 'span'
                                                                   :attributes:
@@ -2304,7 +2300,7 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BSale_60000330204169
+                                                  - fav-marker-BSale_60000330204168
                                                   - bukken
                                                   - scMansion
                                                   - favorite
@@ -2317,7 +2313,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/mansion/b-60000330204169/'
+                                                        :href: 'https://www.homes.co.jp/mansion/b-60000330204168/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -2376,7 +2372,83 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BSale_60000330204167
+                                                  - fav-marker-BMansion_16007930000042
+                                                  - bukken
+                                                  - sbMansion
+                                                  - favorite
+                                                  - slide
+                                              :children:
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - mod-slideBukken
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: 'https://www.homes.co.jp/mansion/b-16007930000042/'
+                                                        :target: '_blank'
+                                                      :children:
+                                                        - :name: 'div'
+                                                          :attributes:
+                                                            :class:
+                                                              - figure
+                                                          :children:
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - photo
+                                                                  - includeBukkenName
+                                                              :children:
+                                                                - :name: 'span'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - icon-bukkenType
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - bType
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - bStatus
+                                                                - :name: 'img'
+                                                                  :attributes:
+                                                                    :alt: 'シティインデックス神田'
+                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F1600793%2Fsale%2Fimage%2F0000042-1.jpg&width=120&height=120'
+                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
+                                                                - :name: 'span'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - bukkenName
+                                                                      - prg-bukkenName
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - figcaption
+                                                              :children:
+                                                                - :name: 'span'
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - num
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                - :name: 'span'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - linkTxt
+                                                                      - mod-btn
+                                                                      - btn24
+                                                                  :children:
+                                                                    - :name: 'span'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - fav-marker-BSale_60000330204169
                                                   - bukken
                                                   - scMansion
                                                   - favorite
@@ -2389,7 +2461,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/mansion/b-60000330204167/'
+                                                        :href: 'https://www.homes.co.jp/mansion/b-60000330204169/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -2524,9 +2596,9 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BSale_60000330204168
+                                                  - fav-marker-BMansion_16001520000026
                                                   - bukken
-                                                  - scMansion
+                                                  - sbMansion
                                                   - favorite
                                                   - slide
                                               :children:
@@ -2537,7 +2609,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/mansion/b-60000330204168/'
+                                                        :href: 'https://www.homes.co.jp/mansion/b-16001520000026/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -2560,10 +2632,14 @@
                                                                       :attributes:
                                                                         :class:
                                                                           - bType
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - bStatus
                                                                 - :name: 'img'
                                                                   :attributes:
-                                                                    :alt: 'ＤＵＡＲＥＳ千代田三崎町'
-                                                                    :data-src: '/search/assets/img/default/common/thumb/no-image_120x120.png'
+                                                                    :alt: 'アトラス千代田御茶ノ水'
+                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F1600152%2Fsale%2Fimage%2F0000026-1.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                                 - :name: 'span'
                                                                   :attributes:
@@ -2640,82 +2716,6 @@
                                                                   :attributes:
                                                                     :alt: 'シティタワー・ルフォン九段の杜'
                                                                     :data-src: 'http://image4.homes.jp/smallimg/image.php?file=%2Fdata%2F1610001%2Fsale%2Fimage1%2F00000010001017.jpg&width=120&height=120'
-                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - bukkenName
-                                                                      - prg-bukkenName
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figcaption
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - num
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                    - :name: 'br'
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - linkTxt
-                                                                      - mod-btn
-                                                                      - btn24
-                                                                  :children:
-                                                                    - :name: 'span'
-                                            - :name: 'div'
-                                              :attributes:
-                                                :class:
-                                                  - fav-marker-BMansion_16007930000042
-                                                  - bukken
-                                                  - sbMansion
-                                                  - favorite
-                                                  - slide
-                                              :children:
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - mod-slideBukken
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'https://www.homes.co.jp/mansion/b-16007930000042/'
-                                                        :target: '_blank'
-                                                      :children:
-                                                        - :name: 'div'
-                                                          :attributes:
-                                                            :class:
-                                                              - figure
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - photo
-                                                                  - includeBukkenName
-                                                              :children:
-                                                                - :name: 'span'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - icon-bukkenType
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bType
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - bStatus
-                                                                - :name: 'img'
-                                                                  :attributes:
-                                                                    :alt: 'シティインデックス神田'
-                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F1600793%2Fsale%2Fimage%2F0000042-1.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                                 - :name: 'span'
                                                                   :attributes:
@@ -5366,102 +5366,102 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/shimmikawashima_04871-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/seibutachikawa_04854-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/kanamechiyo_06379-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/hanedakukodainibiru_09897-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/sakurajosui_04931-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/mogusaen_04950-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/togoshiginza_05115-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/keiotamagawa_04962-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/shinjukunishiguchi_09693-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/ishikawadai_05119-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/shinekoda_09077-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/kachidoki_09701-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/oikeibajomae_07783-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/kajiwara_06456-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/tsukiji_06342-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/hasune_06421-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/shinnihombashi_01935-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/kohoku_10020-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/kokuritsukyogijo_09262-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/ome_00817-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/rokakoen_04934-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/futakotamagawa_05090-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/hibarigaoka_04794-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/oshiage_04905-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/shibamata_04914-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/yurakucho_00571-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/shinagawa_00224-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/etchujima_01982-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/koigakubo_04860-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/seibuen_04862-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/shiroganetakanawa_09215-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/komae_05001-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/ushigomekagurazaka_09697-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/seibijo_07786-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/tsutsujigaoka_04937-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/nishigaharayonchome_06461-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/higashimukojima_04604-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/omorimachi_05142-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/musashiitsukaichi_00835-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/ogawa_04850-st/list/'
                             - :name: 'div'
                               :attributes:
                                 :class:
@@ -5479,22 +5479,22 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/chiyoda-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/chuo-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/koto-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/minato-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/shinagawa-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/bunkyo-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/kita-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/taito-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
@@ -5504,27 +5504,7 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/nerima-city/list/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/katsushika-city/list/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/hachioji-city/list/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/musashino-city/list/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/ome-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/mitaka-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
@@ -5534,27 +5514,32 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/akishima-city/list/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/chofu-city/list/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
                                                 :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/koganei-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/fussa-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/kodaira-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/higashiyamato-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/higashimurayama-city/list/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/kokubunji-city/list/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/kunitachi-city/list/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/musashimurayama-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
@@ -5564,17 +5549,32 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/nishitama_hinohara-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/akiruno-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/nishitama_okutama-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/nishitokyo-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/mikurajima-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/oshima-city/list/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/niijima-city/list/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/13400-city/list/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/mansion/shinchiku/tokyo/hachijo-city/list/'
                     - :name: 'div'
                       :attributes:
                         :class:
