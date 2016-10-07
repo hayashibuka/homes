@@ -38,42 +38,42 @@
               - canonical
         - :name: 'link'
           :attributes:
-            :href: '/minifile/search/assets/css/286470fe0d6546518577d2f0c184562b39453e0d.css?v=20161006205'
+            :href: '/minifile/search/assets/css/286470fe0d6546518577d2f0c184562b39453e0d.css?v=20161007174'
             :rel:
               - stylesheet
             :type: 'text/css'
         - :name: 'link'
           :attributes:
-            :href: '/minifile/search/assets/css/7929f7696ae91119f73a89e846d567702818bccc.css?v=20161006205'
+            :href: '/minifile/search/assets/css/7929f7696ae91119f73a89e846d567702818bccc.css?v=20161007174'
             :rel:
               - stylesheet
             :type: 'text/css'
         - :name: 'link'
           :attributes:
-            :href: '/minifile/search/assets/css/bde261411e6ebad469312f2772dea3cb4e3b8f9f.css?v=20161006205'
+            :href: '/minifile/search/assets/css/bde261411e6ebad469312f2772dea3cb4e3b8f9f.css?v=20161007174'
             :media: 'print'
             :rel:
               - stylesheet
             :type: 'text/css'
         - :name: 'script'
           :attributes:
-            :src: '/minifile/search/assets/js/7d14ace39c97d78ac3b8dfacfb10beaaaedae5e7.js?v=20161006205'
+            :src: '/minifile/search/assets/js/7d14ace39c97d78ac3b8dfacfb10beaaaedae5e7.js?v=20161007174'
             :type: 'text/javascript'
         - :name: 'script'
           :attributes:
-            :src: '/minifile/search/assets/js/f30e2befd962255e4a807e42fe0189cf23aef26c.js?v=20161006205'
+            :src: '/minifile/search/assets/js/f30e2befd962255e4a807e42fe0189cf23aef26c.js?v=20161007174'
             :type: 'text/javascript'
         - :name: 'script'
           :attributes:
-            :src: '/search/assets/js/app/flow/module/RangeSearch.js?20161006205'
+            :src: '/search/assets/js/app/flow/module/RangeSearch.js?20161007174'
             :type: 'text/javascript'
         - :name: 'script'
           :attributes:
-            :src: '/search/assets/js/app/flow/module/launcher/condbox.js?20161006205'
+            :src: '/search/assets/js/app/flow/module/launcher/condbox.js?20161007174'
             :type: 'text/javascript'
         - :name: 'script'
           :attributes:
-            :src: '/search/assets/js/app/flow/eki/ekiController.js?20161006205'
+            :src: '/search/assets/js/app/flow/eki/ekiController.js?20161007174'
             :type: 'text/javascript'
         - :name: 'link'
           :attributes:
@@ -1356,16 +1356,16 @@
                                       :children:
                                         - :name: 'a'
                                           :attributes:
-                                            :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12116/tokyo/list/'
+                                            :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/13127/tokyo/list/'
                                             :target: '_self'
                                           :children:
                                             - :name: 'img'
                                               :attributes:
-                                                :alt: '即入居・完成済の物件'
+                                                :alt: '収納充実の新築一戸建て'
                                                 :class:
                                                   - thumbnail
                                                 :height: '43'
-                                                :src: '/search/assets/img/default/page/theme/thumbnail/12/12116_60x60.jpg'
+                                                :src: '/search/assets/img/default/page/theme/thumbnail/13/13127_60x60.jpg'
                                                 :width: '43'
                                             - :name: 'span'
                                               :attributes:
@@ -1380,16 +1380,16 @@
                                       :children:
                                         - :name: 'a'
                                           :attributes:
-                                            :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/13127/tokyo/list/'
+                                            :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12116/tokyo/list/'
                                             :target: '_self'
                                           :children:
                                             - :name: 'img'
                                               :attributes:
-                                                :alt: '収納充実の新築一戸建て'
+                                                :alt: '即入居・完成済の物件'
                                                 :class:
                                                   - thumbnail
                                                 :height: '43'
-                                                :src: '/search/assets/img/default/page/theme/thumbnail/13/13127_60x60.jpg'
+                                                :src: '/search/assets/img/default/page/theme/thumbnail/12/12116_60x60.jpg'
                                                 :width: '43'
                                             - :name: 'span'
                                               :attributes:
@@ -1660,7 +1660,7 @@
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
-                                                      - fav-marker-BSale_1216090002046
+                                                      - fav-marker-BSale_1216090002045
                                                       - bukken
                                                       - scKodate
                                                       - favorite
@@ -1673,7 +1673,7 @@
                                                       :children:
                                                         - :name: 'a'
                                                           :attributes:
-                                                            :href: 'https://www.homes.co.jp/kodate/b-1216090002046/'
+                                                            :href: 'https://www.homes.co.jp/kodate/b-1216090002045/'
                                                             :target: '_blank'
                                                           :children:
                                                             - :name: 'div'
@@ -1698,205 +1698,7 @@
                                                                     - :name: 'img'
                                                                       :attributes:
                                                                         :alt: ''
-                                                                        :data-src: 'http://image4.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2F2ec4%2Fa42b94518d464279e5a45cc0e627_6d56016f0fa3f4946cb10b302cfc5674.jpg&width=120&height=120'
-                                                                        :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                                - :name: 'div'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - figcaption
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                                          :attributes:
-                                                                            :class:
-                                                                              - num
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - linkTxt
-                                                                          - mod-btn
-                                                                          - btn24
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - fav-marker-BSale_1216090002104
-                                                      - bukken
-                                                      - scKodate
-                                                      - favorite
-                                                      - slide
-                                                  :children:
-                                                    - :name: 'div'
-                                                      :attributes:
-                                                        :class:
-                                                          - mod-slideBukken
-                                                      :children:
-                                                        - :name: 'a'
-                                                          :attributes:
-                                                            :href: 'https://www.homes.co.jp/kodate/b-1216090002104/'
-                                                            :target: '_blank'
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figure
-                                                              :children:
-                                                                - :name: 'div'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - photo
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - icon-bukkenType
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                                          :attributes:
-                                                                            :class:
-                                                                              - bType
-                                                                    - :name: 'img'
-                                                                      :attributes:
-                                                                        :alt: ''
-                                                                        :data-src: 'http://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fd09d%2F79f0663ce297c5a190c5200a8d8b_6d56016f0fa3f4946cb10b302cfc5674.jpg&width=120&height=120'
-                                                                        :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                                - :name: 'div'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - figcaption
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                                          :attributes:
-                                                                            :class:
-                                                                              - num
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - linkTxt
-                                                                          - mod-btn
-                                                                          - btn24
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - fav-marker-BSale_1216090002103
-                                                      - bukken
-                                                      - scKodate
-                                                      - favorite
-                                                      - slide
-                                                  :children:
-                                                    - :name: 'div'
-                                                      :attributes:
-                                                        :class:
-                                                          - mod-slideBukken
-                                                      :children:
-                                                        - :name: 'a'
-                                                          :attributes:
-                                                            :href: 'https://www.homes.co.jp/kodate/b-1216090002103/'
-                                                            :target: '_blank'
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figure
-                                                              :children:
-                                                                - :name: 'div'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - photo
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - icon-bukkenType
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                                          :attributes:
-                                                                            :class:
-                                                                              - bType
-                                                                    - :name: 'img'
-                                                                      :attributes:
-                                                                        :alt: ''
-                                                                        :data-src: 'http://image4.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fb3ff%2F5b0f6bd2e08407e59f124bbbdf76_6d56016f0fa3f4946cb10b302cfc5674.jpg&width=120&height=120'
-                                                                        :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                                - :name: 'div'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - figcaption
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                                          :attributes:
-                                                                            :class:
-                                                                              - num
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - linkTxt
-                                                                          - mod-btn
-                                                                          - btn24
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - fav-marker-BSale_1216090002105
-                                                      - bukken
-                                                      - scKodate
-                                                      - favorite
-                                                      - slide
-                                                  :children:
-                                                    - :name: 'div'
-                                                      :attributes:
-                                                        :class:
-                                                          - mod-slideBukken
-                                                      :children:
-                                                        - :name: 'a'
-                                                          :attributes:
-                                                            :href: 'https://www.homes.co.jp/kodate/b-1216090002105/'
-                                                            :target: '_blank'
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figure
-                                                              :children:
-                                                                - :name: 'div'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - photo
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - icon-bukkenType
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                                          :attributes:
-                                                                            :class:
-                                                                              - bType
-                                                                    - :name: 'img'
-                                                                      :attributes:
-                                                                        :alt: ''
-                                                                        :data-src: 'http://image3.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fc3d2%2Fa2035ea9f4519eab3b171e6a4ce0_6d56016f0fa3f4946cb10b302cfc5674.jpg&width=120&height=120'
+                                                                        :data-src: 'http://image2.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fb5b4%2F5de36194a8ec409128e29580108f_6d56016f0fa3f4946cb10b302cfc5674.jpg&width=120&height=120'
                                                                         :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                                 - :name: 'div'
                                                                   :attributes:
@@ -1990,6 +1792,72 @@
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
+                                                      - fav-marker-BSale_1216090002046
+                                                      - bukken
+                                                      - scKodate
+                                                      - favorite
+                                                      - slide
+                                                  :children:
+                                                    - :name: 'div'
+                                                      :attributes:
+                                                        :class:
+                                                          - mod-slideBukken
+                                                      :children:
+                                                        - :name: 'a'
+                                                          :attributes:
+                                                            :href: 'https://www.homes.co.jp/kodate/b-1216090002046/'
+                                                            :target: '_blank'
+                                                          :children:
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - figure
+                                                              :children:
+                                                                - :name: 'div'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - photo
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - icon-bukkenType
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                                          :attributes:
+                                                                            :class:
+                                                                              - bType
+                                                                    - :name: 'img'
+                                                                      :attributes:
+                                                                        :alt: ''
+                                                                        :data-src: 'http://image4.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2F2ec4%2Fa42b94518d464279e5a45cc0e627_6d56016f0fa3f4946cb10b302cfc5674.jpg&width=120&height=120'
+                                                                        :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
+                                                                - :name: 'div'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - figcaption
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                                          :attributes:
+                                                                            :class:
+                                                                              - num
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - linkTxt
+                                                                          - mod-btn
+                                                                          - btn24
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
                                                       - fav-marker-BSale_1216090002106
                                                       - bukken
                                                       - scKodate
@@ -2029,204 +1897,6 @@
                                                                       :attributes:
                                                                         :alt: ''
                                                                         :data-src: 'http://image2.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fc2c8%2F6bac2939ba835016a0505590d88c_6d56016f0fa3f4946cb10b302cfc5674.jpg&width=120&height=120'
-                                                                        :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                                - :name: 'div'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - figcaption
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                                          :attributes:
-                                                                            :class:
-                                                                              - num
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - linkTxt
-                                                                          - mod-btn
-                                                                          - btn24
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - fav-marker-BSale_1216090002062
-                                                      - bukken
-                                                      - scKodate
-                                                      - favorite
-                                                      - slide
-                                                  :children:
-                                                    - :name: 'div'
-                                                      :attributes:
-                                                        :class:
-                                                          - mod-slideBukken
-                                                      :children:
-                                                        - :name: 'a'
-                                                          :attributes:
-                                                            :href: 'https://www.homes.co.jp/kodate/b-1216090002062/'
-                                                            :target: '_blank'
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figure
-                                                              :children:
-                                                                - :name: 'div'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - photo
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - icon-bukkenType
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                                          :attributes:
-                                                                            :class:
-                                                                              - bType
-                                                                    - :name: 'img'
-                                                                      :attributes:
-                                                                        :alt: ''
-                                                                        :data-src: 'http://image.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fda2a%2F176ffceba7a2f092cc055a13a740_6d56016f0fa3f4946cb10b302cfc5674.jpg&width=120&height=120'
-                                                                        :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                                - :name: 'div'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - figcaption
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                                          :attributes:
-                                                                            :class:
-                                                                              - num
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - linkTxt
-                                                                          - mod-btn
-                                                                          - btn24
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - fav-marker-BSale_1216090002010
-                                                      - bukken
-                                                      - scKodate
-                                                      - favorite
-                                                      - slide
-                                                  :children:
-                                                    - :name: 'div'
-                                                      :attributes:
-                                                        :class:
-                                                          - mod-slideBukken
-                                                      :children:
-                                                        - :name: 'a'
-                                                          :attributes:
-                                                            :href: 'https://www.homes.co.jp/kodate/b-1216090002010/'
-                                                            :target: '_blank'
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figure
-                                                              :children:
-                                                                - :name: 'div'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - photo
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - icon-bukkenType
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                                          :attributes:
-                                                                            :class:
-                                                                              - bType
-                                                                    - :name: 'img'
-                                                                      :attributes:
-                                                                        :alt: ''
-                                                                        :data-src: 'http://image.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fe0b2%2Fb7bf49806b9dc22e1962f9a2451e_6d56016f0fa3f4946cb10b302cfc5674.jpg&width=120&height=120'
-                                                                        :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
-                                                                - :name: 'div'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - figcaption
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                                          :attributes:
-                                                                            :class:
-                                                                              - num
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                        - :name: 'br'
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - linkTxt
-                                                                          - mod-btn
-                                                                          - btn24
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                - :name: 'div'
-                                                  :attributes:
-                                                    :class:
-                                                      - fav-marker-BSale_1216090002045
-                                                      - bukken
-                                                      - scKodate
-                                                      - favorite
-                                                      - slide
-                                                  :children:
-                                                    - :name: 'div'
-                                                      :attributes:
-                                                        :class:
-                                                          - mod-slideBukken
-                                                      :children:
-                                                        - :name: 'a'
-                                                          :attributes:
-                                                            :href: 'https://www.homes.co.jp/kodate/b-1216090002045/'
-                                                            :target: '_blank'
-                                                          :children:
-                                                            - :name: 'div'
-                                                              :attributes:
-                                                                :class:
-                                                                  - figure
-                                                              :children:
-                                                                - :name: 'div'
-                                                                  :attributes:
-                                                                    :class:
-                                                                      - photo
-                                                                  :children:
-                                                                    - :name: 'span'
-                                                                      :attributes:
-                                                                        :class:
-                                                                          - icon-bukkenType
-                                                                      :children:
-                                                                        - :name: 'span'
-                                                                          :attributes:
-                                                                            :class:
-                                                                              - bType
-                                                                    - :name: 'img'
-                                                                      :attributes:
-                                                                        :alt: ''
-                                                                        :data-src: 'http://image2.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fb5b4%2F5de36194a8ec409128e29580108f_6d56016f0fa3f4946cb10b302cfc5674.jpg&width=120&height=120'
                                                                         :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                                 - :name: 'div'
                                                                   :attributes:
@@ -2320,6 +1990,204 @@
                                                 - :name: 'div'
                                                   :attributes:
                                                     :class:
+                                                      - fav-marker-BSale_1216090002010
+                                                      - bukken
+                                                      - scKodate
+                                                      - favorite
+                                                      - slide
+                                                  :children:
+                                                    - :name: 'div'
+                                                      :attributes:
+                                                        :class:
+                                                          - mod-slideBukken
+                                                      :children:
+                                                        - :name: 'a'
+                                                          :attributes:
+                                                            :href: 'https://www.homes.co.jp/kodate/b-1216090002010/'
+                                                            :target: '_blank'
+                                                          :children:
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - figure
+                                                              :children:
+                                                                - :name: 'div'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - photo
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - icon-bukkenType
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                                          :attributes:
+                                                                            :class:
+                                                                              - bType
+                                                                    - :name: 'img'
+                                                                      :attributes:
+                                                                        :alt: ''
+                                                                        :data-src: 'http://image.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fe0b2%2Fb7bf49806b9dc22e1962f9a2451e_6d56016f0fa3f4946cb10b302cfc5674.jpg&width=120&height=120'
+                                                                        :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
+                                                                - :name: 'div'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - figcaption
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                                          :attributes:
+                                                                            :class:
+                                                                              - num
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - linkTxt
+                                                                          - mod-btn
+                                                                          - btn24
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - fav-marker-BSale_1216090002103
+                                                      - bukken
+                                                      - scKodate
+                                                      - favorite
+                                                      - slide
+                                                  :children:
+                                                    - :name: 'div'
+                                                      :attributes:
+                                                        :class:
+                                                          - mod-slideBukken
+                                                      :children:
+                                                        - :name: 'a'
+                                                          :attributes:
+                                                            :href: 'https://www.homes.co.jp/kodate/b-1216090002103/'
+                                                            :target: '_blank'
+                                                          :children:
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - figure
+                                                              :children:
+                                                                - :name: 'div'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - photo
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - icon-bukkenType
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                                          :attributes:
+                                                                            :class:
+                                                                              - bType
+                                                                    - :name: 'img'
+                                                                      :attributes:
+                                                                        :alt: ''
+                                                                        :data-src: 'http://image4.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fb3ff%2F5b0f6bd2e08407e59f124bbbdf76_6d56016f0fa3f4946cb10b302cfc5674.jpg&width=120&height=120'
+                                                                        :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
+                                                                - :name: 'div'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - figcaption
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                                          :attributes:
+                                                                            :class:
+                                                                              - num
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - linkTxt
+                                                                          - mod-btn
+                                                                          - btn24
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - fav-marker-BSale_1216090002062
+                                                      - bukken
+                                                      - scKodate
+                                                      - favorite
+                                                      - slide
+                                                  :children:
+                                                    - :name: 'div'
+                                                      :attributes:
+                                                        :class:
+                                                          - mod-slideBukken
+                                                      :children:
+                                                        - :name: 'a'
+                                                          :attributes:
+                                                            :href: 'https://www.homes.co.jp/kodate/b-1216090002062/'
+                                                            :target: '_blank'
+                                                          :children:
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - figure
+                                                              :children:
+                                                                - :name: 'div'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - photo
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - icon-bukkenType
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                                          :attributes:
+                                                                            :class:
+                                                                              - bType
+                                                                    - :name: 'img'
+                                                                      :attributes:
+                                                                        :alt: ''
+                                                                        :data-src: 'http://image.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fda2a%2F176ffceba7a2f092cc055a13a740_6d56016f0fa3f4946cb10b302cfc5674.jpg&width=120&height=120'
+                                                                        :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
+                                                                - :name: 'div'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - figcaption
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                                          :attributes:
+                                                                            :class:
+                                                                              - num
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - linkTxt
+                                                                          - mod-btn
+                                                                          - btn24
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
                                                       - fav-marker-BSale_1216090002102
                                                       - bukken
                                                       - scKodate
@@ -2359,6 +2227,138 @@
                                                                       :attributes:
                                                                         :alt: ''
                                                                         :data-src: 'http://image3.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2F92a7%2Fd33c452db304a31464189822aad7_6d56016f0fa3f4946cb10b302cfc5674.jpg&width=120&height=120'
+                                                                        :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
+                                                                - :name: 'div'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - figcaption
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                                          :attributes:
+                                                                            :class:
+                                                                              - num
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - linkTxt
+                                                                          - mod-btn
+                                                                          - btn24
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - fav-marker-BSale_1216090002104
+                                                      - bukken
+                                                      - scKodate
+                                                      - favorite
+                                                      - slide
+                                                  :children:
+                                                    - :name: 'div'
+                                                      :attributes:
+                                                        :class:
+                                                          - mod-slideBukken
+                                                      :children:
+                                                        - :name: 'a'
+                                                          :attributes:
+                                                            :href: 'https://www.homes.co.jp/kodate/b-1216090002104/'
+                                                            :target: '_blank'
+                                                          :children:
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - figure
+                                                              :children:
+                                                                - :name: 'div'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - photo
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - icon-bukkenType
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                                          :attributes:
+                                                                            :class:
+                                                                              - bType
+                                                                    - :name: 'img'
+                                                                      :attributes:
+                                                                        :alt: ''
+                                                                        :data-src: 'http://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fd09d%2F79f0663ce297c5a190c5200a8d8b_6d56016f0fa3f4946cb10b302cfc5674.jpg&width=120&height=120'
+                                                                        :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
+                                                                - :name: 'div'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - figcaption
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                                          :attributes:
+                                                                            :class:
+                                                                              - num
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                        - :name: 'br'
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - linkTxt
+                                                                          - mod-btn
+                                                                          - btn24
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - fav-marker-BSale_1216090002105
+                                                      - bukken
+                                                      - scKodate
+                                                      - favorite
+                                                      - slide
+                                                  :children:
+                                                    - :name: 'div'
+                                                      :attributes:
+                                                        :class:
+                                                          - mod-slideBukken
+                                                      :children:
+                                                        - :name: 'a'
+                                                          :attributes:
+                                                            :href: 'https://www.homes.co.jp/kodate/b-1216090002105/'
+                                                            :target: '_blank'
+                                                          :children:
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - figure
+                                                              :children:
+                                                                - :name: 'div'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - photo
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - icon-bukkenType
+                                                                      :children:
+                                                                        - :name: 'span'
+                                                                          :attributes:
+                                                                            :class:
+                                                                              - bType
+                                                                    - :name: 'img'
+                                                                      :attributes:
+                                                                        :alt: ''
+                                                                        :data-src: 'http://image3.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fc3d2%2Fa2035ea9f4519eab3b171e6a4ce0_6d56016f0fa3f4946cb10b302cfc5674.jpg&width=120&height=120'
                                                                         :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                                 - :name: 'div'
                                                                   :attributes:
@@ -4057,12 +4057,7 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/osaki_00574-st/list/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/takeshiba_09197-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/suidobashi_00750-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
@@ -4072,87 +4067,92 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/seijogakuemmae_04999-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/ikebukuro_00488-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/arakawanichome_06446-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/nakanofujimicho_06334-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/akigawa_00832-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kyodo_04996-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/togoshi_06400-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kumegawa_04840-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/yaho_00672-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/horikiri_04606-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/ikusabata_00822-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kamiitabashi_04751-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/yazaike_10022-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/uenohirokoji_06306-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/hatagaya_04926-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/shinagawaseaside_09833-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/korakuen_06319-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kameido_01931-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/tamagawagakuemmae_05010-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kameidosuijin_04661-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/arakawananachome_06447-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/etchujima_01982-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/mejiro_00583-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/nishikoyama_05070-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/fudomae_05068-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/arakawayuenchimae_06454-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/takamatsu_09187-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/fujimigaoka_04984-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/morishita_06431-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/ukimafunado_00634-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/hirai_01930-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/bakurocho_01934-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/hikarigaoka_06443-st/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/keiseitakasago_04878-st/list/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/senzoku_05071-st/list/'
                             - :name: 'div'
                               :attributes:
                                 :class:
@@ -4170,32 +4170,22 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/chiyoda-city/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/minato-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/bunkyo-city/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/koto-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/sumida-city/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/shinagawa-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/meguro-city/list/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/ota-city/list/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/shibuya-city/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/suginami-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
@@ -4205,12 +4195,17 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/arakawa-city/list/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
                                                 :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/itabashi-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/adachi-city/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/hachioji-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
@@ -4220,32 +4215,22 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/mitaka-city/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/akishima-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/koganei-city/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/machida-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/hino-city/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kodaira-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/fussa-city/list/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kiyose-city/list/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/inagi-city/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/tama-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
@@ -4255,12 +4240,27 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/niijima-city/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/nishitama_hinohara-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/13400-city/list/'
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/nishitama_okutama-city/list/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/13362-city/list/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/13380-city/list/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/mikurajima-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
@@ -4355,9 +4355,9 @@
                                               :attributes:
                                                 :class:
                                                   - prg-ref-ranking
-                                                :data-kks: '{"adlcls":"pro","adlgrp":"sbkranking","adlctg":201,"adlcol":"BKodate","adllid":"17025480000045"}'
-                                                :data-url: 'https://www.homes.co.jp/kodate/b-17025480000045/'
-                                                :href: 'https://www.homes.co.jp/kodate/b-17025480000045/'
+                                                :data-kks: '{"adlcls":"pro","adlgrp":"sbkranking","adlctg":201,"adlcol":"BKodate","adllid":"17025480000044"}'
+                                                :data-url: 'https://www.homes.co.jp/kodate/b-17025480000044/'
+                                                :href: 'https://www.homes.co.jp/kodate/b-17025480000044/'
                                                 :target: '_blank'
                                               :children:
                                                 - :name: 'span'
@@ -4371,8 +4371,8 @@
                                                   :children:
                                                     - :name: 'img'
                                                       :attributes:
-                                                        :alt: 'デザイナー「軍地彩弓」氏を迎えてのデザイナーズハウス　平和台210'
-                                                        :src: 'http://image1.homes.jp/smallimg/image.php?file=%2Fdata%2F1702548%2Fsale%2Fimage%2F0000045-1.jpg&width=64&height=64'
+                                                        :alt: 'デザイナー「軍地彩弓」氏を迎えてのデザイナーズハウス　ＯｒＧＡ赤塚135'
+                                                        :src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F1702548%2Fsale%2Fimage%2F0000044-1.jpg&width=64&height=64'
                                             - :name: 'p'
                                               :attributes:
                                                 :class:
@@ -4388,9 +4388,9 @@
                                               :attributes:
                                                 :class:
                                                   - prg-ref-ranking
-                                                :data-kks: '{"adlcls":"pro","adlgrp":"sbkranking","adlctg":201,"adlcol":"BKodate","adllid":"17025480000044"}'
-                                                :data-url: 'https://www.homes.co.jp/kodate/b-17025480000044/'
-                                                :href: 'https://www.homes.co.jp/kodate/b-17025480000044/'
+                                                :data-kks: '{"adlcls":"pro","adlgrp":"sbkranking","adlctg":201,"adlcol":"BKodate","adllid":"17025480000045"}'
+                                                :data-url: 'https://www.homes.co.jp/kodate/b-17025480000045/'
+                                                :href: 'https://www.homes.co.jp/kodate/b-17025480000045/'
                                                 :target: '_blank'
                                               :children:
                                                 - :name: 'span'
@@ -4406,9 +4406,9 @@
                                               :attributes:
                                                 :class:
                                                   - prg-ref-ranking
-                                                :data-kks: '{"adlcls":"pro","adlgrp":"sbkranking","adlctg":201,"adlcol":"BKodate","adllid":"17023250000043"}'
-                                                :data-url: 'https://www.homes.co.jp/kodate/b-17023250000043/'
-                                                :href: 'https://www.homes.co.jp/kodate/b-17023250000043/'
+                                                :data-kks: '{"adlcls":"pro","adlgrp":"sbkranking","adlctg":201,"adlcol":"BKodate","adllid":"17006030000187"}'
+                                                :data-url: 'https://www.homes.co.jp/kodate/b-17006030000187/'
+                                                :href: 'https://www.homes.co.jp/kodate/b-17006030000187/'
                                                 :target: '_blank'
                                               :children:
                                                 - :name: 'span'

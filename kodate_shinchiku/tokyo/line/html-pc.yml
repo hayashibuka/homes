@@ -38,34 +38,34 @@
               - canonical
         - :name: 'link'
           :attributes:
-            :href: '/minifile/search/assets/css/286470fe0d6546518577d2f0c184562b39453e0d.css?v=20161006205'
+            :href: '/minifile/search/assets/css/286470fe0d6546518577d2f0c184562b39453e0d.css?v=20161007174'
             :rel:
               - stylesheet
             :type: 'text/css'
         - :name: 'link'
           :attributes:
-            :href: '/minifile/search/assets/css/cf90db34cdecb31bd2cc3199aae85af9c2e7ec6d.css?v=20161006205'
+            :href: '/minifile/search/assets/css/cf90db34cdecb31bd2cc3199aae85af9c2e7ec6d.css?v=20161007174'
             :rel:
               - stylesheet
             :type: 'text/css'
         - :name: 'link'
           :attributes:
-            :href: '/minifile/search/assets/css/bde261411e6ebad469312f2772dea3cb4e3b8f9f.css?v=20161006205'
+            :href: '/minifile/search/assets/css/bde261411e6ebad469312f2772dea3cb4e3b8f9f.css?v=20161007174'
             :media: 'print'
             :rel:
               - stylesheet
             :type: 'text/css'
         - :name: 'script'
           :attributes:
-            :src: '/minifile/search/assets/js/7d14ace39c97d78ac3b8dfacfb10beaaaedae5e7.js?v=20161006205'
+            :src: '/minifile/search/assets/js/7d14ace39c97d78ac3b8dfacfb10beaaaedae5e7.js?v=20161007174'
             :type: 'text/javascript'
         - :name: 'script'
           :attributes:
-            :src: '/minifile/search/assets/js/f30e2befd962255e4a807e42fe0189cf23aef26c.js?v=20161006205'
+            :src: '/minifile/search/assets/js/f30e2befd962255e4a807e42fe0189cf23aef26c.js?v=20161007174'
             :type: 'text/javascript'
         - :name: 'script'
           :attributes:
-            :src: '/minifile/search/assets/js/6c35439bc82c0ffabbf09bbc68c54f3d58b71d04.js?v=20161006205'
+            :src: '/minifile/search/assets/js/6c35439bc82c0ffabbf09bbc68c54f3d58b71d04.js?v=20161007174'
             :type: 'text/javascript'
         - :name: 'link'
           :attributes:
@@ -2242,16 +2242,16 @@
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12137/tokyo/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12136/tokyo/list/'
                                                     :target: '_self'
                                                   :children:
                                                     - :name: 'img'
                                                       :attributes:
-                                                        :alt: '複数路線利用可'
+                                                        :alt: '地震に強い新築一戸建て'
                                                         :class:
                                                           - thumbnail
                                                         :height: '43'
-                                                        :src: '/search/assets/img/default/page/theme/thumbnail/12/12137_60x60.jpg'
+                                                        :src: '/search/assets/img/default/page/theme/thumbnail/12/12136_60x60.jpg'
                                                         :width: '43'
                                                     - :name: 'span'
                                                       :attributes:
@@ -2266,16 +2266,16 @@
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12139/tokyo/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12134/tokyo/list/'
                                                     :target: '_self'
                                                   :children:
                                                     - :name: 'img'
                                                       :attributes:
-                                                        :alt: '自由設計対応の土地'
+                                                        :alt: 'セキュリティ充実の新築一戸建て'
                                                         :class:
                                                           - thumbnail
                                                         :height: '43'
-                                                        :src: '/search/assets/img/default/page/theme/thumbnail/12/12139_60x60.jpg'
+                                                        :src: '/search/assets/img/default/page/theme/thumbnail/12/12134_60x60.jpg'
                                                         :width: '43'
                                                     - :name: 'span'
                                                       :attributes:
@@ -2290,16 +2290,40 @@
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/14117/tokyo/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12140/tokyo/list/'
                                                     :target: '_self'
                                                   :children:
                                                     - :name: 'img'
                                                       :attributes:
-                                                        :alt: '4LDK以上の広い間取り'
+                                                        :alt: '間取り変更可能な新築一戸建て'
                                                         :class:
                                                           - thumbnail
                                                         :height: '43'
-                                                        :src: '/search/assets/img/default/page/theme/thumbnail/14/14117_60x60.jpg'
+                                                        :src: '/search/assets/img/default/page/theme/thumbnail/12/12140_60x60.jpg'
+                                                        :width: '43'
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - title
+                                            - :name: 'li'
+                                              :attributes:
+                                                :class:
+                                                  - theme
+                                                  - sbkodate
+                                                  - prg-paidKodateThemeClick
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/14114/tokyo/list/'
+                                                    :target: '_self'
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: '南道路の新築一戸建て・土地'
+                                                        :class:
+                                                          - thumbnail
+                                                        :height: '43'
+                                                        :src: '/search/assets/img/default/page/theme/thumbnail/14/14114_60x60.jpg'
                                                         :width: '43'
                                                     - :name: 'span'
                                                       :attributes:
@@ -2362,16 +2386,136 @@
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12136/tokyo/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/14118/tokyo/list/'
                                                     :target: '_self'
                                                   :children:
                                                     - :name: 'img'
                                                       :attributes:
-                                                        :alt: '地震に強い新築一戸建て'
+                                                        :alt: '小学校徒歩10分以内の一戸建て・土地'
                                                         :class:
                                                           - thumbnail
                                                         :height: '43'
-                                                        :src: '/search/assets/img/default/page/theme/thumbnail/12/12136_60x60.jpg'
+                                                        :src: '/search/assets/img/default/page/theme/thumbnail/14/14118_60x60.jpg'
+                                                        :width: '43'
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - title
+                                            - :name: 'li'
+                                              :attributes:
+                                                :class:
+                                                  - theme
+                                                  - sbkodate
+                                                  - prg-paidKodateThemeClick
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12137/tokyo/list/'
+                                                    :target: '_self'
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: '複数路線利用可'
+                                                        :class:
+                                                          - thumbnail
+                                                        :height: '43'
+                                                        :src: '/search/assets/img/default/page/theme/thumbnail/12/12137_60x60.jpg'
+                                                        :width: '43'
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - title
+                                            - :name: 'li'
+                                              :attributes:
+                                                :class:
+                                                  - theme
+                                                  - sbkodate
+                                                  - prg-paidKodateThemeClick
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12138/tokyo/list/'
+                                                    :target: '_self'
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: '車2台以上のスペースあり'
+                                                        :class:
+                                                          - thumbnail
+                                                        :height: '43'
+                                                        :src: '/search/assets/img/default/page/theme/thumbnail/12/12138_60x60.jpg'
+                                                        :width: '43'
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - title
+                                            - :name: 'li'
+                                              :attributes:
+                                                :class:
+                                                  - theme
+                                                  - sbkodate
+                                                  - prg-paidKodateThemeClick
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/13127/tokyo/list/'
+                                                    :target: '_self'
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: '収納充実の新築一戸建て'
+                                                        :class:
+                                                          - thumbnail
+                                                        :height: '43'
+                                                        :src: '/search/assets/img/default/page/theme/thumbnail/13/13127_60x60.jpg'
+                                                        :width: '43'
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - title
+                                            - :name: 'li'
+                                              :attributes:
+                                                :class:
+                                                  - theme
+                                                  - sbkodate
+                                                  - prg-paidKodateThemeClick
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12141/tokyo/list/'
+                                                    :target: '_self'
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: '建築条件付き土地'
+                                                        :class:
+                                                          - thumbnail
+                                                        :height: '43'
+                                                        :src: '/search/assets/img/default/page/theme/thumbnail/12/12141_60x60.jpg'
+                                                        :width: '43'
+                                                    - :name: 'span'
+                                                      :attributes:
+                                                        :class:
+                                                          - title
+                                            - :name: 'li'
+                                              :attributes:
+                                                :class:
+                                                  - theme
+                                                  - sbkodate
+                                                  - prg-paidKodateThemeClick
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12139/tokyo/list/'
+                                                    :target: '_self'
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: '自由設計対応の土地'
+                                                        :class:
+                                                          - thumbnail
+                                                        :height: '43'
+                                                        :src: '/search/assets/img/default/page/theme/thumbnail/12/12139_60x60.jpg'
                                                         :width: '43'
                                                     - :name: 'span'
                                                       :attributes:
@@ -2410,40 +2554,16 @@
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12140/tokyo/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/13125/tokyo/list/'
                                                     :target: '_self'
                                                   :children:
                                                     - :name: 'img'
                                                       :attributes:
-                                                        :alt: '間取り変更可能な新築一戸建て'
+                                                        :alt: '広いリビング・ダイニング（LDK）のある物件'
                                                         :class:
                                                           - thumbnail
                                                         :height: '43'
-                                                        :src: '/search/assets/img/default/page/theme/thumbnail/12/12140_60x60.jpg'
-                                                        :width: '43'
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - title
-                                            - :name: 'li'
-                                              :attributes:
-                                                :class:
-                                                  - theme
-                                                  - sbkodate
-                                                  - prg-paidKodateThemeClick
-                                              :children:
-                                                - :name: 'a'
-                                                  :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/14115/tokyo/list/'
-                                                    :target: '_self'
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: '角地の新築一戸建て・土地'
-                                                        :class:
-                                                          - thumbnail
-                                                        :height: '43'
-                                                        :src: '/search/assets/img/default/page/theme/thumbnail/14/14115_60x60.jpg'
+                                                        :src: '/search/assets/img/default/page/theme/thumbnail/13/13125_60x60.jpg'
                                                         :width: '43'
                                                     - :name: 'span'
                                                       :attributes:
@@ -2506,64 +2626,16 @@
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12141/tokyo/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/14117/tokyo/list/'
                                                     :target: '_self'
                                                   :children:
                                                     - :name: 'img'
                                                       :attributes:
-                                                        :alt: '建築条件付き土地'
+                                                        :alt: '4LDK以上の広い間取り'
                                                         :class:
                                                           - thumbnail
                                                         :height: '43'
-                                                        :src: '/search/assets/img/default/page/theme/thumbnail/12/12141_60x60.jpg'
-                                                        :width: '43'
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - title
-                                            - :name: 'li'
-                                              :attributes:
-                                                :class:
-                                                  - theme
-                                                  - sbkodate
-                                                  - prg-paidKodateThemeClick
-                                              :children:
-                                                - :name: 'a'
-                                                  :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12135/tokyo/list/'
-                                                    :target: '_self'
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: '総戸数が25区画以上の分譲地'
-                                                        :class:
-                                                          - thumbnail
-                                                        :height: '43'
-                                                        :src: '/search/assets/img/default/page/theme/thumbnail/12/12135_60x60.jpg'
-                                                        :width: '43'
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - title
-                                            - :name: 'li'
-                                              :attributes:
-                                                :class:
-                                                  - theme
-                                                  - sbkodate
-                                                  - prg-paidKodateThemeClick
-                                              :children:
-                                                - :name: 'a'
-                                                  :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12134/tokyo/list/'
-                                                    :target: '_self'
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: 'セキュリティ充実の新築一戸建て'
-                                                        :class:
-                                                          - thumbnail
-                                                        :height: '43'
-                                                        :src: '/search/assets/img/default/page/theme/thumbnail/12/12134_60x60.jpg'
+                                                        :src: '/search/assets/img/default/page/theme/thumbnail/14/14117_60x60.jpg'
                                                         :width: '43'
                                                     - :name: 'span'
                                                       :attributes:
@@ -2602,16 +2674,16 @@
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/13125/tokyo/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12135/tokyo/list/'
                                                     :target: '_self'
                                                   :children:
                                                     - :name: 'img'
                                                       :attributes:
-                                                        :alt: '広いリビング・ダイニング（LDK）のある物件'
+                                                        :alt: '総戸数が25区画以上の分譲地'
                                                         :class:
                                                           - thumbnail
                                                         :height: '43'
-                                                        :src: '/search/assets/img/default/page/theme/thumbnail/13/13125_60x60.jpg'
+                                                        :src: '/search/assets/img/default/page/theme/thumbnail/12/12135_60x60.jpg'
                                                         :width: '43'
                                                     - :name: 'span'
                                                       :attributes:
@@ -2626,88 +2698,16 @@
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/12138/tokyo/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/14115/tokyo/list/'
                                                     :target: '_self'
                                                   :children:
                                                     - :name: 'img'
                                                       :attributes:
-                                                        :alt: '車2台以上のスペースあり'
+                                                        :alt: '角地の新築一戸建て・土地'
                                                         :class:
                                                           - thumbnail
                                                         :height: '43'
-                                                        :src: '/search/assets/img/default/page/theme/thumbnail/12/12138_60x60.jpg'
-                                                        :width: '43'
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - title
-                                            - :name: 'li'
-                                              :attributes:
-                                                :class:
-                                                  - theme
-                                                  - sbkodate
-                                                  - prg-paidKodateThemeClick
-                                              :children:
-                                                - :name: 'a'
-                                                  :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/14114/tokyo/list/'
-                                                    :target: '_self'
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: '南道路の新築一戸建て・土地'
-                                                        :class:
-                                                          - thumbnail
-                                                        :height: '43'
-                                                        :src: '/search/assets/img/default/page/theme/thumbnail/14/14114_60x60.jpg'
-                                                        :width: '43'
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - title
-                                            - :name: 'li'
-                                              :attributes:
-                                                :class:
-                                                  - theme
-                                                  - sbkodate
-                                                  - prg-paidKodateThemeClick
-                                              :children:
-                                                - :name: 'a'
-                                                  :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/14118/tokyo/list/'
-                                                    :target: '_self'
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: '小学校徒歩10分以内の一戸建て・土地'
-                                                        :class:
-                                                          - thumbnail
-                                                        :height: '43'
-                                                        :src: '/search/assets/img/default/page/theme/thumbnail/14/14118_60x60.jpg'
-                                                        :width: '43'
-                                                    - :name: 'span'
-                                                      :attributes:
-                                                        :class:
-                                                          - title
-                                            - :name: 'li'
-                                              :attributes:
-                                                :class:
-                                                  - theme
-                                                  - sbkodate
-                                                  - prg-paidKodateThemeClick
-                                              :children:
-                                                - :name: 'a'
-                                                  :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/theme/13127/tokyo/list/'
-                                                    :target: '_self'
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
-                                                        :alt: '収納充実の新築一戸建て'
-                                                        :class:
-                                                          - thumbnail
-                                                        :height: '43'
-                                                        :src: '/search/assets/img/default/page/theme/thumbnail/13/13127_60x60.jpg'
+                                                        :src: '/search/assets/img/default/page/theme/thumbnail/14/14115_60x60.jpg'
                                                         :width: '43'
                                                     - :name: 'span'
                                                       :attributes:
@@ -2760,44 +2760,6 @@
                                                   :children:
                                                     - :name: 'img'
                                                       :attributes:
-                                                        :alt: '積水ハウス株式会社'
-                                                        :src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F1700021%2Fsale%2Fimage%2Fcompany01.gif&width=150&height=20'
-                                                - :name: 'p'
-                                                  :attributes:
-                                                    :class:
-                                                      - body
-                                                  :children:
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :href: 'http://www.homes.co.jp/kodate/shinchiku/realtor/mid-1700021hQYP-EIsOD_M/info/'
-                                                      :children:
-                                                        - :name: 'span'
-                                                          :attributes:
-                                                            :class:
-                                                              - shopName
-                                                        - :name: 'img'
-                                                          :attributes:
-                                                            :alt: ''
-                                                            :class:
-                                                              - thumbnail
-                                                            :src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F1700021%2Fsale%2Fimage%2Fcompany02.jpg&width=95&height=58'
-                                                    - :name: 'a'
-                                                      :attributes:
-                                                        :class:
-                                                          - listLink
-                                                        :href: 'http://www.homes.co.jp/kodate/shinchiku/realtor/mid-1700021hQYP-EIsOD_M/tokyo/'
-                                            - :name: 'li'
-                                              :attributes:
-                                                :class:
-                                                  - realtorBox
-                                              :children:
-                                                - :name: 'h3'
-                                                  :attributes:
-                                                    :class:
-                                                      - heading
-                                                  :children:
-                                                    - :name: 'img'
-                                                      :attributes:
                                                         :alt: '大和ハウス工業株式会社'
                                                         :src: 'http://image4.homes.jp/smallimg/image.php?file=%2Fdata%2F1700013%2Fsale%2Fimage%2Fcompany01.gif&width=150&height=20'
                                                 - :name: 'p'
@@ -2824,6 +2786,44 @@
                                                         :class:
                                                           - listLink
                                                         :href: 'http://www.homes.co.jp/kodate/shinchiku/realtor/mid-1700013hGKwJcbvpv_E/tokyo/'
+                                            - :name: 'li'
+                                              :attributes:
+                                                :class:
+                                                  - realtorBox
+                                              :children:
+                                                - :name: 'h3'
+                                                  :attributes:
+                                                    :class:
+                                                      - heading
+                                                  :children:
+                                                    - :name: 'img'
+                                                      :attributes:
+                                                        :alt: '積水ハウス株式会社'
+                                                        :src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F1700021%2Fsale%2Fimage%2Fcompany01.gif&width=150&height=20'
+                                                - :name: 'p'
+                                                  :attributes:
+                                                    :class:
+                                                      - body
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: 'http://www.homes.co.jp/kodate/shinchiku/realtor/mid-1700021hQYP-EIsOD_M/info/'
+                                                      :children:
+                                                        - :name: 'span'
+                                                          :attributes:
+                                                            :class:
+                                                              - shopName
+                                                        - :name: 'img'
+                                                          :attributes:
+                                                            :alt: ''
+                                                            :class:
+                                                              - thumbnail
+                                                            :src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F1700021%2Fsale%2Fimage%2Fcompany02.jpg&width=95&height=58'
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :class:
+                                                          - listLink
+                                                        :href: 'http://www.homes.co.jp/kodate/shinchiku/realtor/mid-1700021hQYP-EIsOD_M/tokyo/'
                                             - :name: 'li'
                                               :attributes:
                                                 :class:
@@ -2995,62 +2995,52 @@
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/sakurashimmachi_05094-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/takeshiba_09197-st/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/shinonome_09207-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/nishigahara_06394-st/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/daitabashi_04928-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kyodo_04996-st/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/tokiwadai_04750-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kumegawa_04840-st/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/tsukushino_05110-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/takanawadai_06401-st/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/yotsugi_04908-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/hikawadai_06377-st/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/ishikawadai_05119-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/shinekoda_09077-st/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/sawai_00823-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/shinagawaseaside_09833-st/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kodaira_04839-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/meguro_00576-st/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/toshimaen_04819-st/list/'
-                                            - :name: 'li'
-                                              :children:
-                                                - :name: 'a'
-                                                  :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/nishidai_06422-st/list/'
-                                            - :name: 'li'
-                                              :children:
-                                                - :name: 'a'
-                                                  :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/nerimatakanodai_07572-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kanda_00593-st/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
@@ -3060,37 +3050,47 @@
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/shimoigusa_04830-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/ochiai_06348-st/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/tachiaigawa_05139-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/chikatetsuakatsuka_06375-st/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kuhombutsu_05086-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/umegaoka_04994-st/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/komae_05001-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/gakushuinshita_06470-st/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kameari_01038-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/hamadayama_04982-st/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/toyocho_06355-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/suitengumae_06393-st/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/higashiome_00816-st/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/yaguchinowatashi_05078-st/list/'
+                                            - :name: 'li'
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/roppongi_06346-st/list/'
+                                            - :name: 'li'
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/higashishinjuku_09694-st/list/'
                                 - :name: 'div'
                                   :attributes:
                                     :class:
@@ -3108,7 +3108,17 @@
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/sumida-city/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/chuo-city/list/'
+                                            - :name: 'li'
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/koto-city/list/'
+                                            - :name: 'li'
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/meguro-city/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
@@ -3118,22 +3128,32 @@
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/suginami-city/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/shibuya-city/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/nerima-city/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/nakano-city/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/adachi-city/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kita-city/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/machida-city/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/katsushika-city/list/'
+                                            - :name: 'li'
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/hachioji-city/list/'
+                                            - :name: 'li'
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/musashino-city/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
@@ -3143,17 +3163,17 @@
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kodaira-city/list/'
-                                            - :name: 'li'
-                                              :children:
-                                                - :name: 'a'
-                                                  :attributes:
                                                     :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/hino-city/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/higashimurayama-city/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kokubunji-city/list/'
+                                            - :name: 'li'
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/fussa-city/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
@@ -3163,37 +3183,12 @@
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kiyose-city/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/nishitokyo-city/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/hamura-city/list/'
-                                            - :name: 'li'
-                                              :children:
-                                                - :name: 'a'
-                                                  :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/akiruno-city/list/'
-                                            - :name: 'li'
-                                              :children:
-                                                - :name: 'a'
-                                                  :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/13360-city/list/'
-                                            - :name: 'li'
-                                              :children:
-                                                - :name: 'a'
-                                                  :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/kozushima-city/list/'
-                                            - :name: 'li'
-                                              :children:
-                                                - :name: 'a'
-                                                  :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/13380-city/list/'
-                                            - :name: 'li'
-                                              :children:
-                                                - :name: 'a'
-                                                  :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/miyake-city/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/nishitama_hinode-city/list/'
                                             - :name: 'li'
                                               :children:
                                                 - :name: 'a'
@@ -3203,7 +3198,12 @@
                                               :children:
                                                 - :name: 'a'
                                                   :attributes:
-                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/aogashima-city/list/'
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/13400-city/list/'
+                                            - :name: 'li'
+                                              :children:
+                                                - :name: 'a'
+                                                  :attributes:
+                                                    :href: 'http://www.homes.co.jp/kodate/shinchiku/tokyo/hachijo-city/list/'
                     - :name: 'div'
                       :attributes:
                         :class:

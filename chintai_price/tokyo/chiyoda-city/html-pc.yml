@@ -38,30 +38,30 @@
               - canonical
         - :name: 'link'
           :attributes:
-            :href: '/minifile/search/assets/css/286470fe0d6546518577d2f0c184562b39453e0d.css?v=20161006205'
+            :href: '/minifile/search/assets/css/286470fe0d6546518577d2f0c184562b39453e0d.css?v=20161007174'
             :rel:
               - stylesheet
             :type: 'text/css'
         - :name: 'link'
           :attributes:
-            :href: '/minifile/search/assets/css/b02e4db076af0663754f3aac7a62442a5aafdda2.css?v=20161006205'
+            :href: '/minifile/search/assets/css/b02e4db076af0663754f3aac7a62442a5aafdda2.css?v=20161007174'
             :rel:
               - stylesheet
             :type: 'text/css'
         - :name: 'link'
           :attributes:
-            :href: '/minifile/search/assets/css/bde261411e6ebad469312f2772dea3cb4e3b8f9f.css?v=20161006205'
+            :href: '/minifile/search/assets/css/bde261411e6ebad469312f2772dea3cb4e3b8f9f.css?v=20161007174'
             :media: 'print'
             :rel:
               - stylesheet
             :type: 'text/css'
         - :name: 'script'
           :attributes:
-            :src: '/minifile/search/assets/js/7d14ace39c97d78ac3b8dfacfb10beaaaedae5e7.js?v=20161006205'
+            :src: '/minifile/search/assets/js/7d14ace39c97d78ac3b8dfacfb10beaaaedae5e7.js?v=20161007174'
             :type: 'text/javascript'
         - :name: 'script'
           :attributes:
-            :src: '/minifile/search/assets/js/4f90732d40f9ec026c1b1a3a4c2477f721d8984b.js?v=20161006205'
+            :src: '/minifile/search/assets/js/4f90732d40f9ec026c1b1a3a4c2477f721d8984b.js?v=20161007174'
             :type: 'text/javascript'
         - :name: 'link'
           :attributes:
@@ -721,7 +721,7 @@
                                                                     :class:
                                                                       - visual
                                                                       - prg-aggregate-graph
-                                                                    :data-score: '11.66'
+                                                                    :data-score: '11.57'
                                                                     :style: 'display: none;'
                                                                   :children:
                                                                     - :name: 'span'
@@ -772,7 +772,7 @@
                                                                     :class:
                                                                       - visual
                                                                       - prg-aggregate-graph
-                                                                    :data-score: '10.62'
+                                                                    :data-score: '10.64'
                                                                     :style: 'display: none;'
                                                                   :children:
                                                                     - :name: 'span'
@@ -823,7 +823,7 @@
                                                                     :class:
                                                                       - visual
                                                                       - prg-aggregate-graph
-                                                                    :data-score: '13.92'
+                                                                    :data-score: '13.85'
                                                                     :style: 'display: none;'
                                                                   :children:
                                                                     - :name: 'span'
@@ -874,7 +874,7 @@
                                                                     :class:
                                                                       - visual
                                                                       - prg-aggregate-graph
-                                                                    :data-score: '18.61'
+                                                                    :data-score: '18.48'
                                                                     :style: 'display: none;'
                                                                   :children:
                                                                     - :name: 'span'
@@ -925,7 +925,7 @@
                                                                     :class:
                                                                       - visual
                                                                       - prg-aggregate-graph
-                                                                    :data-score: '13.99'
+                                                                    :data-score: '13.64'
                                                                     :style: 'display: none;'
                                                                   :children:
                                                                     - :name: 'span'
@@ -976,7 +976,7 @@
                                                                     :class:
                                                                       - visual
                                                                       - prg-aggregate-graph
-                                                                    :data-score: '16.16'
+                                                                    :data-score: '15.96'
                                                                     :style: 'display: none;'
                                                                   :children:
                                                                     - :name: 'span'
@@ -1027,7 +1027,7 @@
                                                                     :class:
                                                                       - visual
                                                                       - prg-aggregate-graph
-                                                                    :data-score: '24.76'
+                                                                    :data-score: '25.05'
                                                                     :style: 'display: none;'
                                                                   :children:
                                                                     - :name: 'span'
@@ -1157,7 +1157,7 @@
                                                                     :class:
                                                                       - visual
                                                                       - prg-aggregate-graph
-                                                                    :data-score: '29.65'
+                                                                    :data-score: '30.71'
                                                                     :style: 'display: none;'
                                                                   :children:
                                                                     - :name: 'span'
@@ -1312,7 +1312,7 @@
                                                   :attributes:
                                                     :class:
                                                       - prg-city-graph-wrapper
-                                                    :data-city-yachin: '[11.03,10.6,11.93,9.07,9.02]'
+                                                    :data-city-yachin: '[11.06,10.65,11.98,9.03,8.99]'
                                                     :style: 'padding-left: 40px;'
                                                   :children:
                                                     - :name: 'div'

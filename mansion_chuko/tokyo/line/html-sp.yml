@@ -2344,6 +2344,7 @@
                                               - line
                                               - ui-checkboxbar
                                               - prg-is-selectable
+                                              - is-disabled
                                           :children:
                                             - :name: 'span'
                                               :attributes:
@@ -2354,7 +2355,8 @@
                                                 - :name: 'input'
                                                   :attributes:
                                                     :class:
-                                                      - prg-any-hit
+                                                      - prg-zero-hit
+                                                    :disabled: 'disabled'
                                                     :id: 'cond_rosen_445'
                                                     :name: 'cond[rosen][445]'
                                                     :type: 'checkbox'
