@@ -1323,7 +1323,7 @@
                                               - prize
                                         - :name: 'a'
                                           :attributes:
-                                            :href: '/iezukuri/mid-3846/case/cid-20760/'
+                                            :href: '/iezukuri/mid-55/case/cid-5866/'
                                           :children:
                                             - :name: 'p'
                                               :attributes:
@@ -1332,8 +1332,8 @@
                                               :children:
                                                 - :name: 'img'
                                                   :attributes:
-                                                    :alt: '柱の無い家【ガレージ付、木造ラーメン】'
-                                                    :src: 'http://image.homes.jp/smallimg/image.php?file=/build/housing_reform/htdocs_img/iezukuri_images/construction_case/3846_20760_0.original.jpg&width=68&height=68'
+                                                    :alt: '密集地に建つコンパクトな家'
+                                                    :src: 'http://image2.homes.jp/smallimg/image.php?file=/build/housing_reform/htdocs_img/iezukuri_images/construction_case/55_5866_0.original.jpg&width=68&height=68'
                                             - :name: 'p'
                                               :attributes:
                                                 :class:
@@ -1346,7 +1346,7 @@
                                               - prize
                                         - :name: 'a'
                                           :attributes:
-                                            :href: '/iezukuri/mid-5058/case/cid-22711/'
+                                            :href: '/iezukuri/mid-55/case/cid-5869/'
                                           :children:
                                             - :name: 'p'
                                               :attributes:
@@ -1355,8 +1355,8 @@
                                               :children:
                                                 - :name: 'img'
                                                   :attributes:
-                                                    :alt: '家族の絆が深まるLDKと広い庭のある平屋'
-                                                    :src: 'http://image3.homes.jp/smallimg/image.php?file=/build/housing_reform/htdocs_img/iezukuri_images/construction_case/5058_22711_0.original.jpg&width=68&height=68'
+                                                    :alt: 'ペットと暮らすスタイリッシュなお家'
+                                                    :src: 'http://image4.homes.jp/smallimg/image.php?file=/build/housing_reform/htdocs_img/iezukuri_images/construction_case/55_5869_0.original.jpg&width=68&height=68'
                                             - :name: 'p'
                                               :attributes:
                                                 :class:
@@ -1469,6 +1469,31 @@
                                       :children:
                                         - :name: 'a'
                                           :attributes:
+                                            :href: '/iezukuri/special/mutenkahouse/'
+                                          :children:
+                                            - :name: 'p'
+                                              :attributes:
+                                                :class:
+                                                  - img
+                                              :children:
+                                                - :name: 'img'
+                                                  :attributes:
+                                                    :alt: '施工会社：無添加住宅'
+                                                    :height: '60'
+                                                    :src: '/iezukuri/img/default/page/index/feature/img_feature_mutenka.jpg'
+                                                    :width: '60'
+                                            - :name: 'p'
+                                              :attributes:
+                                                :class:
+                                                  - explain
+                                            - :name: 'p'
+                                              :attributes:
+                                                :class:
+                                                  - makerName
+                                    - :name: 'li'
+                                      :children:
+                                        - :name: 'a'
+                                          :attributes:
                                             :href: '/iezukuri/mid-1588/feature/'
                                           :children:
                                             - :name: 'p'
@@ -1494,7 +1519,7 @@
                                       :children:
                                         - :name: 'a'
                                           :attributes:
-                                            :href: '/iezukuri/mid-217/feature/'
+                                            :href: '/iezukuri/special/omsolar/'
                                           :children:
                                             - :name: 'p'
                                               :attributes:
@@ -1503,9 +1528,9 @@
                                               :children:
                                                 - :name: 'img'
                                                   :attributes:
-                                                    :alt: '施工会社：アローズホーム'
+                                                    :alt: '施工会社：OMソーラー'
                                                     :height: '60'
-                                                    :src: '/iezukuri/img/default/page/index/feature/img_feature_arrows.jpg'
+                                                    :src: '/iezukuri/img/default/page/index/feature/img_feature_om.jpg'
                                                     :width: '60'
                                             - :name: 'p'
                                               :attributes:
@@ -1544,7 +1569,7 @@
                                       :children:
                                         - :name: 'a'
                                           :attributes:
-                                            :href: '/iezukuri/special/mutenkahouse/'
+                                            :href: '/iezukuri/mid-217/feature/'
                                           :children:
                                             - :name: 'p'
                                               :attributes:
@@ -1553,34 +1578,9 @@
                                               :children:
                                                 - :name: 'img'
                                                   :attributes:
-                                                    :alt: '施工会社：無添加住宅'
+                                                    :alt: '施工会社：アローズホーム'
                                                     :height: '60'
-                                                    :src: '/iezukuri/img/default/page/index/feature/img_feature_mutenka.jpg'
-                                                    :width: '60'
-                                            - :name: 'p'
-                                              :attributes:
-                                                :class:
-                                                  - explain
-                                            - :name: 'p'
-                                              :attributes:
-                                                :class:
-                                                  - makerName
-                                    - :name: 'li'
-                                      :children:
-                                        - :name: 'a'
-                                          :attributes:
-                                            :href: '/iezukuri/special/omsolar/'
-                                          :children:
-                                            - :name: 'p'
-                                              :attributes:
-                                                :class:
-                                                  - img
-                                              :children:
-                                                - :name: 'img'
-                                                  :attributes:
-                                                    :alt: '施工会社：OMソーラー'
-                                                    :height: '60'
-                                                    :src: '/iezukuri/img/default/page/index/feature/img_feature_om.jpg'
+                                                    :src: '/iezukuri/img/default/page/index/feature/img_feature_arrows.jpg'
                                                     :width: '60'
                                             - :name: 'p'
                                               :attributes:
@@ -2137,7 +2137,7 @@
                                   :children:
                                     - :name: 'a'
                                       :attributes:
-                                        :href: '/iezukuri/mid-2009/voice/vid-1579/'
+                                        :href: '/iezukuri/mid-4065/voice/vid-3729/'
                                     - :name: 'span'
                                       :attributes:
                                         :class:
@@ -2146,7 +2146,7 @@
                                   :children:
                                     - :name: 'a'
                                       :attributes:
-                                        :href: '/iezukuri/mid-2009/voice/vid-2991/'
+                                        :href: '/iezukuri/mid-2017/voice/vid-1588/'
                                     - :name: 'span'
                                       :attributes:
                                         :class:
@@ -2155,7 +2155,7 @@
                                   :children:
                                     - :name: 'a'
                                       :attributes:
-                                        :href: '/iezukuri/mid-8104/voice/vid-5706/'
+                                        :href: '/iezukuri/mid-8222/voice/vid-5786/'
                                     - :name: 'span'
                                       :attributes:
                                         :class:

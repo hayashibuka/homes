@@ -2678,7 +2678,7 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BSale_1161740004054
+                                                  - fav-marker-BSale_1078830006584
                                                   - bukken
                                                   - cMansion
                                                   - favorite
@@ -2691,7 +2691,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/mansion/b-1161740004054/'
+                                                        :href: 'https://www.homes.co.jp/mansion/b-1078830006584/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -2716,7 +2716,7 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image2.homes.jp/smallimg/image.php?file=%2Fdata%2F0116174%2Fsale%2Fimage%2F4054-2-2.jpg&width=120&height=120'
+                                                                    :data-src: 'http://image.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6584-2-1.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -2744,7 +2744,7 @@
                                             - :name: 'div'
                                               :attributes:
                                                 :class:
-                                                  - fav-marker-BSale_1161740004055
+                                                  - fav-marker-BSale_1078830006579
                                                   - bukken
                                                   - cMansion
                                                   - favorite
@@ -2757,7 +2757,7 @@
                                                   :children:
                                                     - :name: 'a'
                                                       :attributes:
-                                                        :href: 'https://www.homes.co.jp/mansion/b-1161740004055/'
+                                                        :href: 'https://www.homes.co.jp/mansion/b-1078830006579/'
                                                         :target: '_blank'
                                                       :children:
                                                         - :name: 'div'
@@ -2782,7 +2782,337 @@
                                                                 - :name: 'img'
                                                                   :attributes:
                                                                     :alt: ''
-                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=%2Fdata%2F0116174%2Fsale%2Fimage%2F4055-1-2.jpg&width=120&height=120'
+                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6579-2-1.jpg&width=120&height=120'
+                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - figcaption
+                                                              :children:
+                                                                - :name: 'span'
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - num
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                - :name: 'span'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - linkTxt
+                                                                      - mod-btn
+                                                                      - btn24
+                                                                  :children:
+                                                                    - :name: 'span'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - fav-marker-BSale_1078830006587
+                                                  - bukken
+                                                  - cMansion
+                                                  - favorite
+                                                  - slide
+                                              :children:
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - mod-slideBukken
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: 'https://www.homes.co.jp/mansion/b-1078830006587/'
+                                                        :target: '_blank'
+                                                      :children:
+                                                        - :name: 'div'
+                                                          :attributes:
+                                                            :class:
+                                                              - figure
+                                                          :children:
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - photo
+                                                              :children:
+                                                                - :name: 'span'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - icon-bukkenType
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - bType
+                                                                - :name: 'img'
+                                                                  :attributes:
+                                                                    :alt: ''
+                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6587-2-1.jpg&width=120&height=120'
+                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - figcaption
+                                                              :children:
+                                                                - :name: 'span'
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - num
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                - :name: 'span'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - linkTxt
+                                                                      - mod-btn
+                                                                      - btn24
+                                                                  :children:
+                                                                    - :name: 'span'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - fav-marker-BSale_1078830006585
+                                                  - bukken
+                                                  - cMansion
+                                                  - favorite
+                                                  - slide
+                                              :children:
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - mod-slideBukken
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: 'https://www.homes.co.jp/mansion/b-1078830006585/'
+                                                        :target: '_blank'
+                                                      :children:
+                                                        - :name: 'div'
+                                                          :attributes:
+                                                            :class:
+                                                              - figure
+                                                          :children:
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - photo
+                                                              :children:
+                                                                - :name: 'span'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - icon-bukkenType
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - bType
+                                                                - :name: 'img'
+                                                                  :attributes:
+                                                                    :alt: ''
+                                                                    :data-src: 'http://image4.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6585-1-2.jpg&width=120&height=120'
+                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - figcaption
+                                                              :children:
+                                                                - :name: 'span'
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - num
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                - :name: 'span'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - linkTxt
+                                                                      - mod-btn
+                                                                      - btn24
+                                                                  :children:
+                                                                    - :name: 'span'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - fav-marker-BSale_1078830006580
+                                                  - bukken
+                                                  - cMansion
+                                                  - favorite
+                                                  - slide
+                                              :children:
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - mod-slideBukken
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: 'https://www.homes.co.jp/mansion/b-1078830006580/'
+                                                        :target: '_blank'
+                                                      :children:
+                                                        - :name: 'div'
+                                                          :attributes:
+                                                            :class:
+                                                              - figure
+                                                          :children:
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - photo
+                                                              :children:
+                                                                - :name: 'span'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - icon-bukkenType
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - bType
+                                                                - :name: 'img'
+                                                                  :attributes:
+                                                                    :alt: ''
+                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6580-2-1.jpg&width=120&height=120'
+                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - figcaption
+                                                              :children:
+                                                                - :name: 'span'
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - num
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                - :name: 'span'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - linkTxt
+                                                                      - mod-btn
+                                                                      - btn24
+                                                                  :children:
+                                                                    - :name: 'span'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - fav-marker-BSale_1078830006583
+                                                  - bukken
+                                                  - cMansion
+                                                  - favorite
+                                                  - slide
+                                              :children:
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - mod-slideBukken
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: 'https://www.homes.co.jp/mansion/b-1078830006583/'
+                                                        :target: '_blank'
+                                                      :children:
+                                                        - :name: 'div'
+                                                          :attributes:
+                                                            :class:
+                                                              - figure
+                                                          :children:
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - photo
+                                                              :children:
+                                                                - :name: 'span'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - icon-bukkenType
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - bType
+                                                                - :name: 'img'
+                                                                  :attributes:
+                                                                    :alt: ''
+                                                                    :data-src: 'http://image3.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6583-2-1.jpg&width=120&height=120'
+                                                                    :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - figcaption
+                                                              :children:
+                                                                - :name: 'span'
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - num
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                    - :name: 'br'
+                                                                - :name: 'span'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - linkTxt
+                                                                      - mod-btn
+                                                                      - btn24
+                                                                  :children:
+                                                                    - :name: 'span'
+                                            - :name: 'div'
+                                              :attributes:
+                                                :class:
+                                                  - fav-marker-BSale_1078830006577
+                                                  - bukken
+                                                  - cMansion
+                                                  - favorite
+                                                  - slide
+                                              :children:
+                                                - :name: 'div'
+                                                  :attributes:
+                                                    :class:
+                                                      - mod-slideBukken
+                                                  :children:
+                                                    - :name: 'a'
+                                                      :attributes:
+                                                        :href: 'https://www.homes.co.jp/mansion/b-1078830006577/'
+                                                        :target: '_blank'
+                                                      :children:
+                                                        - :name: 'div'
+                                                          :attributes:
+                                                            :class:
+                                                              - figure
+                                                          :children:
+                                                            - :name: 'div'
+                                                              :attributes:
+                                                                :class:
+                                                                  - photo
+                                                              :children:
+                                                                - :name: 'span'
+                                                                  :attributes:
+                                                                    :class:
+                                                                      - icon-bukkenType
+                                                                  :children:
+                                                                    - :name: 'span'
+                                                                      :attributes:
+                                                                        :class:
+                                                                          - bType
+                                                                - :name: 'img'
+                                                                  :attributes:
+                                                                    :alt: ''
+                                                                    :data-src: 'http://image1.homes.jp/smallimg/image.php?file=%2Fdata%2F0107883%2Fsale%2Fimage%2F6577-2-1.jpg&width=120&height=120'
                                                                     :src: '/search/assets/img/default/common/utility/loading_24x24.gif'
                                                             - :name: 'div'
                                                               :attributes:
@@ -3211,102 +3541,102 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/chiba/inubo_07778-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/gunma/zen_07656-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/ibaraki/kashimaasahi_06985-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/gunma/morinjimae_04636-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/ibaraki/tsuchiura_00157-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/ibaraki/kitaurakohan_06988-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/tochigi/tajima_04729-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/tokyo/akebonobashi_06426-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/kanagawa/showa_00684-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/gunma/sendaira_07679-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/tochigi/kuroiso_00463-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/chiba/minamishisui_01940-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/tochigi/shintakatoku_04724-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/chiba/kitakogane_01043-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/ibaraki/toride_01048-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/saitama/himemiya_04627-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/kanagawa/mutsuainichidaimae_05038-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/ibaraki/shimotsuma_07637-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/gunma/kunisada_01182-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/kanagawa/hashimoto_00728-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/tokyo/shinseibijo_00077-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/chiba/daijingushita_04891-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/tokyo/otsukateikyodaigaku_09178-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/gunma/shinozuka_04738-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/kanagawa/nokendai_05167-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/gunma/gummaharamachi_00553-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/chiba/narashino_07720-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/saitama/sashiogi_00644-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/gunma/mitsumata_07646-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/chiba/chojamachi_01958-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/tochigi/kugeta_07005-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/saitama/fukiage_01139-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/ibaraki/kairakuen_09656-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/tochigi/kamiimaichi_04711-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/chiba/kamihongo_07738-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/chiba/junikyo_00220-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/tochigi/konoyama_01216-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/gunma/higashitomioka_07672-st/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/saitama/tozukaangyo_09710-st/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/tochigi/yamamae_01186-st/list/'
                             - :name: 'div'
                               :attributes:
                                 :class:
@@ -3324,42 +3654,27 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/gunma/tano_ueno-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/tochigi/shimotsuga_mibu-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/chiba/mobara-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/kanagawa/chigasaki-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/tokyo/hachioji-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/chiba/sodegaura-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/kanagawa/yokohama_minami-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/kanagawa/kawasaki_nakahara-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/saitama/koshigaya-city/list/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/gunma/agatsuma_takayama-city/list/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/kanagawa/yokohama_nishi-city/list/'
-                                        - :name: 'li'
-                                          :children:
-                                            - :name: 'a'
-                                              :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/kanagawa/sagamihara_midori-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/ibaraki/yuki_yachiyo-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
@@ -3369,57 +3684,72 @@
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/saitama/saitama_midori-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/kanagawa/kawasaki_saiwai-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/gunma/annaka-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/saitama/niiza-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/tokyo/arakawa-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/tokyo/ogasawara-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/chiba/sambu_yokoshibahikari-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/tochigi/nikko-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/tokyo/higashiyamato-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/saitama/koshigaya-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/saitama/iruma_miyoshi-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/tochigi/haga_motegi-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/tokyo/shinjuku-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/tokyo/minato-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/ibaraki/kasumigaura-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/chiba/yachiyo-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/gunma/kanra_shimonita-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/tochigi/yaita-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/saitama/hidaka-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/saitama/kodama_kamisato-city/list/'
                                         - :name: 'li'
                                           :children:
                                             - :name: 'a'
                                               :attributes:
-                                                :href: 'http://www.homes.co.jp/mansion/chuko/saitama/kitakatsushika_sugito-city/list/'
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/tochigi/nasukarasuyama-city/list/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/kanagawa/yokosuka-city/list/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/tokyo/musashino-city/list/'
+                                        - :name: 'li'
+                                          :children:
+                                            - :name: 'a'
+                                              :attributes:
+                                                :href: 'http://www.homes.co.jp/mansion/chuko/tokyo/inagi-city/list/'
                     - :name: 'div'
                       :attributes:
                         :class:
