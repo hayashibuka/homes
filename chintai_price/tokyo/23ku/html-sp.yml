@@ -1,597 +1,658 @@
-- :name: 'html'
+---
+:name: html
+:attributes:
+  :lang: ja
+:children:
+- :name: head
+  :count: 1
   :attributes:
-    :lang: 'ja'
+    :prefix: 'og: http://ogp.me/ns#'
   :children:
-    - :name: 'head'
+  - :name: meta
+    :count: 1
+    :attributes:
+      :charset: utf-8
+  - :name: meta
+    :count: 1
+    :attributes:
+      :content: width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1
+      :name: viewport
+  - :name: meta
+    :count: 1
+    :attributes:
+      :content: HOME'S
+      :name: apple-mobile-web-app-title
+  - :name: meta
+    :count: 1
+    :attributes:
+      :content: telephone=no
+      :name: format-detection
+  - :name: title
+    :count: 1
+  - :name: link
+    :count: 1
+    :attributes:
+      :rel: apple-touch-icon
+  - :name: link
+    :count: 1
+    :attributes:
+      :rel: canonical
+  - :name: link
+    :count: 1
+    :attributes:
+      :rel: stylesheet
+      :type: text/css
+  - :name: link
+    :count: 1
+    :attributes:
+      :rel: stylesheet
+      :type: text/css
+  - :name: link
+    :count: 1
+    :attributes:
+      :rel: stylesheet
+      :type: text/css
+  - :name: script
+    :count: 1
+    :attributes:
+      :type: text/javascript
+  - :name: script
+    :count: 1
+    :attributes:
+      :type: text/javascript
+- :name: body
+  :count: 1
+  :children:
+  - :name: svg
+    :count: 1
+    :attributes:
+      :height: '0'
+      :style: 'position: absolute;'
+      :width: '0'
+      :xmlns: http://www.w3.org/2000/svg
+    :children:
+    - :name: symbol
+      :count: 1
       :attributes:
-        :prefix: 'og: http://ogp.me/ns#'
+        :id: history
+        :viewbox: 0 0 120 120
       :children:
-        - :name: 'meta'
+      - :name: g
+        :count: 1
+        :children:
+        - :name: path
+          :count: 1
           :attributes:
-            :charset: 'utf-8'
-        - :name: 'meta'
-          :attributes:
-            :content: 'width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1'
-            :name: 'viewport'
-        - :name: 'meta'
-          :attributes:
-            :content: 'HOME''S'
-            :name: 'apple-mobile-web-app-title'
-        - :name: 'meta'
-          :attributes:
-            :content: 'telephone=no'
-            :name: 'format-detection'
-        - :name: 'title'
-        - :name: 'link'
-          :attributes:
-            :href: '/apple-touch-icon.png'
-            :rel:
-              - apple-touch-icon
-        - :name: 'link'
-          :attributes:
-            :href: 'http://www.homes.co.jp/chintai/tokyo/23ku/price/'
-            :rel:
-              - canonical
-        - :name: 'link'
-          :attributes:
-            :href: '/smp/minifile/assets/css/a1691899e670f0c615ec6aaa67ea505e7b2dff74.css?v=f7f15107ca45983a49f644855728b59a5c98f8b6'
-            :rel:
-              - stylesheet
-            :type: 'text/css'
-        - :name: 'link'
-          :attributes:
-            :href: '/smp/minifile/assets/css/fb0bc6481fd1b3c33d895308bb7c37956d07d83d.css?v=f972c4a9fd86574875dad2f0f4df8f15ff9ab5dd'
-            :rel:
-              - stylesheet
-            :type: 'text/css'
-        - :name: 'link'
-          :attributes:
-            :href: '/smp/minifile/assets/css/765a877119cce1b008907703a223230cfadddc2c.css?v=a070bf2720163acb21c168f61adc821d84f99b35'
-            :rel:
-              - stylesheet
-            :type: 'text/css'
-        - :name: 'script'
-          :attributes:
-            :src: '/smp/minifile/assets/js/bf2d2e83e856d098b6508b507b51212571ba0e7a.js?v=e4e0336a5af0966857d13311453a4355e8afb78e'
-            :type: 'text/javascript'
-        - :name: 'script'
-          :attributes:
-            :src: '/smp/minifile/assets/js/4682223a1384122979e5c90ab7703564d54aa2d7.js?v=3488fac80ed1ff817b9b4dbb21cd80b8babf2f3d'
-            :type: 'text/javascript'
-    - :name: 'body'
+            :d: M59.7 21.4c21.8 0 39.6 17.8 39.6 39.6s-17.8 39.6-39.6 39.6-39.6-17.8-39.6-39.6c0-21.9
+              17.8-39.6 39.6-39.6m0-8.4c-26.5 0-48 21.5-48 48s21.5 48 48 48 48-21.5
+              48-48-21.4-48-48-48zM79.5 65.2h-24v-31.5c0-2.3 1.9-4.2 4.2-4.2 2.3 0
+              4.2 1.9 4.2 4.2v23.1h15.5c2.3 0 4.2 1.9 4.2 4.2s-1.8 4.2-4.1 4.2z
+    - :name: symbol
+      :count: 1
+      :attributes:
+        :id: favorite
+        :viewbox: 0 0 120 120
       :children:
-        - :name: 'svg'
+      - :name: g
+        :count: 1
+        :children:
+        - :name: path
+          :count: 1
           :attributes:
-            :height: '0'
-            :style: 'position: absolute;'
-            :width: '0'
-            :xmlns: 'http://www.w3.org/2000/svg'
+            :d: M59.4 18l7.4 14.9c3.1 6.3 10.5 11.7 17.5 12.7l16.5 2.4-12 11.6c-5.1
+              4.9-7.9 13.6-6.7 20.6l2.9 16.4-14.7-7.7c-3.9-2-8-2.5-10.8-2.5-2.8 0-6.9.4-10.8
+              2.5l-14.7 7.7 2.8-16.4c1.2-7-1.6-15.6-6.7-20.6l-12-11.6 16.5-2.4c7-1
+              14.4-6.4 17.5-12.7l7.3-14.9m0-14.9c-1.3 0-2.5 1-3.5 2.9l-11.4 23.2c-1.9
+              3.8-6.9 7.5-11.2 8.1l-25.5 3.7c-4.2.6-5.2 3.6-2.1 6.6l18.5 18c3.1 3
+              5 8.9 4.3 13.1l-4.4 25.5c-.5 3.1.6 4.9 2.8 4.9.8 0 1.8-.3 2.8-.8l22.9-12c1.9-1
+              4.4-1.5 6.9-1.5s5 .5 6.9 1.5l22.9 12c1 .5 2 .8 2.8.8 2.1 0 3.3-1.8 2.8-4.9l-4.4-25.5c-.7-4.2
+              1.2-10.1 4.3-13.1l18.5-18c3.1-3 2.1-5.9-2.1-6.6l-25.6-3.7c-4.2-.6-9.3-4.3-11.2-8.1l-11.5-23.2c-1-1.9-2.2-2.9-3.5-2.9z
+    - :name: symbol
+      :count: 1
+      :attributes:
+        :id: saved_condition
+        :viewbox: 0 0 120 120
+      :children:
+      - :name: g
+        :count: 1
+        :children:
+        - :name: path
+          :count: 1
+          :attributes:
+            :d: M78.1 62.9h-37.2c-2.3 0-4.2-1.9-4.2-4.2s1.9-4.2 4.2-4.2h37.1c2.3 0
+              4.2 1.9 4.2 4.2s-1.8 4.2-4.1 4.2zM78.1 42.4h-37.2c-2.3 0-4.2-1.9-4.2-4.2s1.9-4.2
+              4.2-4.2h37.1c2.3 0 4.2 1.9 4.2 4.2s-1.8 4.2-4.1 4.2zM93.1 19.7v46.9c0
+              2.3-1.6 6.8-3 8.6l-16.8 20.7c-1.1 1.3-4.4 2.9-6.2 2.9h-41.2v-79.1h67.2m.6-8.4h-68.4c-4.3
+              0-7.8 3.5-7.8 7.8v80.4c0 4.3 3.5 7.8 7.8 7.8h41.9c4.3 0 10-2.7 12.7-6.1l16.7-20.7c2.7-3.3
+              4.9-9.6 4.9-13.9v-47.5c0-4.3-3.5-7.8-7.8-7.8z
+    - :name: symbol
+      :count: 1
+      :attributes:
+        :id: account
+        :viewbox: 0 0 120 120
+      :children:
+      - :name: g
+        :count: 1
+        :children:
+        - :name: path
+          :count: 1
+          :attributes:
+            :d: M97.2 110.8h-74.4c-3.4 0-6.4-1.4-8.2-3.9-1.8-2.5-2.2-5.8-1.2-9 2.7-8.4
+              12.7-24 31.4-25.4.2-1.3.2-2.8.1-3.7-.4-.4-.8-.8-1.2-1.1-4.5-4.2-7.4-7.5-10.3-21.3-1.9-9-1.4-21.6
+              5.6-30.1 4.8-5.9 12.1-9 21-9 9 0 16.2 3.1 21 9 6.9 8.5 7.4 21.1 5.6
+              30.1-2.9 13.9-5.8 17.1-10.3 21.3l-1.2 1.1c-.1.9-.1 2.4.1 3.7 18.7 1.4
+              28.6 17 31.4 25.4 1.1 3.2.6 6.5-1.2 9s-4.8 3.9-8.2 3.9zm-37.2-95.1c-6.5
+              0-11.3 2-14.5 5.9-5.1 6.3-5.3 16.3-3.8 23.1 2.5 12 4.5 13.8 7.8 16.9.6.6
+              1.2 1.2 1.9 1.8 3.3 3.3 1.8 11.8.9 14-1.3 3.1-3.7 3.4-4.6 3.4-19.4 0-25.9
+              18.9-26.2 19.7-.2.6-.2 1.2 0 1.5.2.3.7.4 1.4.4h74.3c.7 0 1.2-.2 1.4-.4.2-.3.2-.8
+              0-1.5-.3-.8-6.8-19.7-26.2-19.7-1 0-3.3-.3-4.6-3.4-.9-2.2-2.4-10.7.9-14
+              .7-.7 1.3-1.3 1.9-1.8 3.3-3.1 5.3-4.9 7.8-16.9 1.4-6.7 1.2-16.8-3.8-23.1-3.3-3.9-8.1-5.9-14.6-5.9z
+    - :name: symbol
+      :count: 1
+      :attributes:
+        :id: setting
+        :viewbox: 0 0 120 120
+      :children:
+      - :name: g
+        :count: 1
+        :children:
+        - :name: path
+          :count: 1
+          :attributes:
+            :d: M60 37.4c-11.4 0-20.6 9.2-20.6 20.6 0 11.4 9.2 20.6 20.6 20.6 11.4
+              0 20.6-9.2 20.6-20.6 0-11.4-9.2-20.6-20.6-20.6zm0 32.8c-6.7 0-12.2-5.5-12.2-12.2
+              0-6.7 5.5-12.2 12.2-12.2 6.7 0 12.2 5.5 12.2 12.2 0 6.7-5.5 12.2-12.2
+              12.2zM111.6 54.3h-10.5c-.8-8.6-4.2-16.5-9.4-22.8l7.4-7.4c.6-.6.4-2.3-1.3-4-1.6-1.6-3.3-1.9-4-1.3l-7.4
+              7.4c-6.3-5.2-14.1-8.7-22.8-9.4v-10.4c0-.9-1.4-1.9-3.7-1.9s-3.7 1-3.7
+              1.9v10.5c-8.6.8-16.5 4.2-22.8 9.4l-7.4-7.4c-.6-.6-2.3-.4-4 1.3-1.6 1.6-1.9
+              3.3-1.3 4l7.4 7.4c-5.2 6.3-8.7 14.1-9.4 22.8h-10.3c-.9 0-1.9 1.4-1.9
+              3.7s1 3.7 1.9 3.7h10.5c.8 8.6 4.2 16.5 9.4 22.8l-7.4 7.4c-.6.6-.4 2.3
+              1.3 4 1.6 1.6 3.3 1.9 4 1.3l7.4-7.4c6.3 5.2 14.1 8.7 22.8 9.4v10.5c0
+              .9 1.4 1.9 3.7 1.9s3.7-1 3.7-1.9v-10.7c8.6-.8 16.5-4.2 22.8-9.4l7.4
+              7.4c.6.6 2.3.4 4-1.3 1.6-1.6 1.9-3.3 1.3-4l-7.4-7.4c5.2-6.3 8.7-14.1
+              9.4-22.8h10.5c.9 0 1.9-1.4 1.9-3.7s-1.2-3.6-2.1-3.6zm-51.6 36.6c-18.1
+              0-32.9-14.7-32.9-32.9s14.8-32.9 32.9-32.9 32.9 14.8 32.9 32.9-14.8 32.9-32.9
+              32.9z
+    - :name: symbol
+      :count: 1
+      :attributes:
+        :id: arrow3
+        :viewbox: 0 0 120 120
+      :children:
+      - :name: g
+        :count: 1
+        :children:
+        - :name: path
+          :count: 1
+          :attributes:
+            :d: M91 79.3c-1.9 1.9-4.9 1.9-6.8 0l-20.8-20.8c-1.9-1.9-4.9-1.9-6.8 0l-20.8
+              20.8c-1.9 1.9-4.9 1.9-6.8 0l-7.1-7.1c-1.9-1.9-1.9-4.9 0-6.8l34.7-34.7c1.9-1.9
+              4.9-1.9 6.8 0l34.7 34.7c1.9 1.9 1.9 4.9 0 6.8l-7.1 7.1z
+  - :name: div
+    :count: 1
+    :attributes:
+      :class: sec-header
+      :id: header
+    :children:
+    - :name: div
+      :count: 1
+      :attributes:
+        :class: 'mod-header '
+      :children:
+      - :name: div
+        :count: 1
+        :attributes:
+          :class: upper
+        :children:
+        - :name: p
+          :count: 1
+          :attributes:
+            :class: logo
           :children:
-            - :name: 'symbol'
+          - :name: a
+            :count: 1
+            :children:
+            - :name: img
+              :count: 1
               :attributes:
-                :id: 'history'
-                :viewbox: '0 0 120 120'
-              :children:
-                - :name: 'g'
-                  :children:
-                    - :name: 'path'
-                      :attributes:
-                        :d: 'M59.7 21.4c21.8 0 39.6 17.8 39.6 39.6s-17.8 39.6-39.6 39.6-39.6-17.8-39.6-39.6c0-21.9 17.8-39.6 39.6-39.6m0-8.4c-26.5 0-48 21.5-48 48s21.5 48 48 48 48-21.5 48-48-21.4-48-48-48zM79.5 65.2h-24v-31.5c0-2.3 1.9-4.2 4.2-4.2 2.3 0 4.2 1.9 4.2 4.2v23.1h15.5c2.3 0 4.2 1.9 4.2 4.2s-1.8 4.2-4.1 4.2z'
-            - :name: 'symbol'
-              :attributes:
-                :id: 'favorite'
-                :viewbox: '0 0 120 120'
-              :children:
-                - :name: 'g'
-                  :children:
-                    - :name: 'path'
-                      :attributes:
-                        :d: 'M59.4 18l7.4 14.9c3.1 6.3 10.5 11.7 17.5 12.7l16.5 2.4-12 11.6c-5.1 4.9-7.9 13.6-6.7 20.6l2.9 16.4-14.7-7.7c-3.9-2-8-2.5-10.8-2.5-2.8 0-6.9.4-10.8 2.5l-14.7 7.7 2.8-16.4c1.2-7-1.6-15.6-6.7-20.6l-12-11.6 16.5-2.4c7-1 14.4-6.4 17.5-12.7l7.3-14.9m0-14.9c-1.3 0-2.5 1-3.5 2.9l-11.4 23.2c-1.9 3.8-6.9 7.5-11.2 8.1l-25.5 3.7c-4.2.6-5.2 3.6-2.1 6.6l18.5 18c3.1 3 5 8.9 4.3 13.1l-4.4 25.5c-.5 3.1.6 4.9 2.8 4.9.8 0 1.8-.3 2.8-.8l22.9-12c1.9-1 4.4-1.5 6.9-1.5s5 .5 6.9 1.5l22.9 12c1 .5 2 .8 2.8.8 2.1 0 3.3-1.8 2.8-4.9l-4.4-25.5c-.7-4.2 1.2-10.1 4.3-13.1l18.5-18c3.1-3 2.1-5.9-2.1-6.6l-25.6-3.7c-4.2-.6-9.3-4.3-11.2-8.1l-11.5-23.2c-1-1.9-2.2-2.9-3.5-2.9z'
-            - :name: 'symbol'
-              :attributes:
-                :id: 'saved_condition'
-                :viewbox: '0 0 120 120'
-              :children:
-                - :name: 'g'
-                  :children:
-                    - :name: 'path'
-                      :attributes:
-                        :d: 'M78.1 62.9h-37.2c-2.3 0-4.2-1.9-4.2-4.2s1.9-4.2 4.2-4.2h37.1c2.3 0 4.2 1.9 4.2 4.2s-1.8 4.2-4.1 4.2zM78.1 42.4h-37.2c-2.3 0-4.2-1.9-4.2-4.2s1.9-4.2 4.2-4.2h37.1c2.3 0 4.2 1.9 4.2 4.2s-1.8 4.2-4.1 4.2zM93.1 19.7v46.9c0 2.3-1.6 6.8-3 8.6l-16.8 20.7c-1.1 1.3-4.4 2.9-6.2 2.9h-41.2v-79.1h67.2m.6-8.4h-68.4c-4.3 0-7.8 3.5-7.8 7.8v80.4c0 4.3 3.5 7.8 7.8 7.8h41.9c4.3 0 10-2.7 12.7-6.1l16.7-20.7c2.7-3.3 4.9-9.6 4.9-13.9v-47.5c0-4.3-3.5-7.8-7.8-7.8z'
-            - :name: 'symbol'
-              :attributes:
-                :id: 'account'
-                :viewbox: '0 0 120 120'
-              :children:
-                - :name: 'g'
-                  :children:
-                    - :name: 'path'
-                      :attributes:
-                        :d: 'M97.2 110.8h-74.4c-3.4 0-6.4-1.4-8.2-3.9-1.8-2.5-2.2-5.8-1.2-9 2.7-8.4 12.7-24 31.4-25.4.2-1.3.2-2.8.1-3.7-.4-.4-.8-.8-1.2-1.1-4.5-4.2-7.4-7.5-10.3-21.3-1.9-9-1.4-21.6 5.6-30.1 4.8-5.9 12.1-9 21-9 9 0 16.2 3.1 21 9 6.9 8.5 7.4 21.1 5.6 30.1-2.9 13.9-5.8 17.1-10.3 21.3l-1.2 1.1c-.1.9-.1 2.4.1 3.7 18.7 1.4 28.6 17 31.4 25.4 1.1 3.2.6 6.5-1.2 9s-4.8 3.9-8.2 3.9zm-37.2-95.1c-6.5 0-11.3 2-14.5 5.9-5.1 6.3-5.3 16.3-3.8 23.1 2.5 12 4.5 13.8 7.8 16.9.6.6 1.2 1.2 1.9 1.8 3.3 3.3 1.8 11.8.9 14-1.3 3.1-3.7 3.4-4.6 3.4-19.4 0-25.9 18.9-26.2 19.7-.2.6-.2 1.2 0 1.5.2.3.7.4 1.4.4h74.3c.7 0 1.2-.2 1.4-.4.2-.3.2-.8 0-1.5-.3-.8-6.8-19.7-26.2-19.7-1 0-3.3-.3-4.6-3.4-.9-2.2-2.4-10.7.9-14 .7-.7 1.3-1.3 1.9-1.8 3.3-3.1 5.3-4.9 7.8-16.9 1.4-6.7 1.2-16.8-3.8-23.1-3.3-3.9-8.1-5.9-14.6-5.9z'
-            - :name: 'symbol'
-              :attributes:
-                :id: 'setting'
-                :viewbox: '0 0 120 120'
-              :children:
-                - :name: 'g'
-                  :children:
-                    - :name: 'path'
-                      :attributes:
-                        :d: 'M60 37.4c-11.4 0-20.6 9.2-20.6 20.6 0 11.4 9.2 20.6 20.6 20.6 11.4 0 20.6-9.2 20.6-20.6 0-11.4-9.2-20.6-20.6-20.6zm0 32.8c-6.7 0-12.2-5.5-12.2-12.2 0-6.7 5.5-12.2 12.2-12.2 6.7 0 12.2 5.5 12.2 12.2 0 6.7-5.5 12.2-12.2 12.2zM111.6 54.3h-10.5c-.8-8.6-4.2-16.5-9.4-22.8l7.4-7.4c.6-.6.4-2.3-1.3-4-1.6-1.6-3.3-1.9-4-1.3l-7.4 7.4c-6.3-5.2-14.1-8.7-22.8-9.4v-10.4c0-.9-1.4-1.9-3.7-1.9s-3.7 1-3.7 1.9v10.5c-8.6.8-16.5 4.2-22.8 9.4l-7.4-7.4c-.6-.6-2.3-.4-4 1.3-1.6 1.6-1.9 3.3-1.3 4l7.4 7.4c-5.2 6.3-8.7 14.1-9.4 22.8h-10.3c-.9 0-1.9 1.4-1.9 3.7s1 3.7 1.9 3.7h10.5c.8 8.6 4.2 16.5 9.4 22.8l-7.4 7.4c-.6.6-.4 2.3 1.3 4 1.6 1.6 3.3 1.9 4 1.3l7.4-7.4c6.3 5.2 14.1 8.7 22.8 9.4v10.5c0 .9 1.4 1.9 3.7 1.9s3.7-1 3.7-1.9v-10.7c8.6-.8 16.5-4.2 22.8-9.4l7.4 7.4c.6.6 2.3.4 4-1.3 1.6-1.6 1.9-3.3 1.3-4l-7.4-7.4c5.2-6.3 8.7-14.1 9.4-22.8h10.5c.9 0 1.9-1.4 1.9-3.7s-1.2-3.6-2.1-3.6zm-51.6 36.6c-18.1 0-32.9-14.7-32.9-32.9s14.8-32.9 32.9-32.9 32.9 14.8 32.9 32.9-14.8 32.9-32.9 32.9z'
-            - :name: 'symbol'
-              :attributes:
-                :id: 'arrow3'
-                :viewbox: '0 0 120 120'
-              :children:
-                - :name: 'g'
-                  :children:
-                    - :name: 'path'
-                      :attributes:
-                        :d: 'M91 79.3c-1.9 1.9-4.9 1.9-6.8 0l-20.8-20.8c-1.9-1.9-4.9-1.9-6.8 0l-20.8 20.8c-1.9 1.9-4.9 1.9-6.8 0l-7.1-7.1c-1.9-1.9-1.9-4.9 0-6.8l34.7-34.7c1.9-1.9 4.9-1.9 6.8 0l34.7 34.7c1.9 1.9 1.9 4.9 0 6.8l-7.1 7.1z'
-        - :name: 'div'
+                :height: '40'
+        - :name: p
+          :count: 1
           :attributes:
-            :class:
-              - sec-header
-            :id: 'header'
+            :class: userName
           :children:
-            - :name: 'div'
-              :attributes:
-                :class:
-                  - mod-header
-                  - 
-              :children:
-                - :name: 'div'
-                  :attributes:
-                    :class:
-                      - upper
-                  :children:
-                    - :name: 'p'
-                      :attributes:
-                        :class:
-                          - logo
-                      :children:
-                        - :name: 'a'
-                          :attributes:
-                            :href: '/smp/'
-                          :children:
-                            - :name: 'img'
-                              :attributes:
-                                :alt: 'HOME''S'
-                                :height: '40'
-                                :src: '/smp/assets/img/smartphone/common/logo/homes.svg'
-                    - :name: 'p'
-                      :attributes:
-                        :class:
-                          - userName
-                      :children:
-                        - :name: 'span'
-                          :attributes:
-                            :class:
-                              - name
-                        - :name: 'span'
-                - :name: 'div'
-                  :attributes:
-                    :class:
-                      - identity
-                  :children:
-                    - :name: 'div'
-                      :attributes:
-                        :class:
-                          - personal
-                      :children:
-                        - :name: 'ul'
-                          :attributes:
-                            :class:
-                              - personalLog
-                          :children:
-                            - :name: 'li'
-                              :attributes:
-                                :class:
-                                  - history
-                              :children:
-                                - :name: 'a'
-                                  :attributes:
-                                    :href: '/smp/bukken-history/'
-                                  :children:
-                                    - :name: 'span'
-                                      :attributes:
-                                        :class:
-                                          - icon
-                                      :children:
-                                        - :name: 'span'
-                                          :attributes:
-                                            :class:
-                                              - ui-svg-icon
-                                          :children:
-                                            - :name: 'svg'
-                                              :attributes:
-                                                :height: '20'
-                                                :width: '20'
-                                              :children:
-                                                - :name: 'g'
-                                                  :children:
-                                                    - :name: 'use'
-                                                      :attributes:
-                                                        :fill: '#777'
-                                                        :xlink:href: '#history'
-                                    - :name: 'span'
-                                      :attributes:
-                                        :class:
-                                          - num
-                                    - :name: 'br'
-                            - :name: 'li'
-                              :attributes:
-                                :class:
-                                  - favorite
-                              :children:
-                                - :name: 'a'
-                                  :attributes:
-                                    :href: '/smp/favorite/'
-                                  :children:
-                                    - :name: 'span'
-                                      :attributes:
-                                        :class:
-                                          - icon
-                                      :children:
-                                        - :name: 'span'
-                                          :attributes:
-                                            :class:
-                                              - ui-svg-icon
-                                          :children:
-                                            - :name: 'svg'
-                                              :attributes:
-                                                :height: '20'
-                                                :width: '20'
-                                              :children:
-                                                - :name: 'g'
-                                                  :children:
-                                                    - :name: 'use'
-                                                      :attributes:
-                                                        :fill: '#777'
-                                                        :xlink:href: '#favorite'
-                                    - :name: 'span'
-                                      :attributes:
-                                        :class:
-                                          - num
-                                    - :name: 'br'
-                            - :name: 'li'
-                              :attributes:
-                                :class:
-                                  - condition
-                              :children:
-                                - :name: 'a'
-                                  :attributes:
-                                    :href: '/smp/conditions/'
-                                  :children:
-                                    - :name: 'span'
-                                      :attributes:
-                                        :class:
-                                          - icon
-                                      :children:
-                                        - :name: 'span'
-                                          :attributes:
-                                            :class:
-                                              - ui-svg-icon
-                                          :children:
-                                            - :name: 'svg'
-                                              :attributes:
-                                                :height: '20'
-                                                :width: '20'
-                                              :children:
-                                                - :name: 'g'
-                                                  :children:
-                                                    - :name: 'use'
-                                                      :attributes:
-                                                        :fill: '#777'
-                                                        :xlink:href: '#saved_condition'
-                                    - :name: 'span'
-                                      :attributes:
-                                        :class:
-                                          - num
-                                    - :name: 'br'
-                            - :name: 'li'
-                              :attributes:
-                                :class:
-                                  - account
-                              :children:
-                                - :name: 'a'
-                                  :attributes:
-                                    :href: 'https://www.homes.co.jp/account/'
-                                  :children:
-                                    - :name: 'span'
-                                      :attributes:
-                                        :class:
-                                          - icon
-                                      :children:
-                                        - :name: 'span'
-                                          :attributes:
-                                            :class:
-                                              - ui-svg-icon
-                                          :children:
-                                            - :name: 'svg'
-                                              :attributes:
-                                                :height: '20'
-                                                :width: '20'
-                                              :children:
-                                                - :name: 'g'
-                                                  :children:
-                                                    - :name: 'use'
-                                                      :attributes:
-                                                        :fill: '#777'
-                                                        :xlink:href: '#account'
-                                    - :name: 'br'
-        - :name: 'div'
+          - :name: span
+            :count: 1
+            :attributes:
+              :class: name
+          - :name: span
+            :count: 1
+      - :name: div
+        :count: 1
+        :attributes:
+          :class: identity
+        :children:
+        - :name: div
+          :count: 1
           :attributes:
-            :class:
-              - sec-contents
-            :id: 'contents'
+            :class: personal
           :children:
-            - :name: 'div'
+          - :name: ul
+            :count: 1
+            :attributes:
+              :class: personalLog
+            :children:
+            - :name: li
+              :count: 1
               :attributes:
-                :class:
-                  - sec-mainContents
+                :class: history
               :children:
-                - :name: 'div'
+              - :name: a
+                :count: 1
+                :children:
+                - :name: span
+                  :count: 1
                   :attributes:
-                    :class:
-                      - mod-priceHeader
+                    :class: icon
                   :children:
-                    - :name: 'h1'
+                  - :name: span
+                    :count: 1
+                    :attributes:
+                      :class: ui-svg-icon
+                    :children:
+                    - :name: svg
+                      :count: 1
                       :attributes:
-                        :class:
-                          - priceVisualTitle
+                        :height: '20'
+                        :width: '20'
                       :children:
-                        - :name: 'a'
+                      - :name: g
+                        :count: 1
+                        :children:
+                        - :name: use
+                          :count: 1
                           :attributes:
-                            :href: '/smp/chintai/price/'
-                          :children:
-                            - :name: 'img'
-                              :attributes:
-                                :alt: '家賃相場 - 気になる街の相場から物件を探そう！'
-                                :src: '/smp/assets/img/smartphone/page/price/title_visual_price.png'
-                                :width: '306'
-                    - :name: 'div'
-                      :attributes:
-                        :class:
-                          - priceDescription
-                      :children:
-                        - :name: 'p'
-                    - :name: 'h2'
-                      :attributes:
-                        :class:
-                          - priceHeading
-                          - ui-heading_bar_lv1
-                - :name: 'div'
+                            :fill: "#777"
+                            :xlink:href: "#history"
+                - :name: span
+                  :count: 1
                   :attributes:
-                    :class:
-                      - mod-areaPrefSelector
-                      - searchtype
-                    :id: 'prg-areaPrefSelector'
-                  :children:
-                    - :name: 'div'
-                      :attributes:
-                        :class:
-                          - searchTypeSelector
-                          - prg-searchTypeSelector
-                      :children:
-                        - :name: 'p'
-                          :attributes:
-                            :class:
-                              - lead
-                        - :name: 'ul'
-                          :attributes:
-                            :class:
-                              - searchTypeList
-                          :children:
-                            - :name: 'li'
-                              :attributes:
-                                :class:
-                                  - listItem
-                              :children:
-                                - :name: 'a'
-                                  :attributes:
-                                    :class:
-                                      - ui-btn
-                                      - ui-btn-item-left
-                                    :href: '/smp/chintai/tokyo/23ku-mcity/line/price/'
-                                  :children:
-                                    - :name: 'span'
-                                      :attributes:
-                                        :class:
-                                          - ui-btn-icon
-                                          - ui-fs26
-                                      :children:
-                                        - :name: 'span'
-                                          :attributes:
-                                            :class:
-                                              - ui-icon
-                                              - ui-icon-train
-                                    - :name: 'span'
-                                      :attributes:
-                                        :class:
-                                          - ui-btn-text
-                                          - ui-fs16
-                            - :name: 'li'
-                              :attributes:
-                                :class:
-                                  - listItem
-                              :children:
-                                - :name: 'a'
-                                  :attributes:
-                                    :class:
-                                      - ui-btn
-                                      - ui-btn-item-left
-                                    :href: '/smp/chintai/tokyo/23ku-mcity/city/price/'
-                                  :children:
-                                    - :name: 'span'
-                                      :attributes:
-                                        :class:
-                                          - ui-btn-icon
-                                          - ui-fs26
-                                      :children:
-                                        - :name: 'span'
-                                          :attributes:
-                                            :class:
-                                              - ui-icon
-                                              - ui-icon-map
-                                    - :name: 'span'
-                                      :attributes:
-                                        :class:
-                                          - ui-btn-text
-                                          - ui-fs16
-                - :name: 'p'
-                  :attributes:
-                    :class:
-                      - mod-backLink
-                  :children:
-                    - :name: 'a'
-                      :attributes:
-                        :href: '/smp/chintai/tokyo/price/'
-                      :children:
-                        - :name: 'span'
-                          :attributes:
-                            :class:
-                              - ui-icon
-                              - ui-icon-arrow_left
-            - :name: 'div'
+                    :class: num
+                - :name: br
+                  :count: 1
+            - :name: li
+              :count: 1
               :attributes:
-                :class:
-                  - sec-extraContents
-        - :name: 'div'
-          :attributes:
-            :class:
-              - sec-footer
-            :id: 'footer'
-          :children:
-            - :name: 'div'
-              :attributes:
-                :class:
-                  - mod-footer
+                :class: favorite
               :children:
-                - :name: 'div'
+              - :name: a
+                :count: 1
+                :children:
+                - :name: span
+                  :count: 1
                   :attributes:
-                    :class:
-                      - pagetop
+                    :class: icon
                   :children:
-                    - :name: 'a'
+                  - :name: span
+                    :count: 1
+                    :attributes:
+                      :class: ui-svg-icon
+                    :children:
+                    - :name: svg
+                      :count: 1
                       :attributes:
-                        :href: '#header'
+                        :height: '20'
+                        :width: '20'
                       :children:
-                        - :name: 'span'
+                      - :name: g
+                        :count: 1
+                        :children:
+                        - :name: use
+                          :count: 1
                           :attributes:
-                            :class:
-                              - ui-svg-icon
-                          :children:
-                            - :name: 'svg'
-                              :attributes:
-                                :height: '14'
-                                :width: '14'
-                              :children:
-                                - :name: 'g'
-                                  :children:
-                                    - :name: 'use'
-                                      :attributes:
-                                        :fill: '#0a0a0a'
-                                        :xlink:href: '#arrow3'
-                - :name: 'div'
+                            :fill: "#777"
+                            :xlink:href: "#favorite"
+                - :name: span
+                  :count: 1
                   :attributes:
-                    :class:
-                      - wrap
-                  :children:
-                    - :name: 'div'
-                      :attributes:
-                        :class:
-                          - nav-utility
-                      :children:
-                        - :name: 'ul'
-                          :children:
-                            - :name: 'li'
-                              :attributes:
-                                :class:
-                                  - about
-                              :children:
-                                - :name: 'a'
-                                  :attributes:
-                                    :href: 'http://www.homes.co.jp/about/concept/'
-                            - :name: 'li'
-                              :attributes:
-                                :class:
-                                  - kiyaku
-                              :children:
-                                - :name: 'a'
-                                  :attributes:
-                                    :href: 'http://www.homes.co.jp/kiyaku/'
-                            - :name: 'li'
-                              :attributes:
-                                :class:
-                                  - privacy
-                              :children:
-                                - :name: 'a'
-                                  :attributes:
-                                    :href: 'http://www.next-group.jp/privacy/'
-                                    :target: '_blank'
-                            - :name: 'li'
-                              :attributes:
-                                :class:
-                                  - company
-                              :children:
-                                - :name: 'a'
-                                  :attributes:
-                                    :href: 'http://www.next-group.jp/'
-                                    :target: '_blank'
-                            - :name: 'li'
-                              :attributes:
-                                :class:
-                                  - request
-                              :children:
-                                - :name: 'a'
-                                  :attributes:
-                                    :href: 'https://f.msgs.jp/webapp/form/13722_uhu_14/index.do'
-                                    :target: '_blank'
-                - :name: 'div'
-                  :attributes:
-                    :class:
-                      - companyIdentity
-                  :children:
-                    - :name: 'p'
-                      :attributes:
-                        :class:
-                          - logo
-                      :children:
-                        - :name: 'img'
-                          :attributes:
-                            :alt: '株式会社ネクスト'
-                            :height: '51'
-                            :src: '/smp/assets/img/smartphone/common/logo/next.png'
-                            :width: '149'
-                    - :name: 'p'
-                      :attributes:
-                        :class:
-                          - copyright
-        - :name: 'script'
-          :attributes:
-            :type: 'text/javascript'
-        - :name: 'script'
-          :attributes:
-            :id: 'tracker-googleTagParams'
-        - :name: 'script'
-          :attributes:
-            :id: 'tracker-dataLayer'
-            :type: 'text/javascript'
-        - :name: 'noscript'
-          :attributes:
-            :id: 'tracker-gtmNoScriptSp'
-          :children:
-            - :name: 'iframe'
+                    :class: num
+                - :name: br
+                  :count: 1
+            - :name: li
+              :count: 1
               :attributes:
-                :height: '0'
-                :src: '//www.googletagmanager.com/ns.html?id=GTM-MX8VT9'
-                :style: 'display:none;visibility:hidden'
-                :width: '0'
-        - :name: 'script'
+                :class: condition
+              :children:
+              - :name: a
+                :count: 1
+                :children:
+                - :name: span
+                  :count: 1
+                  :attributes:
+                    :class: icon
+                  :children:
+                  - :name: span
+                    :count: 1
+                    :attributes:
+                      :class: ui-svg-icon
+                    :children:
+                    - :name: svg
+                      :count: 1
+                      :attributes:
+                        :height: '20'
+                        :width: '20'
+                      :children:
+                      - :name: g
+                        :count: 1
+                        :children:
+                        - :name: use
+                          :count: 1
+                          :attributes:
+                            :fill: "#777"
+                            :xlink:href: "#saved_condition"
+                - :name: span
+                  :count: 1
+                  :attributes:
+                    :class: num
+                - :name: br
+                  :count: 1
+            - :name: li
+              :count: 1
+              :attributes:
+                :class: account
+              :children:
+              - :name: a
+                :count: 1
+                :children:
+                - :name: span
+                  :count: 1
+                  :attributes:
+                    :class: icon
+                  :children:
+                  - :name: span
+                    :count: 1
+                    :attributes:
+                      :class: ui-svg-icon
+                    :children:
+                    - :name: svg
+                      :count: 1
+                      :attributes:
+                        :height: '20'
+                        :width: '20'
+                      :children:
+                      - :name: g
+                        :count: 1
+                        :children:
+                        - :name: use
+                          :count: 1
+                          :attributes:
+                            :fill: "#777"
+                            :xlink:href: "#account"
+                - :name: br
+                  :count: 1
+  - :name: div
+    :count: 1
+    :attributes:
+      :class: sec-contents
+      :id: contents
+    :children:
+    - :name: div
+      :count: 1
+      :attributes:
+        :class: sec-mainContents
+      :children:
+      - :name: div
+        :count: 1
+        :attributes:
+          :class: mod-priceHeader
+        :children:
+        - :name: h1
+          :count: 1
           :attributes:
-            :id: 'tracker-gtmScriptSp'
-            :type: 'text/javascript'
-        - :name: 'script'
+            :class: priceVisualTitle
+          :children:
+          - :name: a
+            :count: 1
+            :children:
+            - :name: img
+              :count: 1
+              :attributes:
+                :width: '306'
+        - :name: div
+          :count: 1
           :attributes:
-            :id: 'tracker-tagknightSp'
-            :type: 'text/javascript'
+            :class: priceDescription
+          :children:
+          - :name: p
+            :count: 1
+        - :name: h2
+          :count: 1
+          :attributes:
+            :class: priceHeading ui-heading_bar_lv1
+      - :name: div
+        :count: 1
+        :attributes:
+          :class: mod-areaPrefSelector searchtype
+          :id: prg-areaPrefSelector
+        :children:
+        - :name: div
+          :count: 1
+          :attributes:
+            :class: searchTypeSelector prg-searchTypeSelector
+          :children:
+          - :name: p
+            :count: 1
+            :attributes:
+              :class: lead
+          - :name: ul
+            :count: 1
+            :attributes:
+              :class: searchTypeList
+            :children:
+            - :name: li
+              :count: 1
+              :attributes:
+                :class: listItem
+              :children:
+              - :name: a
+                :count: 1
+                :attributes:
+                  :class: ui-btn ui-btn-item-left
+                :children:
+                - :name: span
+                  :count: 1
+                  :attributes:
+                    :class: ui-btn-icon ui-fs26
+                  :children:
+                  - :name: span
+                    :count: 1
+                    :attributes:
+                      :class: ui-icon ui-icon-train
+                - :name: span
+                  :count: 1
+                  :attributes:
+                    :class: ui-btn-text ui-fs16
+            - :name: li
+              :count: 1
+              :attributes:
+                :class: listItem
+              :children:
+              - :name: a
+                :count: 1
+                :attributes:
+                  :class: ui-btn ui-btn-item-left
+                :children:
+                - :name: span
+                  :count: 1
+                  :attributes:
+                    :class: ui-btn-icon ui-fs26
+                  :children:
+                  - :name: span
+                    :count: 1
+                    :attributes:
+                      :class: ui-icon ui-icon-map
+                - :name: span
+                  :count: 1
+                  :attributes:
+                    :class: ui-btn-text ui-fs16
+      - :name: p
+        :count: 1
+        :attributes:
+          :class: mod-backLink
+        :children:
+        - :name: a
+          :count: 1
+          :children:
+          - :name: span
+            :count: 1
+            :attributes:
+              :class: ui-icon ui-icon-arrow_left
+    - :name: div
+      :count: 1
+      :attributes:
+        :class: sec-extraContents
+  - :name: div
+    :count: 1
+    :attributes:
+      :class: sec-footer
+      :id: footer
+    :children:
+    - :name: div
+      :count: 1
+      :attributes:
+        :class: mod-footer
+      :children:
+      - :name: div
+        :count: 1
+        :attributes:
+          :class: pagetop
+        :children:
+        - :name: a
+          :count: 1
+          :children:
+          - :name: span
+            :count: 1
+            :attributes:
+              :class: ui-svg-icon
+            :children:
+            - :name: svg
+              :count: 1
+              :attributes:
+                :height: '14'
+                :width: '14'
+              :children:
+              - :name: g
+                :count: 1
+                :children:
+                - :name: use
+                  :count: 1
+                  :attributes:
+                    :fill: "#0a0a0a"
+                    :xlink:href: "#arrow3"
+      - :name: div
+        :count: 1
+        :attributes:
+          :class: wrap
+        :children:
+        - :name: div
+          :count: 1
+          :attributes:
+            :class: nav-utility
+          :children:
+          - :name: ul
+            :count: 1
+            :children:
+            - :name: li
+              :count: 1
+              :attributes:
+                :class: about
+              :children:
+              - :name: a
+                :count: 1
+            - :name: li
+              :count: 1
+              :attributes:
+                :class: kiyaku
+              :children:
+              - :name: a
+                :count: 1
+            - :name: li
+              :count: 1
+              :attributes:
+                :class: privacy
+              :children:
+              - :name: a
+                :count: 1
+                :attributes:
+                  :target: _blank
+            - :name: li
+              :count: 1
+              :attributes:
+                :class: company
+              :children:
+              - :name: a
+                :count: 1
+                :attributes:
+                  :target: _blank
+            - :name: li
+              :count: 1
+              :attributes:
+                :class: request
+              :children:
+              - :name: a
+                :count: 1
+                :attributes:
+                  :target: _blank
+      - :name: div
+        :count: 1
+        :attributes:
+          :class: companyIdentity
+        :children:
+        - :name: p
+          :count: 1
+          :attributes:
+            :class: logo
+          :children:
+          - :name: img
+            :count: 1
+            :attributes:
+              :height: '51'
+              :width: '149'
+        - :name: p
+          :count: 1
+          :attributes:
+            :class: copyright
+  - :name: script
+    :count: 1
+    :attributes:
+      :type: text/javascript
+  - :name: script
+    :count: 1
+    :attributes:
+      :id: tracker-googleTagParams
+  - :name: script
+    :count: 1
+    :attributes:
+      :id: tracker-dataLayer
+      :type: text/javascript
+  - :name: noscript
+    :count: 1
+    :attributes:
+      :id: tracker-gtmNoScriptSp
+    :children:
+    - :name: iframe
+      :count: 1
+      :attributes:
+        :height: '0'
+        :style: display:none;visibility:hidden
+        :width: '0'
+  - :name: script
+    :count: 1
+    :attributes:
+      :id: tracker-gtmScriptSp
+      :type: text/javascript
+  - :name: script
+    :count: 1
+    :attributes:
+      :id: tracker-tagknightSp
+      :type: text/javascript
