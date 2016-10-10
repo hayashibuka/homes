@@ -1,0 +1,202 @@
+{"url"=>"http://www.homes.co.jp/reform/tokyo/23ku/", "user-agent"=>"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13F69 Safari/601.1"}
+---
+:name: html
+:attributes:
+  :lang: ja
+:children:
+- :name: head
+  :count: 1
+  :children:
+  - :name: meta
+    :count: 2
+    :attributes:
+      :content: IE=Edge
+      :http-equiv: X-UA-Compatible
+  - :name: meta
+    :count: 1
+    :attributes:
+      :charset: utf-8
+  - :name: meta
+    :count: 3
+    :attributes:
+      :content: width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1
+      :name: viewport
+  - :name: title
+    :count: 1
+  - :name: link
+    :count: 2
+    :attributes:
+      :rel: stylesheet
+      :type: text/css
+  - :name: script
+    :count: 2
+    :attributes:
+      :type: text/javascript
+  - :name: link
+    :count: 2
+    :attributes:
+      :rel: shortcut icon
+- :name: body
+  :count: 1
+  :children:
+  - :name: noscript
+    :count: 4
+    :children:
+    - :name: div
+      :count: 1
+      :attributes:
+        :class: mod-alertMsgBox
+      :children:
+      - :name: p
+        :count: 1
+  - :name: div
+    :count: 2
+    :attributes:
+      :class: sec-header
+      :id: header
+    :children:
+    - :name: div
+      :count: 1
+      :attributes:
+        :class: 'mod-header '
+      :children:
+      - :name: div
+        :count: 1
+        :attributes:
+          :class: upper
+        :children:
+        - :name: p
+          :count: 1
+          :attributes:
+            :class: logo
+          :children:
+          - :name: a
+            :count: 1
+            :children:
+            - :name: img
+              :count: 1
+              :attributes:
+                :height: '41'
+                :width: '110'
+        - :name: ul
+          :count: 1
+          :children:
+          - :name: li
+            :count: 2
+            :attributes:
+              :class: top
+            :children:
+            - :name: a
+              :count: 1
+              :attributes:
+                :class: ui-btn
+              :children:
+              - :name: span
+                :count: 1
+                :attributes:
+                  :class: ui-icon ui-icon-arrow_right
+  - :name: div
+    :count: 1
+    :attributes:
+      :id: contents
+    :children:
+    - :name: div
+      :count: 1
+      :attributes:
+        :class: sec-mainContents
+      :children:
+      - :name: h1
+        :count: 2
+        :attributes:
+          :class: ui-heading_bar_lv1 multipleLine
+      - :name: div
+        :count: 7
+        :attributes:
+          :class: mod-appealHeader
+        :children:
+        - :name: div
+          :count: 1
+          :attributes:
+            :class: header
+          :children:
+          - :name: p
+            :count: 1
+            :attributes:
+              :class: message
+            :children:
+            - :name: strong
+              :count: 2
+            - :name: br
+              :count: 2
+            - :name: span
+              :count: 1
+              :attributes:
+                :class: subtext
+          - :name: ol
+            :count: 1
+            :attributes:
+              :class: step
+            :children:
+            - :name: li
+              :count: 3
+        - :name: ul
+          :count: 1
+          :attributes:
+            :class: pageNavi
+          :children:
+          - :name: li
+            :count: 2
+            :children:
+            - :name: span
+              :count: 1
+              :attributes:
+                :class: icon
+            - :name: a
+              :count: 1
+              :attributes:
+                :class: prg-fancybox
+      - :name: h2
+        :count: 1
+        :attributes:
+          :class: ui-heading_bar_lv1
+      - :name: p
+        :count: 1
+        :attributes:
+          :class: ui-heading_bar_lv2
+  - :name: div
+    :count: 3
+    :attributes:
+      :class: mod-inquireButtonArea isFixed
+      :id: prg-inquireButtonArea
+    :children:
+    - :name: p
+      :count: 1
+      :attributes:
+        :class: caption
+    - :name: div
+      :count: 1
+      :attributes:
+        :class: boxWrap
+      :children:
+      - :name: div
+        :count: 2
+        :attributes:
+          :class: buttonBox
+        :children:
+        - :name: a
+          :count: 1
+          :attributes:
+            :class: ui-btn ui-btn-primary-ocean
+          :children:
+          - :name: span
+            :count: 3
+            :attributes:
+              :class: ui-fs10
+          - :name: br
+            :count: 2
+  - :name: script
+    :count: 2
+  - :name: script
+    :count: 2
+    :attributes:
+      :type: text/javascript

@@ -1,0 +1,169 @@
+{"url"=>"http://www.homes.co.jp/reform/tokyo/23ku/", "user-agent"=>"crawler"}
+---
+:name: html
+:attributes:
+  :lang: ja
+:children:
+- :name: head
+  :count: 1
+  :children:
+  - :name: meta
+    :count: 2
+    :attributes:
+      :content: IE=Edge
+      :http-equiv: X-UA-Compatible
+  - :name: meta
+    :count: 1
+    :attributes:
+      :charset: utf-8
+  - :name: meta
+    :count: 2
+    :attributes:
+      :content: width=980
+      :name: viewport
+  - :name: title
+    :count: 1
+  - :name: link
+    :count: 2
+    :attributes:
+      :rel: stylesheet
+      :type: text/css
+  - :name: script
+    :count: 2
+    :attributes:
+      :type: text/javascript
+  - :name: link
+    :count: 2
+    :attributes:
+      :rel: shortcut icon
+- :name: body
+  :count: 1
+  :children:
+  - :name: noscript
+    :count: 4
+    :children:
+    - :name: div
+      :count: 1
+      :attributes:
+        :class: mod-alertMsgBox
+      :children:
+      - :name: p
+        :count: 1
+  - :name: div
+    :count: 3
+    :attributes:
+      :id: header
+    :children:
+    - :name: h1
+      :count: 1
+    - :name: div
+      :count: 1
+      :attributes:
+        :class: global fixed
+        :id: top
+      :children:
+      - :name: div
+        :count: 1
+        :attributes:
+          :class: homesBar
+        :children:
+        - :name: p
+          :count: 1
+          :attributes:
+            :class: logo
+          :children:
+          - :name: a
+            :count: 1
+        - :name: div
+          :count: 1
+          :attributes:
+            :class: message
+          :children:
+          - :name: span
+            :count: 1
+            :attributes:
+              :class: copy
+        - :name: div
+          :count: 1
+          :attributes:
+            :class: nav-function
+            :id: prg-menuBar
+          :children:
+          - :name: ul
+            :count: 1
+            :attributes:
+              :class: nav
+            :children:
+            - :name: li
+              :count: 1
+              :attributes:
+                :class: call
+              :children:
+              - :name: a
+                :count: 1
+                :attributes:
+                  :class: active
+                  :target: _blank
+    - :name: div
+      :count: 2
+      :attributes:
+        :class: service
+      :children:
+      - :name: div
+        :count: 1
+        :attributes:
+          :class: serviceIdentity
+        :children:
+        - :name: p
+          :count: 1
+          :attributes:
+            :class: logo
+          :children:
+          - :name: a
+            :count: 1
+            :children:
+            - :name: img
+              :count: 1
+              :attributes:
+                :height: '68'
+                :width: '126'
+        - :name: div
+          :count: 1
+          :attributes:
+            :class: nav-category
+          :children:
+          - :name: dl
+            :count: 2
+            :attributes:
+              :class: category-sell
+            :children:
+            - :name: dt
+              :count: 1
+              :attributes:
+                :class: category-ttl
+            - :name: dd
+              :count: 2
+              :attributes:
+                :class: reform
+              :children:
+              - :name: a
+                :count: 1
+  - :name: div
+    :count: 2
+    :attributes:
+      :class: mod-serviceFlow ui-modal
+      :id: prg-serviceFlowModule
+    :children:
+    - :name: div
+      :count: 2
+      :attributes:
+        :class: header
+      :children:
+      - :name: h2
+        :count: 1
+  - :name: script
+    :count: 2
+  - :name: script
+    :count: 2
+    :attributes:
+      :type: text/javascript
