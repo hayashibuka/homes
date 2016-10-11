@@ -98,28 +98,25 @@
         :class: sec-mainContents
       :children:
       - :name: div
-        :count: 4
+        :count: 5
         :attributes:
-          :class: mod-breadcrumbs
+          :class: mod-sideDisplay
         :children:
-        - :name: ul
-          :count: 1
+        - :name: p
+          :count: 2
+          :attributes:
+            :class: banner left
           :children:
-          - :name: li
-            :count: 2
+          - :name: a
+            :count: 1
             :attributes:
-              :itemscope: itemscope
-              :itemtype: http://data-vocabulary.org/Breadcrumb
+              :target: _blank
             :children:
-            - :name: a
+            - :name: img
               :count: 1
               :attributes:
-                :itemprop: url
-              :children:
-              - :name: span
-                :count: 1
-                :attributes:
-                  :itemprop: title
+                :height: '640'
+                :width: '160'
   - :name: div
     :count: 1
     :attributes:
