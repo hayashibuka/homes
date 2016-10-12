@@ -120,7 +120,7 @@
             :class: view
           :children:
           - :name: li
-            :count: 1
+            :count: 2
             :attributes:
               :class: prg-item
             :children:
@@ -128,10 +128,24 @@
               :count: 1
               :attributes:
                 :class: item
-                :target: _self
+                :target: _blank
               :children:
               - :name: img
                 :count: 1
+      - :name: p
+        :count: 2
+        :attributes:
+          :class: prev prg-prev
+        :children:
+        - :name: span
+          :count: 1
+          :attributes:
+            :class: icon
+          :children:
+          - :name: span
+            :count: 1
+            :attributes:
+              :class: ui-icon ui-icon-arrow_left
   - :name: div
     :count: 1
     :attributes:

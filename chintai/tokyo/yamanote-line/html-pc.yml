@@ -241,12 +241,217 @@
                 :attributes:
                   :class: arrow
       - :name: div
-        :count: 4
+        :count: 3
         :attributes:
-          :class: mod-pageCaption
+          :class: wrap-list ui-frame ui-frame-orange-bar
         :children:
-        - :name: p
+        - :name: div
           :count: 1
+          :attributes:
+            :class: mod-heading-ttl fitting
+          :children:
+          - :name: div
+            :count: 1
+            :attributes:
+              :class: heading
+            :children:
+            - :name: h2
+              :count: 1
+              :children:
+              - :name: span
+                :count: 4
+                :attributes:
+                  :class: key
+            - :name: p
+              :count: 1
+        - :name: form
+          :count: 1
+          :attributes:
+            :action: http://www.homes.co.jp/chintai/tokyo/yamanote-line/list/
+            :id: prg-flowform
+            :method: POST
+          :children:
+          - :name: div
+            :count: 4
+            :attributes:
+              :class: mod-checkList eki fitting
+            :children:
+            - :name: div
+              :count: 1
+              :attributes:
+                :class: hStep
+              :children:
+              - :name: h3
+                :count: 1
+                :attributes:
+                  :class: heading
+                :children:
+                - :name: span
+                  :count: 1
+                  :attributes:
+                    :class: step step1
+                - :name: span
+                  :count: 1
+            - :name: fieldset
+              :count: 1
+              :children:
+              - :name: legend
+                :count: 1
+                :children:
+                - :name: span
+                  :count: 1
+                  :children:
+                  - :name: label
+                    :count: 1
+                    :children:
+                    - :name: input
+                      :count: 1
+                      :attributes:
+                        :class: checkAll
+                        :type: checkbox
+                        :value: '0'
+                    - :name: span
+                      :count: 1
+                      :attributes:
+                        :class: num
+              - :name: div
+                :count: 1
+                :attributes:
+                  :class: prg-setBukkenCond
+                :children:
+                - :name: ul
+                  :count: 1
+                  :children:
+                  - :name: li
+                    :count: 29
+                    :children:
+                    - :name: label
+                      :count: 1
+                      :children:
+                      - :name: input
+                        :count: 1
+                        :attributes:
+                          :class: prg-flowchk
+                          :name: cond[roseneki][9100001]
+                          :type: checkbox
+                          :value: '9100001'
+                      - :name: span
+                        :count: 1
+                        :attributes:
+                          :class: num
+            - :name: p
+              :count: 1
+              :attributes:
+                :class: toTrainMap
+              :children:
+              - :name: a
+                :count: 1
+                :attributes:
+                  :class: arrow
+          - :name: div
+            :count: 1
+            :attributes:
+              :class: mod-checkCondition fitting nextStep prg-setBukkenCond
+              :id: prg-nextStep
+            :children:
+            - :name: div
+              :count: 1
+              :attributes:
+                :class: hStep
+              :children:
+              - :name: h3
+                :count: 1
+                :attributes:
+                  :class: heading
+                :children:
+                - :name: span
+                  :count: 1
+                  :attributes:
+                    :class: step step2
+              - :name: p
+                :count: 1
+                :attributes:
+                  :class: cntDisp
+                :children:
+                - :name: span
+                  :count: 1
+                  :attributes:
+                    :class: prg-totalNum num
+            - :name: div
+              :count: 1
+              :children:
+              - :name: table
+                :count: 1
+                :attributes:
+                  :class: prg-tblBasic01 vertical
+                :children:
+                - :name: tbody
+                  :count: 1
+                  :children:
+                  - :name: tr
+                    :count: 6
+                    :children:
+                    - :name: th
+                      :count: 1
+                    - :name: td
+                      :count: 1
+                      :children:
+                      - :name: select
+                        :count: 2
+                        :attributes:
+                          :name: cond[monthmoneyroom]
+                        :children:
+                        - :name: option
+                          :count: 1
+                          :attributes:
+                            :label: "下限なし"
+                            :selected: selected
+                            :value: '0'
+                        - :name: option
+                          :count: 28
+                          :attributes:
+                            :label: 3.0万円
+                            :value: '3.0'
+                      - :name: ul
+                        :count: 1
+                        :children:
+                        - :name: li
+                          :count: 3
+                          :children:
+                          - :name: label
+                            :count: 1
+                            :attributes:
+                              :for: money_room_combo
+                            :children:
+                            - :name: input
+                              :count: 1
+                              :attributes:
+                                :id: money_room_combo
+                                :name: cond[kanrihi]
+                                :type: checkbox
+                                :value: '1'
+            - :name: p
+              :count: 1
+              :attributes:
+                :class: cntDisp fitting
+              :children:
+              - :name: span
+                :count: 1
+                :attributes:
+                  :class: prg-totalNum num
+          - :name: input
+            :count: 3
+            :attributes:
+              :name: bukken_attr[category]
+              :type: hidden
+              :value: chintai
+        - :name: input
+          :count: 1
+          :attributes:
+            :id: totalhits
+            :name: totalhits
+            :type: hidden
+            :value: ''
   - :name: div
     :count: 2
     :attributes:
