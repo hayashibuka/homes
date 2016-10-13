@@ -44,9 +44,9 @@
       :xmlns: http://www.w3.org/2000/svg
     :children:
     - :name: symbol
-      :count: 8
+      :count: 6
       :attributes:
-        :id: agent3
+        :id: history
         :viewbox: 0 0 120 120
       :children:
       - :name: g
@@ -55,20 +55,12 @@
         - :name: path
           :count: 1
           :attributes:
-            :d: M59.4 59c13 0 23.6-10.5 23.6-23.6 0-13-10.6-23.6-23.6-23.6-13 0-23.6
-              10.6-23.6 23.6 0 13.1 10.6 23.6 23.6 23.6zM74.7 93.8c-2.5-5.6-2.6-11.8-.4-17.6
-              1.8-4.6 4.9-8.3 8.8-10.9-1.8-1.8-3.7-3.6-5.7-5-.5-.4-1.3-.3-1.8.1-.2.2-.4.4-.5.6l-8.3
-              18.3-3.2-12.6c-.2-.7-.9-1.2-1.6-1.1-1.7.2-3.5.2-5.2 0-.7-.1-1.4.4-1.6
-              1.1l-3.2 12.4-8.1-18c-.1-.2-.4-.5-.6-.7-.5-.4-1.2-.4-1.8-.1-11.3 7.9-18.8
-              22.3-20.2 38.7h-2.7c-2.3 0-4.2 1.9-4.2 4.2 0 2.3 1.9 4.2 4.2 4.2h50.4c.1-1.8.7-3.5
-              1.8-5l5-6.5c-.4-.7-.8-1.4-1.1-2.1zM101.8 68.7c-2-.8-4-1.1-6.1-1.1-7.1
-              0-13.3 4.3-15.8 10.8-1.6 4.2-1.5 8.8.3 13 .8 1.7 1.8 3.2 3.1 4.6l-7.7
-              10.1c-1 1.3-.7 3.2.6 4.2.5.4 1.2.6 1.8.6.9 0 1.8-.4 2.4-1.2l7.7-10.1c.5.3
-              1 .6 1.5.8 2 .8 4 1.1 6.1 1.1 7.1 0 13.3-4.3 15.8-10.8 3.4-8.7-.9-18.6-9.7-22zm4.1
-              19.8c-1.6 4.3-5.7 7-10.2 7-1.4 0-2.7-.2-4-.7-2.7-1.1-4.9-3.1-6.1-5.8-1.2-2.7-1.2-5.7-.2-8.4
-              1.6-4.3 5.7-7 10.2-7 1.4 0 2.7.2 4 .7 5.7 2.2 8.5 8.6 6.3 14.2z
-  - :name: header
-    :count: 1
+            :d: M59.7 21.4c21.8 0 39.6 17.8 39.6 39.6s-17.8 39.6-39.6 39.6-39.6-17.8-39.6-39.6c0-21.9
+              17.8-39.6 39.6-39.6m0-8.4c-26.5 0-48 21.5-48 48s21.5 48 48 48 48-21.5
+              48-48-21.4-48-48-48zM79.5 65.2h-24v-31.5c0-2.3 1.9-4.2 4.2-4.2 2.3 0
+              4.2 1.9 4.2 4.2v23.1h15.5c2.3 0 4.2 1.9 4.2 4.2s-1.8 4.2-4.1 4.2z
+  - :name: div
+    :count: 3
     :attributes:
       :class: sec-header
       :id: header
@@ -83,7 +75,7 @@
         :attributes:
           :class: upper
         :children:
-        - :name: h1
+        - :name: p
           :count: 1
           :attributes:
             :class: logo
@@ -93,198 +85,20 @@
             :attributes:
               :height: '41'
               :width: '110'
-        - :name: p
+        - :name: div
           :count: 1
           :attributes:
             :class: copy
           :children:
-          - :name: a
+          - :name: p
             :count: 1
             :attributes:
               :class: no1
-              :data-gtm-label: evaluation
-    - :name: div
-      :count: 1
-      :attributes:
-        :class: mod-eyeCatchingBanner
-        :id: prg-eyeCatchingBanner
-      :children:
-      - :name: div
-        :count: 1
-        :attributes:
-          :id: prg-sliderTopics
-        :children:
-        - :name: ul
-          :count: 1
-          :attributes:
-            :class: view
-          :children:
-          - :name: li
-            :count: 2
-            :attributes:
-              :class: prg-item
             :children:
-            - :name: a
-              :count: 1
+            - :name: span
+              :count: 3
               :attributes:
-                :class: item
-                :target: _blank
-              :children:
-              - :name: img
-                :count: 1
-      - :name: p
-        :count: 2
-        :attributes:
-          :class: prev prg-prev
-        :children:
-        - :name: span
-          :count: 1
-          :attributes:
-            :class: icon
-          :children:
-          - :name: span
-            :count: 1
-            :attributes:
-              :class: ui-icon ui-icon-arrow_left
-  - :name: div
-    :count: 1
-    :attributes:
-      :class: sec-contents
-      :id: contents
-    :children:
-    - :name: div
-      :count: 2
-      :attributes:
-        :class: sec-mainContents
-      :children:
-      - :name: div
-        :count: 2
-        :attributes:
-          :class: sec-fyi
-        :children:
-        - :name: div
-          :count: 1
-          :attributes:
-            :class: sec-announce
-          :children:
-          - :name: div
-            :count: 1
-            :attributes:
-              :class: mod-announce
-              :id: prg-announce
-            :children:
-            - :name: ul
-              :count: 1
-              :children:
-              - :name: li
-                :count: 1
-                :children:
-                - :name: div
-                  :count: 1
-                  :attributes:
-                    :class: 'item prg-item '
-                  :children:
-                  - :name: p
-                    :count: 1
-                    :attributes:
-                      :class: title prg-title
-                    :children:
-                    - :name: span
-                      :count: 3
-                      :attributes:
-                        :class: icon
-                      :children:
-                      - :name: span
-                        :count: 1
-                        :attributes:
-                          :class: ui-svg-icon
-                        :children:
-                        - :name: svg
-                          :count: 1
-                          :attributes:
-                            :height: '18'
-                            :width: '18'
-                          :children:
-                          - :name: g
-                            :count: 1
-                            :children:
-                            - :name: use
-                              :count: 1
-                              :attributes:
-                                :fill: "#626262"
-                                :xlink:href: "#exclamation"
-                  - :name: div
-                    :count: 1
-                    :attributes:
-                      :class: content
-                    :children:
-                    - :name: p
-                      :count: 3
-                      :attributes:
-                        :class: topic
-                    - :name: p
-                      :count: 3
-        - :name: section
-          :count: 1
-          :attributes:
-            :class: sec-lastCondition
-      - :name: section
-        :count: 11
-        :attributes:
-          :class: sec-realestateArticleTypeList
-        :children:
-        - :name: div
-          :count: 1
-          :attributes:
-            :class: mod-realestateArticleTypeList
-            :id: prg-realestateArticleTypeList
-          :children:
-          - :name: div
-            :count: 4
-            :attributes:
-              :class: rent groupType
-            :children:
-            - :name: div
-              :count: 2
-              :attributes:
-                :class: residence
-              :children:
-              - :name: h2
-                :count: 1
-                :attributes:
-                  :class: heading
-              - :name: div
-                :count: 1
-                :attributes:
-                  :class: category
-                :children:
-                - :name: a
-                  :count: 1
-                  :attributes:
-                    :class: item
-                    :data-gtm-label: rent_residence
-                  :children:
-                  - :name: p
-                    :count: 1
-                    :attributes:
-                      :class: thumb
-                    :children:
-                    - :name: img
-                      :count: 1
-                      :attributes:
-                        :height: '60'
-                        :width: '50'
-                  - :name: div
-                    :count: 1
-                    :attributes:
-                      :class: categoryLabel
-                    :children:
-                    - :name: span
-                      :count: 1
-                      :attributes:
-                        :class: rType
-                    - :name: br
-                      :count: 1
+                :class: label
   - :name: div
     :count: 1
     :attributes:
@@ -304,53 +118,6 @@
       :count: 4
       :attributes:
         :type: text/javascript
-  - :name: footer
-    :count: 1
-    :attributes:
-      :id: footer
-    :children:
-    - :name: div
-      :count: 2
-      :attributes:
-        :class: sec-pageTop
-      :children:
-      - :name: div
-        :count: 1
-        :attributes:
-          :class: mod-pageTop
-        :children:
-        - :name: p
-          :count: 1
-          :attributes:
-            :class: pagetop
-          :children:
-          - :name: a
-            :count: 1
-            :children:
-            - :name: span
-              :count: 2
-              :attributes:
-                :class: icon
-              :children:
-              - :name: span
-                :count: 1
-                :attributes:
-                  :class: ui-svg-icon
-                :children:
-                - :name: svg
-                  :count: 1
-                  :attributes:
-                    :height: '20'
-                    :width: '20'
-                  :children:
-                  - :name: g
-                    :count: 1
-                    :children:
-                    - :name: use
-                      :count: 1
-                      :attributes:
-                        :fill: "#626262"
-                        :xlink:href: "#arrow5"
   - :name: script
     :count: 2
     :attributes:
