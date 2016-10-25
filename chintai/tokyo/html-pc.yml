@@ -197,29 +197,9 @@
               :attributes:
                 :itemprop: title
           - :name: span
-            :count: 1
+            :count: 2
             :attributes:
               :class: arrow
-          - :name: span
-            :count: 1
-            :attributes:
-              :itemprop: child
-              :itemscope: ''
-              :itemtype: http://data-vocabulary.org/Breadcrumb
-            :children:
-            - :name: a
-              :count: 1
-              :attributes:
-                :itemprop: url
-              :children:
-              - :name: span
-                :count: 1
-                :attributes:
-                  :itemprop: title
-            - :name: span
-              :count: 2
-              :attributes:
-                :class: arrow
       - :name: div
         :count: 3
         :attributes:
