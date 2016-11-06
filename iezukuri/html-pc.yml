@@ -93,33 +93,33 @@
       :id: contents
     :children:
     - :name: div
-      :count: 3
+      :count: 2
       :attributes:
         :class: sec-mainContents
       :children:
       - :name: div
-        :count: 5
+        :count: 4
         :attributes:
-          :class: mod-sideDisplay
+          :class: mod-breadcrumbs
         :children:
-        - :name: p
-          :count: 2
-          :attributes:
-            :class: banner left
+        - :name: ul
+          :count: 1
           :children:
-          - :name: a
-            :count: 1
+          - :name: li
+            :count: 2
             :attributes:
-              :class: prg-ga-click
-              :data-ga-category: v5_pc_chumon:campaign_daiwa201610:exitlink_website
-              :data-ga-label: pc_sidejack_left
-              :target: _blank
+              :itemscope: itemscope
+              :itemtype: http://data-vocabulary.org/Breadcrumb
             :children:
-            - :name: img
+            - :name: a
               :count: 1
               :attributes:
-                :height: '640'
-                :width: '160'
+                :itemprop: url
+              :children:
+              - :name: span
+                :count: 1
+                :attributes:
+                  :itemprop: title
   - :name: div
     :count: 1
     :attributes:

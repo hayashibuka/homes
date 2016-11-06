@@ -56,36 +56,6 @@
               :attributes:
                 :height: '41'
                 :width: '110'
-  - :name: div
-    :count: 1
-    :attributes:
-      :class: mod-campaignBanner
-    :children:
-    - :name: p
-      :count: 1
-      :attributes:
-        :class: label
-    - :name: ul
-      :count: 1
-      :attributes:
-        :class: banner
-      :children:
-      - :name: li
-        :count: 1
-        :children:
-        - :name: a
-          :count: 1
-          :attributes:
-            :class: prg-ga-click
-            :data-ga-category: v5_sp_chumon:campaign_daiwa201610:exitlink_website
-            :data-ga-label: sp_footerbanner
-            :target: _blank
-          :children:
-          - :name: img
-            :count: 1
-            :attributes:
-              :height: '250'
-              :width: '306'
   - :name: script
     :count: 1
     :attributes:
